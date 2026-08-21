@@ -1,0 +1,414 @@
+=== URL: https://www.baslerweb.com/en-us/shop/imaflex-2-dual-100/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_00__en-us_shop_imaflex-2-dual-100_.html (928556 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 43개, 미리보기: ['Order Number', 'Design-In Sample', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)']
+    sample values: {'Order Number': '2200002331', 'Design-In Sample': 'now', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'imaFlex Programmable Frame Grabber'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/imaflex-cxp-12-quad/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_01__en-us_shop_imaflex-cxp-12-quad_.html (924184 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 46개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200002351', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'imaFlex Programmable Frame Grabber', 'Product Type': 'Processing'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/imaflex-cxp-12-penta/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_02__en-us_shop_imaflex-cxp-12-penta_.html (908449 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 45개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200001177', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'imaFlex Programmable Frame Grabber', 'Product Type': 'Processing'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/imaworx-cxp-12-quad/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_03__en-us_shop_imaworx-cxp-12-quad_.html (923472 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 45개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200000482', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'imaWorx Frame Grabber', 'Product Type': 'Acquisition'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-acx-sp/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_04__en-us_shop_microenable-5-marathon-acx-sp_.html (907555 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 47개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Last Time Buy', 'Last Time Service', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)']
+    sample values: {'Order Number': '2200000356', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Acquisition'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-acx-dp/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_05__en-us_shop_microenable-5-marathon-acx-dp_.html (876202 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 5개, 미리보기: ['Order Number', 'Type', 'Last Time Buy', 'Last Time Service', 'model']
+    sample values: {'Order Number': '2200000355', 'Type': 'Frame grabber', 'Last Time Buy': '12/31/2022', 'Last Time Service': '03/31/2025', 'model': 'microEnable 5 marathon ACX-DP'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 191
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 176개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-acx-qp/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_06__en-us_shop_microenable-5-marathon-acx-qp_.html (908049 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 45개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200000354', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Acquisition'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-vcx-qp/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_07__en-us_shop_microenable-5-marathon-vcx-qp_.html (909088 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 46개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200000357', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Processing'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-acl/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_08__en-us_shop_microenable-5-marathon-acl_.html (908533 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 45개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200000358', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Acquisition'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-vcl/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_09__en-us_shop_microenable-5-marathon-vcl_.html (920791 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 46개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'I/O Module Interfaces (Trigger and Sync)', 'Power via Interface (p. port)']
+    sample values: {'Order Number': '2200000359', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Processing'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+=== URL: https://www.baslerweb.com/en-us/shop/microenable-5-marathon-vclx/ ===
+status_code: 200
+saved html -> debug_output\basler_fg_hub\page_10__en-us_shop_microenable-5-marathon-vclx_.html (907574 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 40개, 미리보기: ['Order Number', 'Manufacturer', 'Type', 'Product Series', 'Product Type', 'Warranty', 'Processor', 'On-Board Memory', 'Power via Interface (p. port)', 'Acquisition Card Features']
+    sample values: {'Order Number': '2200000360', 'Manufacturer': 'Basler', 'Type': 'Frame grabber', 'Product Series': 'marathon Frame Grabber', 'Product Type': 'Processing'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 192
+  - https://www.baslerweb.com/en-us/
+  - https://www.baslerweb.com/en-us/products/
+  - https://www.baslerweb.com/en-us/cameras/
+  - https://www.baslerweb.com/en-us/cameras/#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=CoaXPress+(CXP-12)#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=GigE#products
+  - https://www.baslerweb.com/en-us/cameras/?interface=5GigE#products
+  - https://www.baslerweb.com/en-us/learning/usb-3-0-cameras/
+  - https://www.baslerweb.com/en-us/cameras/gmsl/
+  - https://www.baslerweb.com/en-us/cameras/ip67/
+  - https://www.baslerweb.com/en-us/cameras/area-scan-cameras/
+  - https://www.baslerweb.com/en-us/cameras/ace2/
+  - https://www.baslerweb.com/en-us/cameras/ace/
+  - https://www.baslerweb.com/en-us/cameras/med-ace/
+  - https://www.baslerweb.com/en-us/cameras/boost/
+  ... 외 177개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 6개
+  - /_nuxt/builds/meta/613a3e9f-e772-4ccf-acbc-2554814b0534.json
+  - /en-us/industry-applications/electronics-industry/battery-cell-production/
+  - /en-us/products/
+  - /en-us/products/compare
+  - /en-us/support/discontinued-products/
+  - /en-us/use-cases/semicon-inspection-tdi-camera/
+
+
+=== sitemap / robots 확인 ===
+
+[OK] https://www.baslerweb.com/robots.txt (status=200, len=1518)
+[OK] https://www.baslerweb.com/sitemap.xml (status=200, len=1730)
+     <loc> 개수: 22
+     - https://www.baslerweb.com/de-de/sitemap.xml
+     - https://www.baslerweb.com/de-de/products.xml
+     - https://www.baslerweb.com/en/sitemap.xml
+     - https://www.baslerweb.com/en/products.xml
+     - https://www.baslerweb.com/zh-cn/sitemap.xml
+     - https://www.baslerweb.com/zh-cn/products.xml
+     - https://www.baslerweb.com/fr-fr/sitemap.xml
+     - https://www.baslerweb.com/fr-fr/products.xml
+     - https://www.baslerweb.com/ko-kr/sitemap.xml
+     - https://www.baslerweb.com/ko-kr/products.xml
+     ... 외 12개
+[--] https://www.baslerweb.com/sitemap_index.xml (status=404)

@@ -1,0 +1,40 @@
+@import "./button.css";
+@import "./dropdown.css";
+@import "./input.css";
+@import "./tab.css";
+@import "./table.css";
+@import "./switch.css";
+@import "./subnav.css";
+
+.section {
+	border-radius: 24px;
+	border: 1px solid var(--theme-section-border);
+	background-color: var(--theme-section-bg);
+	padding: 1.5rem;
+	box-shadow: var(--theme-section-shadow);
+	backdrop-filter: blur(8px);
+	transition: background-color 240ms ease, border-color 240ms ease, box-shadow 240ms ease;
+}
+
+.route-fade-enter-active,
+.route-fade-leave-active,
+.content-fade-enter-active,
+.content-fade-leave-active {
+	transition: opacity 200ms ease, transform 200ms ease;
+}
+
+.route-fade-enter-from,
+.route-fade-leave-to,
+.content-fade-enter-from,
+.content-fade-leave-to {
+	opacity: 0;
+	transform: translateY(4px);
+}
+
+.route-fade-enter-to,
+.route-fade-leave-from,
+.content-fade-enter-to,
+.content-fade-leave-from {
+	opacity: 1;
+	transform: translateY(0);
+}

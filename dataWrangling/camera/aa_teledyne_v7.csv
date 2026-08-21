@@ -1,0 +1,537 @@
+﻿brand,model_name,camera_type,tdi,sensor_name,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,camera_mounting,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+Teledyne Dalsa,KL-GS-12H03H-00-L25,line,,,Teledyne,,,,0.327,1280.0,256.0,,,,,2.3,SWIR,,,,Built-in,10GigE,,,,InGaAs,2300,100,120,184
+Teledyne Dalsa,L2-GC-02K02B-00-A,line,,,Teledyne e2v,,,,,2048.0,2.0,14.0,,global,,25.0,Color,400.0,700.0,,M42x1,GigE,,,,CMOS,111,46,46,37
+Teledyne Dalsa,L2-GM-02K05B-00-A,line,,,Teledyne e2v,,,,,2048.0,2.0,14.0,,global,,50.0,Mono,400.0,700.0,,M42x1,GigE,,,,CMOS,111,46,46,37
+Teledyne Dalsa,L2-GC-04K01B-00-A,line,,,Teledyne e2v,,,,,4096.0,2.0,7.0,,global,,12.5,Color,400.0,700.0,,M42x1,GigE,,,,CMOS,111,46,46,37
+Teledyne Dalsa,L2-GM-04K02B-00-A,line,,,Teledyne e2v,,,,,4096.0,2.0,7.0,,global,,25.0,Mono,400.0,700.0,,M42x1,GigE,,,,CMOS,111,46,46,37
+Teledyne Dalsa,L2-GM-08K02S-00-A,line,,,Teledyne e2v,,,,,8192.0,1.0,3.5,,global,,25.0,Mono,400.0,700.0,,M42x1,GigE,,,,CMOS,111,46,46,37
+Teledyne Dalsa,LA-GC-02K05B,line,,,Teledyne,,,,,2048.0,2.0,7.04,,global,,26.0,Color,400.0,1000.0,,M42x1,GigE,,,,CMOS,280,62,62,47
+Teledyne Dalsa,LA-GC-04K05B,line,,,Teledyne,,,,,4096.0,2.0,7.04,,global,,13.0,Color,400.0,1000.0,,M42x1,GigE,,,,CMOS,280,62,62,47
+Teledyne Dalsa,LA-CC-04K05B,line,,,Teledyne,,,,,4096.0,2.0,7.04,,global,,48.0,Color,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,190,62,62,31
+Teledyne Dalsa,LA-CC-08K05B,line,,,Teledyne,,,,,8192.0,2.0,7.04,,global,,48.0,Color,400.0,1000.0,,M72x0.75,Camera Link,,,,CMOS,310,76,76,31
+Teledyne Dalsa,LA-CM-16K05A,line,,,Teledyne,,,,,16384.0,1.0,3.52,,global,,48.0,Mono,400.0,1000.0,,M72x0.75,Camera Link,,,,CMOS,360,76,76,36.7
+Teledyne Dalsa,LA-HM-16K07A,line,,,Teledyne,,,,,16384.0,1.0,3.52,,global,,71.0,Mono,400.0,1000.0,,M72x0.75,Camera Link HS,,,,CMOS,360,76,76,53
+Teledyne Dalsa,LA-GM-02K08A,line,,,Teledyne,,,,,2048.0,1.0,7.04,,global,,52.0,Mono,400.0,1000.0,,M42x1,GigE,,,,CMOS,200,62,62,31
+Teledyne Dalsa,LA-CM-02K08A,line,,,Teledyne,,,,,2048.0,1.0,7.04,,global,,80.0,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,190,62,62,31
+Teledyne Dalsa,LA-GM-04K08A,line,,,Teledyne,,,,,4096.0,1.0,7.04,,global,,26.0,Mono,400.0,1000.0,,M42x1,GigE,,,,CMOS,200,62,62,31
+Teledyne Dalsa,LA-CM-04K08A,line,,,Teledyne,,,,,4096.0,1.0,7.04,,global,,80.0,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,190,62,62,31
+Teledyne Dalsa,LA-GM-08K08A,line,,,Teledyne,,,,,8192.0,1.0,7.04,,global,,13.0,Mono,400.0,1000.0,,M72x0.75,GigE,,,,CMOS,380,76,76,47
+Teledyne Dalsa,LA-CM-08K08A,line,,,Teledyne,,,,,8192.0,1.0,7.04,,global,,80.0,Mono,400.0,1000.0,,M72x0.75,Camera Link,,,,CMOS,310,76,76,36.7
+Teledyne Dalsa,L2-GC-04k04T-00,line,,,Teledyne e2v,,,,,4096.0,3.0,7.0,,global,,40.0,Color,,,,M42x1,5GigE,,,,CMOS,280,62,62,49.3
+Teledyne Dalsa,L2-GC-04K03N-00,line,,,Teledyne e2v,,,,,4096.0,4.0,7.0,,global,,30.0,"Color, NIR",,,,M42x1,5GigE,,,,CMOS,280,62,62,49.3
+Teledyne Dalsa,ML-HM-08k30H-00-R,line,,,Teledyne,,,,,8192.0,4.0,5.0,,global,,300.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,ML-FC-08k07N,line,,,Teledyne,,,,,8192.0,4.0,5.0,,global,,70.0,Color,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,ML-FC-16K04T,line,,,Teledyne,,,,,16384.0,3.0,5.0,,global,,141.0,Color,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-HC-16K10T,line,,,Teledyne,,,,,16384.0,3.0,5.0,,global,,300.0,Color,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-FC-16K02T,line,,,Teledyne,,,,,16384.0,3.0,5.0,,global,,75.0,Color,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-HC-08k10T-00-R,line,,,Teledyne,,,,,8192.0,4.0,5.0,,global,,300.0,Color,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,ML-FC-08K10T,line,,,Teledyne,,,,,8192.0,3.0,5.0,,global,,280.0,Color,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,ML-HM-16k30H-00-R,line,,,Teledyne,,,,,16384.0,4.0,5.0,,global,,300.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-FM-16K15A,line,,,Teledyne,,,,,16384.0,1.0,5.0,,global,,140.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-FM-16k07A-00-R,line,,,Teledyne,,,,,16384.0,1.0,5.0,,global,,70.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,ML-FM-08K30H-00-R,line,,,Teledyne,,,,,8192.0,4.0,5.0,,global,,280.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,HL-FM-13K18H-00-R,line,tdi,,Teledyne,,,,,13056.0,192.0,5.0,,,,180.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-13K30H-00-R,line,tdi,,Teledyne,,,,,13056.0,192.0,5.0,,,,300.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-FM-16K15A-00-R,line,tdi,,Teledyne,,,,,16384.0,128.0,5.0,,,,143.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-16K20H-00-B,line,tdi,,Teledyne,,,,,16384.0,192.0,5.0,,,,200.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-16K30H-00-R,line,tdi,,Teledyne,,,,,16384.0,192.0,5.0,,,,300.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-16K40H,line,tdi,,Teledyne,,,,,16384.0,192.0,5.0,,,,400.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-16k40H-00-B,line,tdi,,Teledyne,,,,,16384.0,192.0,5.0,,,,400.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HM-32k40S-00-R,line,tdi,,Teledyne,,,,,32768.0,64.0,5.0,,,,400.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-FM-04k30H-00-R,line,tdi,,Teledyne,,,,,4096.0,192.0,5.0,,,,300.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,HL-FM-08k30H-00-R,line,tdi,,Teledyne,,,,,8192.0,192.0,5.0,,,,280.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,HL-HM-08k30H-00-R,line,tdi,,Teledyne,,,,,8192.0,192.0,5.0,,,,300.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,HL-HM-08K40H-00-R,line,tdi,,Teledyne,,,,,8192.0,192.0,5.0,,,,400.0,Mono,400.0,1000.0,,M58x0.75,Camera Link HS,,,,CMOS,500,76,76,85
+Teledyne Dalsa,HL-HM-09k40H-00-B,line,tdi,,Teledyne,,,,,9216.0,192.0,5.0,,,,400.0,Mono,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HC-16K10T-00-R,line,tdi,,Teledyne,,,,,16384.0,256.0,5.0,,,,100.0,Color,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,HL-HF-16K13T-00-R,line,tdi,,Teledyne,,,,,16384.0,256.0,5.0,,,,133.0,Color,400.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1200,97,140.5,78.6
+Teledyne Dalsa,BSI,line,tdi,,Teledyne,,,,,16384.0,288.0,5.0,,,,1000.0,Mono,350.0,1000.0,,M90x1,Camera Link HS,,,,CMOS,1480,97,180,76.9
+Teledyne Dalsa,P4-CM-02K10D,line,,,Teledyne,,,,,2048.0,2.0,10.56,,global,,200.0,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CM-02K05D,line,,,Teledyne,,,,,2048.0,2.0,10.56,,global,,100.0,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CM-04K10D,line,,,Teledyne,,,,,4096.0,2.0,10.56,,global,,200.0,Mono,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CM-04K05D,line,,,Teledyne,,,,,4096.0,2.0,10.56,,global,,100.0,Mono,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CM-08k070,line,,,Teledyne,,,,,8192.0,2.0,7.04,,global,,70.0,Mono,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,700,80,80,57
+Teledyne Dalsa,P4-CC-02K04T,line,,,Teledyne,,,,,2048.0,3.0,14.08,,global,,40.0,Color,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,340,62,62,37
+Teledyne Dalsa,P4-CC-02K07T,line,,,Teledyne,,,,,2048.0,3.0,14.08,,global,,70.0,Color,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CC-04K04T,line,,,Teledyne,,,,,4096.0,3.0,10.56,,global,,40.0,Color,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,340,62,62,37
+Teledyne Dalsa,P4-CC-04K07T,line,,,Teledyne,,,,,4096.0,3.0,10.56,,global,,70.0,Color,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CC-08k050,line,,,Teledyne,,,,,8192.0,2.0,7.04,,global,,50.0,Color,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,700,80,80,57
+Teledyne Dalsa,P4-CC-02K07N,line,,,Teledyne,,,,,2048.0,4.0,14.08,,global,,70.0,RGBN,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,340,62,62,48
+Teledyne Dalsa,P4-CC-08K03T-01-R,line,,,Teledyne,,,,,8192.0,3.0,7.5,,global,,33.0,Color,400.0,1000.0,,M58x0.75,Camera Link,,,,CMOS,295,80,80,40
+Teledyne Dalsa,AX-FM-04B12H-00,line,,,Teledyne,,,,,14304.0,2.0,28.0,,global,,120.0,Mono,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,3200,75,100,441.8
+Teledyne Dalsa,AX-FC-04B06T-00,line,,,Teledyne,,,,,14304.0,3.0,28.0,,global,,60.0,Color,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,3200,75,100,441.8
+Teledyne Dalsa,AX-FC-06B06T-00,line,,,Teledyne,,,,,21440.0,3.0,28.0,,global,,60.0,Color,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,4900,75,100,641.8
+Teledyne Dalsa,AX-FM-07B12H-00,line,,,Teledyne,,,,,25024.0,2.0,28.0,,global,,120.0,Mono,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,5200,75,100,781.8
+Teledyne Dalsa,AX-FM-08B12H-00,line,,,Teledyne,,,,,28608.0,2.0,28.0,,global,,120.0,Mono,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,6300,75,100,837.4
+Teledyne Dalsa,AX-FC-08B06T-00,line,,,Teledyne,,,,,28603.0,3.0,28.0,,global,,60.0,Color,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,6300,75,100,841.8
+Teledyne Dalsa,AX-FM-15B12H-00,line,,,Teledyne,,,,,53664.0,2.0,28.0,,global,,120.0,Mono,400.0,1000.0,,Built-in,Camera Link HS,,,,CMOS,10200,75,100,1541.8
+Teledyne Dalsa,SL-GA-01K04A-00-R,line,,,Teledyne,,,,,1024.0,1.0,12.5,,global,,40.0,SWIR,,,,C-mount,GigE,,,,InGaAs,150,46,46,55
+Teledyne Dalsa,SL-GA-05H04A-00-R,line,,,Teledyne,,,,,512.0,1.0,25.0,,global,,40.0,SWIR,,,,C-mount,GigE,,,,InGaAs,150,46,46,55
+Teledyne Dalsa,OctoPlus,line,,,,,,,,,,10.0,,,,250.0,,,,,,"Camera Link, USB3",,,,CMOS,,,,
+Teledyne Dalsa,PYR-1024-17,line,,,,,,,,1024.0,1.0,25.0,500.0,,,500.0,,,,,,,,,,InGaAs,4500,8.2,208,14.6
+Teledyne Dalsa,PYR-1024-22,line,,,,,,,,1024.0,1.0,25.0,250.0,,,500.0,,,,,,,,,,InGaAs,,8.2,208,14.6
+Teledyne Dalsa,TL-GC-02K05T-00,line,,,Teledyne,,,,,2048.0,3.0,,,global,,50.0,Color,,,,M42x1,2.5GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GM-02K15B-00,line,,,Teledyne,,,,,2048.0,2.0,,,global,,150.0,Mono,,,,M42x1,2.5GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GC-04K02T-00,line,,,Teledyne,,,,,4096.0,3.0,,,global,,25.0,Color,,,,M42x1,2.5GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GC-04k04T-00,line,,,Teledyne,,,,,4096.0,3.0,,,global,,42.0,Color,,,,M42x1,10GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GM-04K07B-00,line,,,Teledyne,,,,,4096.0,2.0,,,global,,75.0,Mono,,,,M42x1,2.5GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GM-04k16B-00,line,,,Teledyne,,,,,4096.0,2.0,,,global,,165.0,Mono,,,,M42x1,10GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GM-08K07S-00,line,,,Teledyne,,,,,8192.0,1.0,,,global,,75.0,Mono,,,,M42x1,2.5GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,TL-GM-08k08S-00,line,,,Teledyne,,,,,8192.0,1.0,,,global,,82.0,Mono,,,,M42x1,10GigE,,,,CMOS,297,62,62,50
+Teledyne Dalsa,FG-PGE-13S3S-U-C ,area,,IMX990,Sony,,,"1/2""",1.3,1280.0,1024.0,,,global,92.0,,SWIR,,,,C-mount,GigE,,,,InGaAs,116,40,40,43
+Teledyne Dalsa,01-KINETIX-M-C,area,,Kinetix Sensor,Teledyne Photometrics,,29.0,,10.2,3200.0,3200.0,6.5,,rolling,500.0,,,200.0,1000.0,Mono,"C-mount, F-mount, T-Mount","USB3, PCIe",,1/4-20,,sCMOS,1800,106.2,106.2,126.4
+Teledyne Dalsa,01-KINETIX-22MM-M-C,area,,Kinetix Sensor,Teledyne Photometrics,,22.0,,5.7,2400.0,2400.0,6.5,,rolling,664.0,,,200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1800,106.2,106.2,126.4
+Teledyne Dalsa,BFS-PGE-04S2C-CS,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,291.0,,Color,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-04S2M-CS,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,291.0,,Mono,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-13Y3C-C,area,,Python 1300,onsemi,,,"1/2""",1.3,1280.0,1024.0,,,global,85.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-14Y3M-C,area,,Python 1300 P1,onsemi,,,"1/2""",1.3,1280.0,1024.0,,,global,92.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-13Y3M-C,area,,Python 1300,onsemi,,,"1/2""",1.3,1280.0,1024.0,,,global,85.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-16S2C-CS,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,78.0,,Color,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-16S2M-CS,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,78.0,,Mono,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-16S7C-C,area,,IMX432,Sony,,,"1.1""",1.76,1600.0,1100.0,,,global,69.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-16S7M-C,area,,IMX432,Sony,,,"1.1""",1.76,1600.0,1100.0,,,global,69.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-19S4C-C,area,,IMX430,Sony,,,"1/1.7""",,1616.0,1240.0,,,global,60.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-19S4M-C,area,,IMX430,Sony,,,"1/1.7""",,1616.0,1240.0,,,global,60.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-23S3C-C,area,,IMX392,Sony,,,"1/2.3""",2.3,1920.0,1200.0,,,global,53.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-23S3M-C,area,,IMX392,Sony,,,"1/2.3""",2.3,1920.0,1200.0,,,global,53.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-23S3C-CS,area,,IMX392,Sony,,,"1/2.3""",2.3,1920.0,1200.0,,,global,53.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-23S6C-C,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,,,global,41.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-23S6M-C,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,,,global,41.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-27S5C-C,area,,IMX429,Sony,,,"2/3""",2.8,1936.0,1464.0,,,global,43.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-27S5M-C,area,,IMX429,Sony,,,"2/3""",2.8,1936.0,1464.0,,,global,43.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-31S4C-C,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-31S4M-C,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-50S4M-C,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,24.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-50S4C-C,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,24.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-50S5C-C,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-50S5M-C,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-50Y2C,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,"rolling, global reset",24.0,,Color,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-50Y2M,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,"rolling, global reset",24.0,,Mono,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-51S5PC-C,area,,IMX250MYR,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Polarization,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-51S5P-C,area,,IMX250MZR,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Polarization,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-63S4C-C,area,,IMX178,Sony,,,"1/1.8""",6.3,3072.0,2048.0,,,"rolling, global reset",19.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-63S4M-C,area,,IMX178,Sony,,,"1/1.8""",6.3,3072.0,2048.0,,,"rolling, global reset",19.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-70S7C-C,area,,IMX428,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,17.4,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-70S7M-C,area,,IMX428,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,17.4,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-80S5C-C,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,,,global,15.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-80S5M-C,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,,,global,15.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,30
+Teledyne Dalsa,BFS-PGE-88S6C-C,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,13.9,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-88S6M-C,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,13.9,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-120S4C-CS,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,,,"rolling, global reset",10.0,,Color,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-120S4M-CS,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,,,"rolling, global reset",10.0,,Mono,,,,CS-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-120S4M-C,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,,,"rolling, global reset",10.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-120S6C-C,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,10.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-120S6M-C,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,10.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-122S6C-C,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,10.0,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-122S6M-C,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,10.0,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-123S6P-C,area,,IMX253MZR,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,10.0,,Polarization,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-161S7C-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,7.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-161S7M-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,7.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-200S6C-C,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",6.1,,Color,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-200S6M-C,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",6.1,,Mono,,,,C-mount,GigE,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-PGE-200S7C-C,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,,,global,6.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-200S7M-C,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,,,global,6.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-244S8C-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,5.0,,Color,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-PGE-244S8M-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,5.0,,Mono,,,,C-mount,GigE,,,,CMOS,53,29,29,39
+Teledyne Dalsa,COSMOS-8k,area,,LACera CMOS,Teledyne,,115.0,,66.0,8120.0,8120.0,10.0,,"rolling, global",18.3,,"Mono, UV",,,,,CoaXPress,,,,CMOS,21400,262,262,328
+Teledyne Dalsa,COSMOS-6k,area,,LACera CMOS,Teledyne,,92.0,,42.0,6500.0,6500.0,10.0,,"rolling, global",22.9,,"Mono, UV",,,,,CoaXPress,,,,CMOS,21400,262,262,328
+Teledyne Dalsa,COSMOS-4k,area,,LACera CMOS,Teledyne,,69.0,,24.0,4880.0,4880.0,10.0,,"rolling, global",37.0,,"Mono, UV",,,,,CoaXPress,,,,CMOS,11000,150,150,200
+Teledyne Dalsa,COSMOS-3k,area,,LACera CMOS,Teledyne,,46.0,,10.0,3260.0,3260.0,10.0,,"rolling, global",56.5,,"Mono, UV",,,,,CoaXPress,,,,CMOS,10000,150,150,200
+Teledyne Dalsa,SCION-VISGAS-640,area,,,Teledyne,VisGaAs,,,,640.0,512.0,10.0,10.0,"global, rolling",,,,300.0,2500.0,,C-mount,"Camera Link, USB3",,,,VisGaAs/HgCdTe,,86,86,127
+Teledyne Dalsa,SCION-VISGAS-1280,area,,,Teledyne,VisGaAs,,,1.3,1280.0,1024.0,10.0,10.0,"global, rolling",,,,300.0,2500.0,,C-mount,"Camera Link, USB3",,,,VisGaAs/HgCdTe,,86,86,127
+Teledyne Dalsa,SCION-MCT-640,area,,,Teledyne,MCT,,,,640.0,512.0,10.0,10.0,"global, rolling",,,,300.0,2500.0,,C-mount,"Camera Link, USB3",,,,VisGaAs/HgCdTe,,86,86,127
+Teledyne Dalsa,FG-P5G-50S4C-C,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,122.0,,Color,,,,C-mount,5GigE,,,,CMOS,132,29,29,39
+Teledyne Dalsa,FG-P5G-50S4M-C,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,122.0,,Mono,,,,C-mount,5GigE,,,,CMOS,132,29,29,39
+Teledyne Dalsa,FG-P5G-51S4C-C,area,,IMX537,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,122.0,,Color,,,,C-mount,5GigE,,,,CMOS,132,29,29,39
+Teledyne Dalsa,FG-P5G-51S4M-C,area,,IMX537,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,122.0,,Mono,,,,C-mount,5GigE,,,,CMOS,132,29,29,39
+Teledyne Dalsa,FG-P5G-120S6C-C,area,,IMX545,Sony,,,"1/1.1""",12.4,4096.0,3000.0,,,global,50.0,,Color,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-P5G-120S6M-C,area,,IMX545,Sony,,,"1/1.1""",12.4,4096.0,3000.0,,,global,50.0,,Mono,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-P5G-161S7C-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,38.0,,Color,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-P5G-161S7M-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,38.0,,Mono,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-P5G-244S8C-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,25.0,,Color,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-P5G-244S8M-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,25.0,,Mono,,,,C-mount,5GigE,,,,CMOS,132,29,44,74
+Teledyne Dalsa,FG-PGE-50S5C-C-IP,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Color,,,,C-mount,GigE,,,,CMOS,132,67,45,45
+Teledyne Dalsa,FG-PGE-50S5M-C-IP,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Mono,,,,C-mount,GigE,,,,CMOS,132,67,45,45
+Teledyne Dalsa,BFS-GE-16S2C-BD2,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,78.0,,Color,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-16S2M-BD2,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,78.0,,Mono,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-50S5C-BD2,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Color,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-50S5M-BD2,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,24.0,,Mono,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-88S6C-BD2,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,13.0,,Color,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-88S6M-BD2,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,13.0,,Mono,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-122S6C-BD2,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,10.0,,Color,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-GE-122S6M-BD2,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,10.0,,Mono,,,,,GigE,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-16S2C-BD2,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,226.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-16S2M-BD2,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,226.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-28S5C-BD2,area,,IMX421,Sony,,,"2/3""",2.8,1936.0,1464.0,,,global,130.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-28S5M-BD2,area,,IMX421,Sony,,,"2/3""",2.8,1936.0,1464.0,,,global,130.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-31S4C-BD2,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,55.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-31S4M-BD2,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,55.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-32S4C-BD2,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,118.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-32S4M-BD2,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,118.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-50S4C-BD2,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,73.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-50S4M-BD2,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,73.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-50S5C-BD2,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-50S5M-BD2,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-51S5C-BD2,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,73.0,,Color,,,,,USB3,,,,CMOS,10,29,29,30
+Teledyne Dalsa,BFS-U3-51S5M-BD2,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,73.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-88S6C-BD2,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,32.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-88S6M-BD2,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,32.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-120S6C-BD2,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,30.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-120S6M-BD2,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,30.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-122S6C-BD2,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,23.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-122S6M-BD2,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,23.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-200S6C-BD2,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",17.0,,Color,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-200S6M-BD2,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",17.0,,Mono,,,,,USB3,,,,CMOS,10,29,29,10
+Teledyne Dalsa,BFS-U3-04S2C-C,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,522.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-04S2M-C,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,522.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-04S2C-CS,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,522.0,,Color,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-04S2M-CS,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,,,global,522.0,,Mono,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-13Y3C-C,area,,Python 1300,onsemi,,,"1/2""",1.3,1280.0,1024.0,,,global,170.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-13Y3M-C,area,,Python 1300,onsemi,,,"1/2""",1.3,1280.0,1024.0,,,global,170.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-16S2C-CS,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,226.0,,Color,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-16S2M-CS,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,226.0,,Mono,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-16S7C-C,area,,IMX432,Sony,,,"1.1""",1.7,1600.0,1100.0,,,global,97.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-16S7M-C,area,,IMX432,Sony,,,"1.1""",1.7,1600.0,1100.0,,,global,97.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-17S7C-C,area,,IMX425,Sony,,,"1.1""",1.7,1600.0,1100.0,,,global,196.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-17S7M-C,area,,IMX425,Sony,,,"1.1""",1.7,1600.0,1100.0,,,global,196.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-19S4C-C,area,,IMX430,Sony,,,"1/1.7”""",2.0,1616.0,1240.0,,,global,131.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-19S4M-C,area,,IMX430,Sony,,,"1/1.7”""",2.0,1616.0,1240.0,,,global,131.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-20S4C-C,area,,IMX422,Sony,,,"1/1.7”""",2.0,1616.0,1240.0,,,global,175.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-20S4M-C,area,,IMX422,Sony,,,"1/1.7”""",2.0,1616.0,1240.0,,,global,175.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-23S3C-C,area,,IMX392,Sony,,,"1/2.3""",2.3,1920.0,1200.0,,,global,163.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-23S3M-C,area,,IMX392,Sony,,,"1/2.3""",2.3,1920.0,1200.0,,,global,163.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-23S6C-C,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,,,global,41.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-23S6M-C,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,,,global,41.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-27S5C-C,area,,IMX429,Sony,,,"2/3”""",2.8,1936.0,1464.0,,,global,95.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-27S5M-C,area,,IMX429,Sony,,,"2/3”""",2.8,1936.0,1464.0,,,global,95.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-28S5C-C,area,,IMX421,Sony,,,"2/3”""",2.8,1936.0,1464.0,,,global,130.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-28S5M-C,area,,IMX421,Sony,,,"2/3”""",2.8,1936.0,1464.0,,,global,130.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-31S4C-C,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,55.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-31S4M-C,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,55.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-32S4C-C,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,118.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-32S4M-C,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,118.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-50S5C-C,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-50S5M-C,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-50S4M-C,area,,IMX547,Sony,,,,5.0,2448.0,2048.0,,,global,72.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,30
+Teledyne Dalsa,BFS-U3-50S4C-C,area,,IMX547,Sony,,,,5.0,2448.0,2048.0,,,global,72.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-51S5C-C,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,75.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-50S4C-CS,area,,IMX547,Sony,,,,5.0,2448.0,2048.0,,,global,72.0,,Color,,,,CS-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-50S4M-CS,area,,IMX547,Sony,,,,5.0,2448.0,2048.0,,,global,72.0,,Mono,,,,CS-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-51S5M-C,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,75.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-51S5PC-C,area,,IMX250MYR,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,75.0,,Polarization,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-51S5P-C,area,,IMX250MZR,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,75.0,,Polarization,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-63S4C-C,area,,IMX178,Sony,,,"1/1.8""",6.3,3072.0,2048.0,,,"rolling, global reset",59.6,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-63S4M-C,area,,IMX178,Sony,,,"1/1.8""",6.3,3072.0,2048.0,,,"rolling, global reset",59.6,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-63S4C-CS,area,,IMX178,Sony,,,"1/1.8""",6.3,3072.0,2048.0,,,"rolling, global reset",59.6,,Color,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-70S7C-C,area,,IMX428,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,51.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-70S7M-C,area,,IMX428,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,51.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-80S5C-C,area,,IMX546,Sony,,,"2/3”""",8.0,2840.0,2840.0,,,global,46.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-80S5M-C,area,,IMX546,Sony,,,"2/3”""",8.0,2840.0,2840.0,,,global,46.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-88S6C-C,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,32.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-88S6M-C,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,,,global,32.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-89S6C-C,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,,,global,42.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-89S6M-C,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,,,global,42.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-120S4C-CS,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,,,"rolling, global reset",31.0,,Color,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-120S4M-CS,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,,,"rolling, global reset",31.0,,Mono,,,,CS-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-120S6C-C,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,30.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-120S6M-C,area,,IMX545,Sony,,,"1/1.1""",12.3,4096.0,3000.0,,,global,30.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-122S6C-C,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,23.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-122S6M-C,area,,IMX304,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,23.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-123S6C-C,area,,IMX253,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,30.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-123S6M-C,area,,IMX253,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,30.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-161S7C-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,23.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-161S7M-C,area,,IMX542,Sony,,,"1.1""",16.1,5320.0,3032.0,,,global,23.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-200S6C-C,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",18.0,,Color,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-200S6M-C,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,,,"rolling, global reset",18.0,,Mono,,,,C-mount,USB3,,,,CMOS,36,29,29,30
+Teledyne Dalsa,BFS-U3-200S7C-C,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,,,global,18.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-200S7M-C,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,,,global,18.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-244S8C-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,15.0,,Color,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,BFS-U3-244S8M-C,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,,,global,15.0,,Mono,,,,C-mount,USB3,,,,CMOS,53,29,29,39
+Teledyne Dalsa,DR-U3-50S4M-C1-S,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,17.5
+Teledyne Dalsa,DR-U3-50S4C-C1-S,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Color,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,17.5
+Teledyne Dalsa,DR-U3-50S4M-C1-C,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,C-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,18.3
+Teledyne Dalsa,DR-U3-50S4C-C1-C,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Color,,,,C-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,18.3
+Teledyne Dalsa,DR-U3-50S4M-C3-S,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,15.8
+Teledyne Dalsa,DR-U3-50S4C-C3-S,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Color,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,15.8
+Teledyne Dalsa,DR-U3-50S4M-C3-C,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,C-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,16.6
+Teledyne Dalsa,DR-U3-50S4M-B1,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,,"USB3, USB2",,,,CMOS,5,27.0,27.0,8.2
+Teledyne Dalsa,DR-U3-50S4C-B1,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Color,,,,,"USB3, USB2",,,,CMOS,5,27.0,27.0,8.2
+Teledyne Dalsa,DR-U3-50S4M-B3,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Mono,,,,,"USB3, USB2",,,,CMOS,5,27.0,27.0,7.7
+Teledyne Dalsa,DR-U3-50S4C-B3,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,,,global,46.0,,Color,,,,,"USB3, USB2",,,,CMOS,5,27.0,27.0,7.7
+Teledyne Dalsa,DR-U3-50Y2M-C1-S,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2C-C1-S,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2M-C1-CS,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,CS-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2C-C1-CS,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,CS-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2M-C3-S,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2C-C3-S,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,S-mount,"USB3, USB2",,,,CMOS,24,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2M-C3-CS,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,CS-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2C-C3-CS,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,CS-mount,"USB3, USB2",,,,CMOS,23,29.5,29.5,23
+Teledyne Dalsa,DR-U3-50Y2M-B1,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,,"USB3, USB2",,,,CMOS,5,27,27,9.46
+Teledyne Dalsa,DR-U3-50Y2C-B1,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,,"USB3, USB2",,,,CMOS,5,27,27,9.46
+Teledyne Dalsa,DR-U3-50Y2M-B3,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Mono,,,,,"USB3, USB2",,,,CMOS,5,27,27,9.46
+Teledyne Dalsa,DR-U3-50Y2C-B3,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,,,rolling,49.0,,Color,,,,,"USB3, USB2",,,,CMOS,5,27,27,9.46
+Teledyne Dalsa,G6-GC31-C6205,area,,Emerald 36M,Teledyne e2v,,,,37.7,6144.0,6144.0,2.5,,global,18.5,,Color,400.0,1000.0,,M42x1,10GigE,,,,CMOS,183,59,59,42
+Teledyne Dalsa,G6-GC31-C8205,area,,Emerald 67M,Teledyne e2v,,,,67.1,8192.0,8192.0,2.5,,global,13.8,,Color,400.0,1000.0,,M42x1,10GigE,,,,CMOS,183,59,59,42
+Teledyne Dalsa,G6-GM31-M6205,area,,Emerald 36M,Teledyne e2v,,,,37.7,6144.0,6144.0,2.5,,global,18.5,,Mono,400.0,1000.0,,M42x1,10GigE,,,,CMOS,183,59,59,42
+Teledyne Dalsa,G6-GM31-M8205,area,,Emerald 67M,Teledyne e2v,,,,67.1,8192.0,8192.0,2.5,,global,13.8,,Mono,400.0,1000.0,,M42x1,10GigE,,,,CMOS,183,59,59,42
+Teledyne Dalsa,ORX-10GS-32S4C-C,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,216.0,,Color,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-32S4M-C,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,,,global,216.0,,Mono,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-51S5C-C,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,162.0,,Color,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-51S5M-C,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,,,global,162.0,,Mono,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10G-71S7C-C,area,,IMX420,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,112.0,,Color,,,,C-mount,10GigE,,,,CMOS,500,60,60,100
+Teledyne Dalsa,ORX-10G-71S7M-C,area,,IMX420,Sony,,,"1.1""",7.1,3208.0,2200.0,,,global,112.0,,Mono,,,,C-mount,10GigE,,,,CMOS,500,60,60,100
+Teledyne Dalsa,ORX-10GS-89S6C-C,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,,,global,93.0,,Color,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-89S6M-C,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,,,global,93.0,,Mono,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-123S6C-C,area,,IMX253,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,68.0,,Color,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10GS-123S6M-C,area,,IMX253,Sony,,,"1.1""",12.3,4096.0,3000.0,,,global,68.0,,Mono,,,,C-mount,10GigE,,,,CMOS,386,60,60,64
+Teledyne Dalsa,ORX-10G-245S8C,area,,IMX530,Sony,,,"1.2""",24.6,5320.0,4600.0,,,global,44.0,,Color,,,,,10GigE,,,,CMOS,508,60,60,115
+Teledyne Dalsa,ORX-10G-245S8M,area,,IMX530,Sony,,,"1.2""",24.6,5320.0,4600.0,,,global,44.0,,Mono,,,,,10GigE,,,,CMOS,508,60,60,115
+Teledyne Dalsa,ORX-10G-310S9C,area,,IMX342,Sony,,,,31.0,6464.0,4852.0,,,global,26.0,,Color,,,,F-mount,10GigE,,,,CMOS,508,60,60,115
+Teledyne Dalsa,ORX-10G-310S9M,area,,IMX342,Sony,,,,31.0,6464.0,4852.0,,,global,26.0,,Mono,,,,F-mount,10GigE,,,,CMOS,508,60,60,115
+Teledyne Dalsa,FFY-U3-04S2M-C,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,121.0,,Mono,,,,C-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-04S2M-CS,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,121.0,,Mono,,,,CS-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-04S2M-S,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,120.0,,Mono,,,,S-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-04S2C-C,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,120.0,,Color,,,,C-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-04S2C-CS,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,120.0,,Color,,,,CS-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-04S2C-S,area,,IMX297,Sony,,,"1/2.9""",0.4,750.0,540.0,,,global,120.0,,Color,,,,S-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2C-C,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Color,,,,C-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2C-CS,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Color,,,,CS-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2C-S,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Color,,,,S-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2M-C,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Mono,,,,C-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2M-CS,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Mono,,,,CS-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,FFY-U3-16S2M-S,area,,IMX296,Sony,,,"1/2.9""",1.6,1440.0,1080.0,,,global,60.0,,Mono,,,,S-mount,USB3,,,,CMOS,20,27,27,14.5
+Teledyne Dalsa,BLZ-100HRX,area,,CCD,Teledyne e2v,,,,,1340.0,100.0,20.0,,,,,"Mono, UV, NIR",,,,,USB3,,,,CCD,6500,129,142,225
+Teledyne Dalsa,BLZ-400HRX,area,,CCD,Teledyne e2v,,,,,1340.0,400.0,20.0,,,,,"Mono, UV, NIR",,,,,USB3,,,,CCD,6500,129,142,225
+Teledyne Dalsa,FA-HM10-M2245,area,,Lince 2.8 MP,Teledyne e2v,,,,2.7,2240.0,1248.0,12.0,,global,1200.0,,Mono,400.0,1000.0,,M42x1,Camera Link HS,,,,CMOS,317,59,59,74.5
+Teledyne Dalsa,FA-HM11-M4405,area,,Lince 11 MP,Teledyne e2v,,,,11.1,4480.0,2496.0,6.0,,global,330.0,,Mono,400.0,1000.0,,M42x1,Camera Link HS,,,,CMOS,317,59,59,74.5
+Teledyne Dalsa,FA-HM10-M4485,area,,Lince 11 MP,Teledyne e2v,,,,11.1,4480.0,2496.0,6.0,,global,600.0,,Mono,400.0,1000.0,,M42x1,Camera Link HS,,,,CMOS,317,59,59,74.5
+Teledyne Dalsa,FA-HM10-M6205,area,,Emerald 36M,Teledyne e2v,,,,37.7,6144.0,6144.0,2.5,,global,120.0,,Mono,400.0,1000.0,,M42x1,Camera Link HS,,,,CMOS,317,59,59,74.9
+Teledyne Dalsa,FA-HM10-M8205,area,,Emerald 67M,Teledyne e2v,,,,67.1,8192.0,8192.0,2.5,,global,90.0,,Mono,400.0,1000.0,,M42x1,Camera Link HS,,,,CMOS,317,59,59,74.9
+Teledyne Dalsa,G5-GC30-C2050,area,,IMX252,Sony,,,,3.2,2064.0,1544.0,3.45,,global,187.0,,Color,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,42
+Teledyne Dalsa,G5-GC30-C2450,area,,IMX250,Sony,,,,5.1,2464.0,2056.0,3.45,,global,121.0,,Color,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,42
+Teledyne Dalsa,G5-GC30-C4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,49.0,,Color,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,42
+Teledyne Dalsa,G5-GC30-C4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,68.0,,Color,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,42
+Teledyne Dalsa,G5-GC31-C4505,area,,XGS20000,onsemi,,,,20.2,4500.0,4500.0,3.2,,global,29.0,,Color,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G5-GC31-C5425,area,,XGS30000,onsemi,,,,29.3,5420.0,5420.0,3.2,,global,19.0,,Color,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G5-GC31-C8105,area,,XGS45000,onsemi,,,,44.0,8120.0,5420.0,3.2,,global,14.0,,Color,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G5-GM30-M2050,area,,IMX252,Sony,,,,3.2,2064.0,1544.0,3.45,,global,187.0,,Mono,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,32
+Teledyne Dalsa,G5-GM30-M2450,area,,IMX250,Sony,,,,5.1,2464.0,2056.0,3.45,,global,121.0,,Mono,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,32
+Teledyne Dalsa,G5-GM30-M4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,49.0,,Mono,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,32
+Teledyne Dalsa,G5-GM30-M4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,68.0,,Mono,400.0,1000.0,,C-mount,5GigE,,,,CMOS,124,59,44,32
+Teledyne Dalsa,G5-GM31-M4505,area,,XGS20000,onsemi,,,,20.2,4500.0,4500.0,3.2,,global,29.0,,Mono,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G5-GM31-M5425,area,,XGS30000,onsemi,,,,29.3,5420.0,5420.0,3.2,,global,19.0,,Mono,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G5-GM31-M8105,area,,XGS45000,onsemi,,,,44.4,8192.0,5420.0,3.2,,global,14.0,,Mono,400.0,1000.0,,M42x1,5GigE,,,,CMOS,183,59,59,41
+Teledyne Dalsa,G3-GC10-C1280,area,,Python 1300 P1,onsemi,,,,1.3,1280.0,1024.0,4.8,,global,92.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C1450,area,,IMX273,Sony,,,,1.5,1456.0,1088.0,3.45,,global,76.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,47,44,29,21
+Teledyne Dalsa,G3-GC11-C1610,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,63.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C1630,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,57.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C1920,area,,IMX249,Sony,,,,2.3,1936.0,1216.0,5.86,,global,38.8,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C1930,area,,Python2000 P1,onsemi,,,,2.5,1984.0,1264.0,4.8,,global,48.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C1940,area,,IMX174,Sony,,,,2.3,1936.0,1216.0,5.86,,global,53.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C1950,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,51.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C2020,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,38.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C2050,area,,IMX252,Sony,,,,3.1,2064.0,1544.0,3.45,,global,37.8,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C2420,area,,IMX264,Sony,,,,5.0,2464.0,2056.0,3.45,,global,23.8,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C2450,area,,IMX250,Sony,,,,5.0,2464.0,2056.0,3.45,,global,23.8,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C2590,area,,Python5000 P1,onsemi,,,,5.3,2592.0,2048.0,4.8,,global,22.7,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,9.7,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C4030,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,13.4,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,9.7,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,13.4,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C4900,area,,AR1820HS,onsemi,,,,18.0,4912.0,3684.0,1.25,,"rolling, global reset",6.6,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C0640,area,,Python300 P1,onsemi,,,,0.3,672.0,512.0,4.8,,global,350.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC10-C0700,area,,IMX287,Sony,,,,0.3,728.0,544.0,6.9,,global,308.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC11-C0810,area,,IMX433,Sony,,,,0.5,816.0,624.0,9.0,,global,160.0,,Color,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M1280,area,,Python 1300 P1,onsemi,,,,1.3,1280.0,1024.0,4.8,,global,92.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM12-M1280,area,,Python1300,onsemi,NIR,,,1.3,1280.0,1024.0,4.8,,global,92.0,,"Mono, NIR",400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M1450,area,,IMX273,Sony,,,,1.5,1456.0,1088.0,3.45,,global,76.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,47,44,29,21
+Teledyne Dalsa,G3-GM11-M1610,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,63.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M1630,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,57.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M1920,area,,IMX249,Sony,,,,2.3,1936.0,1216.0,5.86,,global,38.8,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M1930,area,,Python2000 P1,onsemi,,,,2.5,1984.0,1264.0,4.8,,global,48.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM12-M1930,area,,Python2000,onsemi,NIR,,,2.5,1984.0,1264.0,4.8,,global,48.0,,"Mono, NIR",400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M1940,area,,IMX174,Sony,,,,2.3,1936.0,1216.0,5.86,,global,51.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M1950,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,51.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M2020,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,38.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M2050,area,,IMX252,Sony,,,,3.1,2064.0,1544.0,3.45,,global,37.8,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M2420,area,,IMX264,Sony,,,,5.0,2464.0,2056.0,3.45,,global,23.8,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M2450,area,,IMX250,Sony,,,,5.0,2464.0,2056.0,3.45,,global,22.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM14-M2450,area,,IMX250MZR,Sony,,,,5.0,2448.0,2048.0,3.45,,global,22.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M2590,area,,Python5000 P1,onsemi,,,,5.3,2592.0,2048.0,4.8,,global,22.7,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM12-M2590,area,,Python5000,onsemi,NIR,,,5.3,2592.0,2048.0,4.8,,global,22.7,,"Mono, NIR",400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,9.7,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M4030,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,13.4,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,9.7,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,13.4,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M0640,area,,Python300 P1,onsemi,,,,0.3,672.0,512.0,4.8,,global,350.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM12-M0640,area,,Python300,onsemi,NIR,,,0.3,672.0,512.0,4.8,,global,350.0,,"Mono, NIR",400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM10-M0700,area,,IMX287,Sony,,,,0.3,728.0,544.0,6.9,,global,308.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GM11-M0810,area,,IMX433,Sony,,,,0.5,816.0,624.0,9.0,,global,160.0,,Mono,400.0,1000.0,,C-mount,GigE,,,,CMOS,46,44,29,21
+Teledyne Dalsa,G3-GC30-C4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,7.1,,Color,400.0,1000.0,,M42x1,GigE,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-GC30-C5105,area,,Python 25K,onsemi,,,,26.7,4096.0,4096.0,4.5,,global,4.6,,Color,400.0,1000.0,,M42x1,GigE,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-GM30-M4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,7.1,,Mono,400.0,1000.0,,M42x1,GigE,,,,CMOS,163,30,59,59
+Teledyne Dalsa,G3-GM32-M4095,area,,Python16K,onsemi,NIR,,,16.7,4096.0,4096.0,4.5,,global,7.1,,"Mono, NIR",400.0,1000.0,,M42x1,GigE,,,,CMOS,163,30,59,59
+Teledyne Dalsa,G3-GM30-M5105,area,,Python 25K,onsemi,,,,26.2,5120.0,5120.0,4.5,,global,4.6,,Mono,400.0,1000.0,,M42x1,GigE,,,,CMOS,163,30,59,59
+Teledyne Dalsa,G3-GM32-M5105,area,,Python25K,onsemi,NIR,,,26.2,5120.0,5120.0,4.5,,global,4.6,,"Mono, NIR",400.0,1000.0,,M42x1,GigE,,,,CMOS,163,30,59,59
+Teledyne Dalsa,G3-CC31-C2420,area,,IMX264,Sony,,,,5.0,2448.0,2048.0,3.45,,global,35.0,,Color,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,21
+Teledyne Dalsa,G3-CC30-C2450,area,,IMX250,Sony,,,,5.0,2464.0,2056.0,3.45,,global,141.0,,Color,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CC31-C4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,20.0,,Color,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,21
+Teledyne Dalsa,G3-CC30-C4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,64.0,,Color,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CC30-C4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,88.0,,Color,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CC10-C4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,45.0,,Color,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-CC10-C5105,area,,Python 25K,onsemi,,,,26.1,5112.0,5112.0,4.5,,global,32.0,,Color,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-CM31-M2420,area,,IMX264,Sony,,,,5.0,2448.0,2048.0,3.45,,global,35.0,,Mono,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,21
+Teledyne Dalsa,G3-CM30-M2450,area,,IMX250,Sony,,,,5.0,2464.0,2056.0,3.45,,global,141.0,,Mono,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CM31-M4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,20.0,,Mono,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,21
+Teledyne Dalsa,G3-CM30-M4040,area,,IMX253,Sony,,,,12.3,4112.0,3008.0,3.45,,global,64.0,,Mono,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CM30-M4060,area,,IMX255,Sony,,,,8.9,4112.0,2176.0,3.45,,global,88.0,,Mono,400.0,1000.0,,C-mount,Camera Link,,,,CMOS,72,44,44,23
+Teledyne Dalsa,G3-CM10-M4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,45.0,,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-CM12-M4095,area,,Python16K,onsemi,NIR,,,16.7,4096.0,4096.0,4.5,,global,45.0,,"Mono, NIR",400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-CM10-M5105,area,,Python 25K,onsemi,,,,26.1,5112.0,5112.0,4.5,,global,32.0,,Mono,400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-CM12-M5105,area,,Python25K,onsemi,NIR,,,26.1,5120.0,5120.0,4.5,,global,32.0,,"Mono, NIR",400.0,1000.0,,M42x1,Camera Link,,,,CMOS,163,59,59,30
+Teledyne Dalsa,G3-XC30-C4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,120.0,,Color,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,52,59,32
+Teledyne Dalsa,G3-XC30-C5105,area,,Python 25K,onsemi,,,,26.2,5120.0,5120.0,4.5,,global,80.0,,Color,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,53,59,32
+Teledyne Dalsa,G3-XC01-C6205,area,,Emerald 36M,Teledyne e2v,,,,37.7,6144.0,6144.0,2.5,,global,43.0,,Color,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,50,59,32
+Teledyne Dalsa,G3-XC01-C8205,area,,Emerald 67M,Teledyne e2v,,,,67.1,8192.0,8192.0,2.5,,global,30.0,,Color,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,51,59,32
+Teledyne Dalsa,G3-XM30-M4095,area,,Python 16K,onsemi,,,,16.7,4096.0,4096.0,4.5,,global,120.0,,Mono,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,56,59,32
+Teledyne Dalsa,G3-XM32-M4095,area,,Python16K,onsemi,NIR,,,16.7,4096.0,4096.0,4.5,,global,120.0,,"Mono, NIR",400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,58,59,32
+Teledyne Dalsa,G3-XM30-M5105,area,,Python 25K,onsemi,,,,26.2,5120.0,5120.0,4.5,,global,80.0,,Mono,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,57,59,32
+Teledyne Dalsa,G3-XM32-M5105,area,,Python25K,onsemi,NIR,,,26.2,5120.0,5120.0,4.5,,global,80.0,,"Mono, NIR",400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,59,59,32
+Teledyne Dalsa,G3-XM01-M6205,area,,Emerald 36M,Teledyne e2v,,,,37.7,6144.0,6144.0,2.5,,global,43.0,,Mono,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,54,59,32
+Teledyne Dalsa,G3-XM01-M8205,area,,Emerald 67M,Teledyne e2v,,,,67.1,8192.0,8192.0,2.5,,global,30.0,,Mono,400.0,1000.0,,M42x1,CoaXPress,,,,CMOS,163,55,59,32
+Teledyne Dalsa,I8-LC00-03M,area,,IMX429,Sony,,,,2.8,1944.0,1472.0,4.5,,global,62.0,,Color,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LC00-08M,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,rolling,44.0,,Color,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LC00-09M,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,31.0,,Color,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LC00-20M,area,,IMX183,Sony,,,,19.9,5472.0,3648.0,2.4,,rolling,19.0,,Color,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LM00-02M,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,96.0,,Mono,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LM00-03M,area,,IMX429,Sony,,,,2.8,1944.0,1472.0,4.5,,global,62.0,,Mono,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LM00-08M,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,rolling,44.0,,Mono,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,I8-LM00-09M,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,31.0,,Mono,,,,C-mount,USB3,,,,CMOS,108,41.5,45,45
+Teledyne Dalsa,INFINITY5-3C,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Color,,,,C-mount,USB3,,,,CMOS,330,97.8,69.8,50.8
+Teledyne Dalsa,INFINITY5-3M,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Mono,,,,C-mount,USB3,,,,CMOS,330,97.8,69.8,50.8
+Teledyne Dalsa,INFINITY5-5C,area,,IMX250,Sony,,11.1,,5.0,2464.0,2056.0,3.45,,global,75.0,,Color,,,,C-mount,USB3,,,,CMOS,330,97.8,69.8,50.8
+Teledyne Dalsa,INFINITY5-5M,area,,IMX250,Sony,,11.1,,5.0,2464.0,2056.0,3.45,,global,75.0,,Mono,,,,C-mount,USB3,,,,CMOS,330,97.8,69.8,50.8
+Teledyne Dalsa,01-IRIS-15-PCIE-M-16-C,area,,Gsense 5130,Gpixel,,25.0,,14.9,5056.0,2960.0,4.25,,rolling,30.0,,,200.0,1000.0,Mono,F-mount,,,,,sCMOS,,,,
+Teledyne Dalsa,01-IRIS-15-USB-M-16-C,area,,Gsense 5130,Gpixel,,25.0,,14.9,5056.0,2960.0,4.25,,rolling,10.0,,,200.0,1000.0,Mono,F-mount,USB3,,,,sCMOS,,,,
+Teledyne Dalsa,01-IRIS-9-PCIE-M-16-C,area,,Gsense 5130,Gpixel,,17.8,,8.7,2960.0,2960.0,4.25,,rolling,30.0,,,200.0,1000.0,Mono,C-mount,,,,,sCMOS,,,,
+Teledyne Dalsa,01-IRIS-9-USB-M-16-C,area,,Gsense 5130,Gpixel,,17.8,,8.7,2960.0,2960.0,4.25,,rolling,30.0,,,200.0,1000.0,Mono,C-mount,USB3,,,,sCMOS,,,,
+Teledyne Dalsa,KURO-1200B,area,,,,"Back-illuminated, scientific CMOS",18.6,,1.44,1200.0,1200.0,11.0,,"rolling, effective global",82.0,,"Mono, UV",,,,C-mount,USB3,,,,CMOS,1700,102.6,102.6,156.2
+Teledyne Dalsa,2048B,area,,,,"Back-illuminated, scientific CMOS",31.8,,4.2,2048.0,2048.0,11.0,,"rolling, effective global",47.0,,"Mono, UV",,,,F-mount,USB3,,,,CMOS,1700,102.6,102.6,185.4
+Teledyne Dalsa,LANSIS 261,area,,,,"Back-illuminated AIMO CCD sensor, Grade 1",,,0.5,2048.0,263.0,15.0,,,,,,,,Mono,Spec Mount,USB3,,,,CCD,3050,151,123.5,123.5
+Teledyne Dalsa,LANSIS 424,area,,,,"Back-illuminated AIMO CCD sensor, Grade 1",39.03,,4.2,2048.0,2048.0,13.5,,,0.05,,,,,Mono,F-mount,USB3,,,,CCD,3050,151,123.5,123.5
+Teledyne Dalsa,LANSIS 471,area,,"47-10 Back-illuminated, AIMO CCD sensor, Grade 1",Teledyne e2v,,18.4,,1.05,1024.0,1024.0,13.0,,,,,,,,Mono,C-mount,USB3,,,,CCD,3050,151,123.5,123.5
+Teledyne Dalsa,LT-C1610B,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,96.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C1630B,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,86.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C1900B,area,,IMX327,Sony,,,,2.1,1944.0,1096.0,2.9,,"rolling, global reset",60.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C1950B,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,162.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C2020B,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,55.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C2420B,area,,IMX264,Sony,,,,5.1,2464.0,2056.0,3.45,,global,35.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C3200B,area,,IMX428,Sony,,,,7.1,3216.0,2208.0,4.5,,global,50.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C3840B,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,"rolling, global reset",44.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C4020B,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,22.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C4030B,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,31.0,,Color,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M1610B,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,96.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M1630B,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,86.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M1950B,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,162.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M2020B,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,55.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M2420B,area,,IMX264,Sony,,,,5.0,2464.0,2056.0,3.45,,global,35.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M3200B,area,,IMX428,Sony,,,,7.1,3216.0,2208.0,4.5,,global,50.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M3840B,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,"rolling, global reset",44.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M4020B,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,22.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-M4030B,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,31.0,,Mono,,,,,USB3,,,,CMOS,28,40.4,40.4,17.1
+Teledyne Dalsa,LT-C1610,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,96.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C1630,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,86.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C1900,area,,IMX327,Sony,,,,2.1,1944.0,1096.0,2.9,,"rolling, global reset",60.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C1950,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,162.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C2020,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,55.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-C2050,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-C2420,area,,IMX264,Sony,,,,5.1,2464.0,2056.0,3.45,,global,35.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-C2450,area,,IMX250,Sony,,11.1,,5.1,2464.0,2056.0,3.45,,global,75.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-C3200,area,,IMX428,Sony,,,,7.1,3216.0,2208.0,4.5,,global,50.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C3840,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,"rolling, global reset",44.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,22.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C4030,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,31.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-C4060,area,,IMX255,Sony,,16.1,,8.9,4112.0,2176.0,3.45,,global,42.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-C4430,area,,IMX367,Sony,,,,19.6,4432.0,4436.0,3.45,,global,19.0,,Color,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,LT-C5470,area,,IMX387,Sony,,,,16.8,5472.0,3084.0,3.45,,global,27.0,,Color,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,LT-C5500,area,,IMX183,Sony,,,,19.9,5472.0,3648.0,2.4,,"rolling, global reset",20.0,,Color,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-C6480,area,,IMX342,Sony,,,,31.4,6480.0,4860.0,3.45,,global,15.0,,Color,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,LT-M1610,area,,IMX432,Sony,,,,1.7,1608.0,1104.0,9.0,,global,96.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M1630,area,,IMX430,Sony,,,,2.0,1632.0,1248.0,4.5,,global,86.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M1950,area,,IMX392,Sony,,,,2.3,1936.0,1216.0,3.45,,global,60.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M2020,area,,IMX265,Sony,,,,3.1,2064.0,1544.0,3.45,,global,162.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-M2050,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-M2420,area,,IMX264,Sony,,,,5.0,2464.0,2056.0,3.45,,global,55.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-M2450,area,,IMX250,Sony,,11.1,,5.1,2464.0,2056.0,3.45,,global,75.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-M3200,area,,IMX428,Sony,,,,7.1,3216.0,2208.0,4.5,,global,35.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M3840,area,,IMX334,Sony,,,,8.2,3840.0,2160.0,2.0,,"rolling, global reset",44.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M4020,area,,IMX304,Sony,,,,12.3,4112.0,3008.0,3.45,,global,44.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M4030,area,,IMX267,Sony,,,,8.9,4112.0,2176.0,3.45,,global,22.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,Lt-M4040,area,,IMX253,Sony,,17.6,,12.3,4112.0,3008.0,3.45,,global,30.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt-M4060,area,,IMX255,Sony,,16.1,,8.9,4112.0,2176.0,3.45,,global,42.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,LT-M4430,area,,IMX367,Sony,,,,19.6,4432.0,4436.0,3.45,,global,31.0,,Mono,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,LT-M5470,area,,IMX387,Sony,,,,16.8,5472.0,3084.0,3.45,,global,27.0,,Mono,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,LT-M5500,area,,IMX183,Sony,,,,19.9,5472.0,3648.0,2.4,,"rolling, global reset",20.0,,Mono,,,,C-mount,USB3,,,,CMOS,88,45,45,36.1
+Teledyne Dalsa,LT-M6480,area,,IMX342,Sony,,,,31.4,6480.0,4860.0,3.45,,global,15.0,,Mono,,,,M42x1,USB3,,,,CMOS,263,59,59,44
+Teledyne Dalsa,Lt1245RM,area,,IMX253,Sony,,17.6,,12.3,4112.0,3008.0,3.45,,global,30.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt1265RC,area,,ICX834,Sony,,15.8,,12.0,4240.0,2832.0,3.1,,global,15.0,,Color,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,Lt1265RM,area,,ICX834,Sony,,15.8,,12.0,4240.0,2832.0,3.1,,global,15.0,,Mono,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,LT225M,area,,CMV2000,ams OSRAM,,,,,2048.0,1088.0,5.5,,global,,,Mono,,,,C-mount,USB3,,,,CMOS,175,43,43,65
+Teledyne Dalsa,LT225C,area,,CMV2000,ams OSRAM,,,,,2048.0,1088.0,,,global,,,Color,,,,C-mount,USB3,,,,CMOS,175,,,
+Teledyne Dalsa,LT225M-NIR,area,,CMV2000,ams OSRAM,NIR,,,,2048.0,1088.0,,,global,,,"Mono, NIR",,,,C-mount,USB3,,,,CMOS,175,,,
+Teledyne Dalsa,Lt345RC,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt345RM,area,,IMX252,Sony,,8.9,,3.1,2064.0,1544.0,3.45,,global,120.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt365RC,area,,ICX674,Sony,,10.972,,2.8,1936.0,1456.0,4.54,,global,53.0,,Color,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,LT365RM,area,,ICX674,Sony,,10.972,,2.8,1936.0,1456.0,4.54,,global,53.0,,Mono,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,LT425M,area,,CMV4000,ams OSRAM,,,,,2048.0,2048.0,5.5,,global,,,Mono,,,,C-mount,USB3,,,,CMOS,175,43,43,65
+Teledyne Dalsa,LT425C,area,,CMV4000,ams OSRAM,,,,,2048.0,2048.0,,,global,,,Color,,,,C-mount,USB3,,,,CMOS,175,,,
+Teledyne Dalsa,LT425M-NIR,area,,CMV4000,ams OSRAM,NIR,,,,2048.0,2048.0,,,global,,,"Mono, NIR",,,,C-mount,USB3,,,,CMOS,175,,,
+Teledyne Dalsa,Lt545RC,area,,IMX250,Sony,,11.1,,5.0,2464.0,2056.0,3.45,,global,75.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt545RM,area,,IMX250,Sony,,11.1,,5.0,2464.0,2056.0,3.45,,global,75.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt665RC,area,,ICX694,Sony,,15.99,,6.0,2752.0,2192.0,4.54,,global,27.0,,Color,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,Lt665RM,area,,ICX694,Sony,,15.99,,6.0,2752.0,2192.0,4.54,,global,27.0,,Mono,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,Lt945RC,area,,IMX255,Sony,,16.1,,8.9,4112.0,2176.0,3.45,,global,42.0,,Color,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt945RM,area,,IMX255,Sony,,16.1,,8.9,4112.0,2176.0,3.45,,global,42.0,,Mono,,,,C-mount,USB3,,,,CMOS,140,44,44,61
+Teledyne Dalsa,Lt965RC,area,,ICX814,Sony,,15.99,,9.1,3376.0,2704.0,3.69,,global,19.0,,Color,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,Lt965RM,area,,ICX814,Sony,,15.99,,9.1,3376.0,2704.0,3.69,,global,19.0,,Mono,,,,C-mount,USB3,,,,CCD,175,43,43,65
+Teledyne Dalsa,01-MOMENT-MONO,area,,Sony-Based,,,17.5,,7.0,3200.0,2200.0,4.5,,global,51.0,,,,,Mono,C-mount,USB3,,M3x0.5,,CMOS,96,40,42,50
+Teledyne Dalsa,01-MOMENT-MONO-OC,area,,Sony-Based,,,17.5,,7.0,3200.0,2200.0,4.5,,global,51.0,,,,,Mono,C-mount,USB3,,M3x0.5,,CMOS,96,40,42,50
+Teledyne Dalsa,NIRvana HS,area,,,,2D InGaAs FPA,16.4,,0.3,640.0,512.0,20.0,,global,250.0,,"Mono, SWIR, NIR",,,,"C-mount, Spec Mount",USB3,,,,InGaAs,3300,114,114,184
+Teledyne Dalsa,NRL-640,area,,,,2D InGaAs FPA,16.4,,0.3,640.0,512.0,20.0,,global,2.77,,"NIR, SWIR",,,,"F-mount, Spec Mount",GigE,,,,InGaAs,7000,206.5,297.2,295.3
+Teledyne Dalsa,NRV-640,area,,,,2D InGaAs FPA,16.4,,0.3,640.0,512.0,20.0,,global,110.0,,SWIR,,,,"C-mount, Spec Mount",GigE,,,,InGaAs,4300,147.3,147.3,188
+Teledyne Dalsa,PM4-1024-EMB,area,,CCD201,Teledyne e2v,,17.5,,1.0,1024.0,1024.0,13.0,,intensifier gating,8.69,,"Mono, UV, NIR",,,,"C-mount, Spec Mount",GigE,,"M6, 1/4-20",,,3120,114.3,114.3,224.7
+Teledyne Dalsa,PM4-1024i,area,,Kodak KAI-1003,,,18.5,,1.0,1024.0,1024.0,12.8,,intensifier gating,26.0,,"UV, Mono, NIR",,,,"C-mount, Spec Mount",GigE,,"M6, 1/4-20",,CCD,3120,114.3,114.3,224.7
+Teledyne Dalsa,PM4-1024f,area,,CCD47-10,Teledyne e2v,,18.8,,1.0,1024.0,1024.0,13.0,,intensifier gating,7.0,,"UV, Mono, NIR",,,,"C-mount, Spec Mount",GigE,,"M6, 1/4-20",,CCD,3120,114.3,114.3,224.7
+Teledyne Dalsa,PM4-256f,area,,CCD30-11,Teledyne e2v,,25.0,,1.0,1024.0,253.0,26.0,,intensifier gating,284.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,"M6, 1/4-20",,CCD,3120,114.3,114.3,224.7
+Teledyne Dalsa,PM4-2048f,area,,CCD42-40,Teledyne e2v,,39.0,,4.2,2048.0,2048.0,13.5,,intensifier gating,1.5,,"UV, Mono, NIR",,,,"F-mount, Spec Mount",GigE,,"M6, 1/4-20",,CCD,3120,114.3,114.3,224.7
+Teledyne Dalsa,PIX-400,area,,CCD,Teledyne e2v,,26.8,,0.5,1340.0,400.0,20.0,,mechanical,1300.0,,"Mono, UV, NIR",,,,Spec Mount,USB2,,1/4-20,,CCD,2270,118,114,163
+Teledyne Dalsa,PIX-100,area,,CCD,Teledyne e2v,,26.8,,0.13,1340.0,100.0,20.0,,mechanical,1300.0,,"Mono, UV, NIR",,,,Spec Mount,USB2,,1/4-20,,CCD,2270,118,114,163
+Teledyne Dalsa,PIX-2K,area,,CCD,Teledyne e2v,,28.4,,1.0,2048.0,512.0,13.5,,mechanical,,,"Mono, UV, NIR",,,,Spec Mount,USB2,,1/4-20,,CCD,2270,118,114,163
+Teledyne Dalsa,PIX-256,area,,CCD,Teledyne e2v,,26.8,,0.26,1024.0,256.0,26.0,,mechanical,190.0,,"Mono, UV, NIR",,,,Spec Mount,USB2,,1/4-20,,CCD,2270,118,114,163
+Teledyne Dalsa,PIX-2048,area,,CCD42-40,Teledyne e2v,,39.0,,4.2,2048.0,2048.0,13.5,,mechanical,0.4,,"Mono, UV, NIR",,,,F-mount,USB2,,1/4-20,,CCD,2500,118,114,188
+Teledyne Dalsa,PIX-1024,area,,CCD47-10,Teledyne e2v,,18.8,,1.0,1024.0,1024.0,13.0,,mechanical,1.72,,"Mono, UV, NIR",,,,"C-mount, Spec Mount",USB2,,1/4-20,,CCD,2270,118,114,165
+Teledyne Dalsa,01-PRIME-95B-R-M-16-C,area,,Gsense 400 BSI,Gpixel,,18.7,,1.4,1200.0,1200.0,11.0,,rolling,80.0,,"UV, Visible, NIR",200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,162
+Teledyne Dalsa,01-PRIME-95B-R-M-16-C-ENH-LOC,area,,Gsense 400 BSI,Gpixel,,18.7,,1.4,1200.0,1200.0,11.0,,rolling,80.0,,"UV, Visible, NIR",200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,162
+Teledyne Dalsa,01-PRIME-95B-22MM-R-M-16-C,area,,Gsense 400 BSI,Gpixel,,22.0,,1.9,1412.0,1412.0,11.0,,rolling,68.0,,"UV, Visible, NIR",200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,162
+Teledyne Dalsa,01-PRIME-95B-25MM-R-M-16-C,area,,Gsense 400 BSI,Gpixel,,25.0,,2.5,1608.0,1608.0,11.0,,rolling,60.0,,"UV, Visible, NIR",200.0,1000.0,Mono,F-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,202
+Teledyne Dalsa,01-PRIME-BSI-R-M-16-C-PCIE,area,,Gsense 2020BSI,Gpixel,,18.7,,4.1,2048.0,2048.0,6.5,,rolling,63.0,,,200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,162
+Teledyne Dalsa,01-PRIME-BSI-R-M-16-C,area,,Gsense 2020BSI,Gpixel,,18.7,,4.1,2048.0,2048.0,6.5,,rolling,63.0,,,200.0,1000.0,Mono,C-mount,"USB3, PCIe",,1/4-20,,sCMOS,1700,108,108,162
+Teledyne Dalsa,01-PRIME-BSI-EXP,area,,Gsense 2020BSI,Gpixel,,18.7,,4.1,2048.0,2048.0,6.5,,rolling,95.0,,,,,Mono,C-mount,,,1/4-20,,CMOS,760,78,78,88
+Teledyne Dalsa,PROHS-1024BX3,area,,EMCCD,Teledyne e2v,,18.8,,1.0,1024.0,1024.0,13.0,,,30.0,,"UV, Mono, NIR",,,,C-mount,GigE,,,,,4200,172,147,203
+Teledyne Dalsa,PROHS-512BX3,area,,EMCCD,Teledyne e2v,,11.6,,0.26,512.0,512.0,16.0,,,61.0,,"UV, Mono, NIR",,,,C-mount,GigE,,,,,4200,172,147,203
+Teledyne Dalsa,PRO-1600x200BX3,area,,EMCCD,Teledyne e2v,,25.8,,0.32,1600.0,200.0,16.0,,,4500.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,,4200,172,147,203
+Teledyne Dalsa,PRO-1600x400BX3,area,,,,Back-illuminated eXcelon 3 EMCCD,26.4,,0.64,1600.0,400.0,16.0,,,,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,,4200,172,147,203
+Teledyne Dalsa,PYL-100,area,,CCD,Teledyne e2v,,26.8,,0.13,1340.0,100.0,20.0,,,1700.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,CCD,4500,208,371,267
+Teledyne Dalsa,PYL-400,area,,CCD,Teledyne e2v,,28.0,,0.5,1340.0,400.0,20.0,,,1700.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,CCD,4500,208,371,267
+Teledyne Dalsa,PYL-2K,area,,CCD,Teledyne e2v,,28.4,,1.0,2048.0,512.0,13.5,,,1280.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,CCD,4500,208,371,267
+Teledyne Dalsa,PYL-256,area,,CCD,Teledyne e2v,,27.4,,0.25,1024.0,252.0,26.0,,,1850.0,,"UV, Mono, NIR",,,,Spec Mount,GigE,,,,CCD,4500,208,371,267
+Teledyne Dalsa,01-MP6-R-CLR-14-C-OC,area,,ICX695,Sony,,16.0,,5.9,2688.0,2200.0,4.54,,global,7.1,,,,,Color,C-mount,USB3,,1/4-20,,CCD,720,76,76,98.4
+Teledyne Dalsa,01-ELECTRO-M-14-C-OC,area,,ICX825,Sony,,11.0,,1.3,1360.0,1024.0,6.45,,global,22.0,,,,,Mono,C-mount,USB3,,1/4-20,,CCD,720,76,76,98.4
+Teledyne Dalsa,01-RET-LUMO-R-M-16-C,area,,ICX695,Sony,,16.0,,5.9,2688.0,2200.0,4.54,,global,7.1,,,,,Mono,C-mount,USB3,,1/4-20,,CCD,720,76,76,98.4
+Teledyne Dalsa,01-RET-R6-R-M-14-C-OC,area,,ICX695,Sony,,16.0,,5.9,2688.0,2200.0,4.54,,global,7.1,,,,,Mono,C-mount,USB3,,1/4-20,,CCD,720,76,76,98.4
+Teledyne Dalsa,01-RET-E20-M-C,area,,Sony-Based,,,17.6,,19.9,5472.0,3648.0,2.4,,global,22.0,,,,,Mono,C-mount,USB3,,1/4-20,,CMOS,800,86,86,89
+Teledyne Dalsa,01-RET-E7-M-C,area,,Sony-Based,,,15.7,,7.0,3200.0,2200.0,4.5,,global,51.0,,,,,Mono,C-mount,USB3,,1/4-20,,CMOS,800,86,86,89
+Teledyne Dalsa,01-RET- E9-M-C,area,,IMX533 CMOS Sensor,Sony,,15.9,,9.0,3000.0,3000.0,3.76,,rolling,26.9,,Mono,,,Mono,C-mount,USB3,,1/4-20,,CMOS,800,86,86,89
+Teledyne Dalsa,SOP-2048B-152,area,,CCD230-42,Teledyne e2v,,43.4,,4.2,2048.0,2048.0,15.0,,mechanical,3.2,,,,,,F-mount,USB3,,,,CCD,6500,129,142.8,251.6
+Teledyne Dalsa,SOP-2048BR-132,area,,CCD42-40,Teledyne e2v,,43.4,,4.2,2048.0,2048.0,13.5,,mechanical,1.35,,,,,,F-mount,USB3,,,,CCD,6500,129,142,251.6
+Teledyne Dalsa,SOP-4096B-154-MBAR,area,,,,•Teledyne e2v CCD230-84•Teledyne e2v CCD231-84,86.8,,16.8,4096.0,4096.0,15.0,,mechanical,0.5,,"UV, Mono, NIR",,,,,USB3,,,,CCD,12800,202,202,253

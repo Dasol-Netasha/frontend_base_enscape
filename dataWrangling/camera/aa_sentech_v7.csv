@@ -1,0 +1,496 @@
+﻿brand,model_name,camera_type,multi_cmos,sensor_name,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+Sentech,stc-sbs322cxp121-swir,area,,IMX993,Sony,TEC,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,173.4,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,210,42,42,69
+Sentech,stc-sbs532cxp121-swir,area,,IMX992,Sony,TEC,,"1/1.4""",5.3,2560.0,2048.0,3.45,3.45,global,131.9,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,210,42,42,69
+Sentech,stc-sbs34cxp121-swiru,area,,IMX991,Sony,,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,258.8,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,77,35,35,40
+Sentech,stc-sbs132cxp121-swiru,area,,IMX990,Sony,,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,134.7,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,77,35,35,40
+Sentech,stc-sbs322cxp121-swiru,area,,IMX993,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,173.4,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,76,35,35,40
+Sentech,stc-sbs532cxp121-swiru,area,,IMX992,Sony,,,"1/1.4""",5.3,2560.0,2048.0,3.45,3.45,global,131.9,,SWIR,,,,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,76,35,35,40
+Sentech,stc-sbs132poe-swiru,area,,IMX990,Sony,,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,83.9,,SWIR,,,,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,98,35,35,53
+Sentech,stc-sbs34poe-swiru,area,,IMX991,Sony,,,"1/4""",0.3,656.0,520.0,5.0,5.0,global,258.8,,SWIR,,,,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,98,35,35,53
+Sentech,stc-lbs132poe-swir,area,,IMX990,Sony,TEC,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,84.0,,SWIR,,,,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,465,58,58,85
+Sentech,stc-lbs34poe-swir,area,,IMX991,Sony,TEC,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,242.2,,SWIR,,,,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,465,58,58,85
+Sentech,stc-sbs532u3v-swiru,area,,IMX992,Sony,,,"1/1.4""",5.3,2560.0,2048.0,3.45,3.45,global,71.5,,SWIR,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,76,35,35,41.5
+Sentech,stc-sbs34u3v-swiru,area,,IMX991,Sony,,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,260.6,,SWIR,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,76,35,35,41.5
+Sentech,stc-sbs132u3v-swiru,area,,IMX990,Sony,,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,134.7,,SWIR,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,76,35,35,41.5
+Sentech,stc-lbs34u3v-swir,area,,IMX991,Sony,TEC,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,260.6,,SWIR,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,425,58,58,85
+Sentech,stc-lbs132u3v-swir,area,,IMX990,Sony,TEC,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,134.7,,SWIR,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,425,58,58,85
+Sentech,stc-sbs532pcl-swiru,area,,IMX992,Sony,,,"1/1.4""",5.3,2560.0,2048.0,3.45,3.45,global,89.0,,SWIR,,,,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-sbs34pcl-swiru,area,,IMX991,Sony,,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,258.0,,SWIR,,,,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-sbs132pcl-swiru,area,,IMX990,Sony,,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,134.0,,SWIR,,,,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-lbs132cl-swir,area,,IMX990,Sony,TEC,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,134.0,,SWIR,,,,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,425,58,58,85
+Sentech,stc-lbs34cl-swir,area,,IMX991,Sony,TEC,,"1/4""",0.3,640.0,512.0,5.0,5.0,global,258.0,,SWIR,,,,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,425,58,58,85
+Sentech,stc-sts502cxp122,area,3cmos,IMX548,Sony,x3,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,108.9,,Color,,,Color,C-mount,CoaXPress,,RGB8 / RGB10 / RGB12,,168,42,42,60
+Sentech,stc-lts502poe10,area,3cmos,IMX548,Sony,x3,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,82.1,,Color,,,Color,C-mount,10GigE,,RGB8 / RGB10 / RGB12,,380,55,55,86
+Sentech,stc-rbs502gv2ca,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Mono,,,Mono,S-mount,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono8 Packed / Mono12 Packed,,25,23,23,24.5
+Sentech,stc-rcs502gv2ca,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Color,,,Color,S-mount,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG8 Packed / BayerRG12 Packed,,25,23,23,24.5
+Sentech,stc-rbs502gv2cb,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Mono,,,Mono,Liquid Lens,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,35,23,23,38.9
+Sentech,stc-rcs502gv2cb,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Color,,,Color,Liquid Lens,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,35,23,23,38.9
+Sentech,stc-rbs502gv2ca-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Mono,,,Mono,S-mount,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,45,28,28,35.65
+Sentech,stc-rcs502gv2ca-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Color,,,Color,S-mount,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,45,28,28,35.65
+Sentech,stc-rbs502gv2cb-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Mono,,,Mono,Liquid Lens,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,56,23,23,41.2
+Sentech,stc-rcs502gv2cb-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,68.7,,Color,,,Color,Liquid Lens,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,56,23,23,41.2
+Sentech,stc-rbs502gv2cf,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Mono,,,Mono,S-mount,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,33,23,23,29.8
+Sentech,stc-rcs502gv2cf,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Color,,,Color,S-mount,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,33,23,23,29.8
+Sentech,stc-rbs502gv2cg,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Mono,,,Mono,Liquid Lens,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,38,23,23,38.9
+Sentech,stc-rcs502gv2cg,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Color,,,Color,Liquid Lens,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,38,23,23,38.9
+Sentech,stc-rbs502gv2cf-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Mono,,,Mono,S-mount,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,58,28,28,40.8
+Sentech,stc-rcs502gv2cf-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Color,,,Color,S-mount,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,58,28,28,40.8
+Sentech,stc-rbs502gv2cg-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Mono,,,Mono,Liquid Lens,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,58,28,28,41.2
+Sentech,stc-rcs502gv2cg-w,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,47.7,,Color,,,Color,Liquid Lens,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,58,28,28,41.2
+Sentech,stc-rbs323gv2ca,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Mono,,,Mono,S-mount,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,25,23,23,24.5
+Sentech,stc-rcs323gv2ca,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Color,,,Color,S-mount,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,25,23,23,24.5
+Sentech,stc-rbs323gv2cb,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Mono,,,Mono,Liquid Lens,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,35,23,23,38.9
+Sentech,stc-rcs323gv2cb,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Color,,,Color,Liquid Lens,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,35,23,23,38.9
+Sentech,stc-rbs323gv2ca-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Mono,,,Mono,S-mount,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,45,28,28,35.65
+Sentech,stc-rcs323gv2ca-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Color,,,Color,S-mount,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,45,28,28,35.65
+Sentech,stc-rbs323gv2cb-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Mono,,,Mono,Liquid Lens,"USB3, GVIF",,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,56,23,23,41.2
+Sentech,stc-rcs323gv2cb-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,101.8,,Color,,,Color,Liquid Lens,"USB3, GVIF",,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,56,23,23,41.2
+Sentech,stc-rbs323gv2cf,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Mono,,,Mono,S-mount,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,33,23,23,29.8
+Sentech,stc-rcs323gv2cf,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Color,,,Color,S-mount,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,33,23,23,29.8
+Sentech,stc-rbs323gv2cg,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Mono,,,Mono,Liquid Lens,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,38,23,23,38.9
+Sentech,stc-rcs323gv2cg,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Color,,,Color,Liquid Lens,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,38,23,23,38.9
+Sentech,stc-rbs323gv2cf-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Mono,,,Mono,S-mount,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,58,28,28,40.8
+Sentech,stc-rcs323gv2cf-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Color,,,Color,S-mount,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,58,28,28,40.8
+Sentech,stc-rbs323gv2cg-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Mono,,,Mono,Liquid Lens,GVIF,,Mono8 / Mono10 / Mono12 Mono10 Packed / Mono12 Packed,,58,28,28,41.2
+Sentech,stc-rcs323gv2cg-w,area,,IMX900,Sony,,,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,71.8,,Color,,,Color,Liquid Lens,GVIF,,BayerRG8 / BayerRG10 / BayerRG12 BayerRG10 Packed / BayerRG12 Packed,,58,28,28,41.2
+Sentech,stc-bbs43u3v-avf096,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,40,29,29,34.2
+Sentech,stc-bcs43u3v-avf096,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,40,29,29,34.2
+Sentech,stc-bbs163u3v-avf096,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,40,29,29,34.2
+Sentech,stc-bcs163u3v-avf096,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,40,29,29,34.2
+Sentech,stc-bbs502u3v-avf096,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,40,29,29,34.2
+Sentech,stc-bcs502u3v-avf096,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,40,29,29,34.2
+Sentech,stc-bbs43u3v-vf096,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,29,29,29,32.05
+Sentech,stc-bcs43u3v-vf096,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,29,29,29,32.05
+Sentech,stc-bbs163u3v-vf096,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,29,29,29,32.05
+Sentech,stc-bcs163u3v-vf096,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,29,29,29,32.05
+Sentech,stc-bbs502u3v-vf096,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,Liquid Lens,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,29,29,29,32.05
+Sentech,stc-bcs502u3v-vf096,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,Liquid Lens,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,29,29,29,32.05
+Sentech,stc-sbs500u3v-lcnt,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,80,35,35,41.5
+Sentech,stc-scs500u3v-lcnt,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,,35,35,41.5
+Sentech,stc-sbs881u3v-lcnt,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,80,35,35,41.5
+Sentech,stc-scs881u3v-lcnt,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,80,35,35,41.5
+Sentech,stc-sbs122bu3v-lcnt,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,80,35,35,41.5
+Sentech,stc-scs122bu3v-lcnt,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,80,35,35,41.5
+Sentech,stc-glb8ku7cxp124-m72,line,,GL7008,Gpixel,,,"Others""",,8192.0,1.0,7.0,7.0,global,,240.0,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8 / Mono10 / Mono12,,575,76,92,53
+Sentech,stc-glb16ku35dcxp124-m72,line,,GL3516,Gpixel,,,"Others""",,16384.0,2.0,3.5,3.5,global,,120.0,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8 / Mono10,,575,76,92,53
+Sentech,stc-glb16ku5cxp124-m95,line,,GL5016,Gpixel,,,"Others""",,16384.0,1.0,5.0,5.0,global,,266.0,Mono,,,Mono,M95x1,CoaXPress,,Mono8 / Mono10 / Mono12,,820,99,110,38
+Sentech,stc-glc8ku7cxp124-m72,line,,GL7008,Gpixel,,,"Others""",,8192.0,3.0,7.0,7.0,global,,80.0,Color,,,Color,M72x0.75,CoaXPress,,RGB8 / RGB10 / RGB12,,575,76,92,53
+Sentech,stc-glc16ku35dcxp124-m72,line,,GL3516,Gpixel,,,"Others""",,16384.0,2.0,3.5,3.5,global,,60.0,Color,,,Color,M72x0.75,CoaXPress,,RGB8 / RGB10,,575,76,92,53
+Sentech,stc-glc16ku5cxp124-m95,line,,GL5016,Gpixel,,,"Others""",,16384.0,3.0,5.0,5.0,global,,91.0,Color,,,Color,M95x1,CoaXPress,,RGB8 / RGB10 / RGB12,,820,99,110,38
+Sentech,fs-b2ku7ges-c,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,51.0,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,240,56,58,44.6
+Sentech,fs-b2ku7ges-f,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,51.0,Mono,,,Mono,F-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,290,56,58,73.6
+Sentech,fs-b2ku7ges-m42,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,51.0,Mono,,,Mono,M42x1,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,210,56,58,35.1
+Sentech,fs-b4ku7ges-f,line,,DR-4K-7,ams OSRAM,,,"Others""",,4096.0,1.0,7.0,7.0,global,,26.0,Mono,,,Mono,F-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,290,56,58,73.6
+Sentech,fs-b4ku7ges-m42,line,,DR-4K-7,ams OSRAM,,,"Others""",,4096.0,1.0,7.0,7.0,global,,26.0,Mono,,,Mono,M42x1,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,210,56,58,35.1
+Sentech,fs-b8ku35ges-f,line,,DR-8K-3.5,ams OSRAM,,,"Others""",,8192.0,1.0,3.5,3.5,global,,13.0,Mono,,,Mono,F-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,290,56,58,73.6
+Sentech,fs-b8ku35ges-m42,line,,DR-8K-3.5,ams OSRAM,,,"Others""",,8192.0,1.0,3.5,3.5,global,,13.0,Mono,,,Mono,M42x1,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,210,56,58,35.1
+Sentech,fs-b2ku7dges-c,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,52.0,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,240,56,58,44.6
+Sentech,fs-b2ku7dges-f,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,52.0,Mono,,,Mono,F-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,290,56,58,73.6
+Sentech,fs-b2ku7dges-m42,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,52.0,Mono,,,Mono,M42x1,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,210,56,58,35.1
+Sentech,fs-c4ku7dges-f,line,,DR-2X4K-7-inver-RGB,ams OSRAM,,,"Others""",,4096.0,2.0,7.0,7.0,global,,26.0,Color,,,Color,F-mount,GigE,PoE,BayerGB8 / BayerGB10 / BayerGB12 / BayerGB10Packed / BayerGB12Packed RGB8 / YUV422_8 / YUV422_8_UYVY,,290,56,58,73.6
+Sentech,fs-c4ku7dges-m42,line,,DR-2X4K-7-inver-RGB,ams OSRAM,,,"Others""",,4096.0,2.0,7.0,7.0,global,,26.0,Color,,,Color,M42x1,GigE,PoE,BayerGB8 / BayerGB10 / BayerGB12 / BayerGB10Packed / BayerGB12Packed RGB8 / YUV422_8 / YUV422_8_UYVY,,210,56,58,35.1
+Sentech,fs-b2ku7clu-c,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,200,56,58,36
+Sentech,fs-b2ku7clu-f,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,F-mount,Camera Link,,Mono8 / Mono10 / Mono12,,250,56,58,65
+Sentech,fs-b2ku7clu-m42,line,,DR-2K-7,ams OSRAM,,,"Others""",,2048.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,M42x1,Camera Link,,Mono8 / Mono10 / Mono12,,156,56,58,26.5
+Sentech,fs-b4ku7clu-f,line,,DR-4K-7,ams OSRAM,,,"Others""",,4096.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,F-mount,Camera Link,,Mono8 / Mono10 / Mono12,,250,56,58,65
+Sentech,fs-b4ku7clu-m42,line,,DR-4K-7,ams OSRAM,,,"Others""",,4096.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,M42x1,Camera Link,,Mono8 / Mono10 / Mono12,,156,56,58,26.5
+Sentech,fs-b8ku7clu-m72,line,,DR-8K-7,ams OSRAM,,,"Others""",,8192.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8 / Mono10 / Mono12,,453,80,100,38.1
+Sentech,fs-b8ku35clu-f,line,,DR-8K-3.5,ams OSRAM,,,"Others""",,8192.0,1.0,3.5,3.5,global,,80.0,Mono,,,Mono,F-mount,Camera Link,,Mono8 / Mono10 / Mono12,,250,56,58,65
+Sentech,fs-b8ku35clu-m42,line,,DR-8K-3.5,ams OSRAM,,,"Others""",,8192.0,1.0,3.5,3.5,global,,80.0,Mono,,,Mono,M42x1,Camera Link,,Mono8 / Mono10 / Mono12,,156,56,58,26.5
+Sentech,fs-b16ku35clu-m72,line,,DR-16K-3.5,ams OSRAM,,,"Others""",,16384.0,1.0,3.5,3.5,global,,40.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8 / Mono10 / Mono12,,453,80,100,38.1
+Sentech,fs-b2ku7dclu-c,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,160.0,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,200,56,58,36
+Sentech,fs-b2ku7dclu-f,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,160.0,Mono,,,Mono,F-mount,Camera Link,,Mono8 / Mono10 / Mono12,,250,56,58,65
+Sentech,fs-b2ku7dclu-m42,line,,DR-2X2K-7-inver,ams OSRAM,,,"Others""",,2048.0,2.0,7.0,7.0,global,,160.0,Mono,,,Mono,M42x1,Camera Link,,Mono8 / Mono10 / Mono12,,156,56,58,26.5
+Sentech,fs-b8ku7dclu-m72,line,,DR-2X8K-7,ams OSRAM,,,"Others""",,8192.0,2.0,7.0,7.0,global,,80.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8 / Mono10 / Mono12,,453,80,100,38.1
+Sentech,fs-c4ku7dclu-f,line,,DR-2X4K-7-inver-RGB,ams OSRAM,,,"Others""",,4096.0,2.0,7.0,7.0,global,,80.0,Color,,,Color,F-mount,Camera Link,,BayerGB8 / BayerGB10 / BayerGB12,,250,56,58,65
+Sentech,fs-c4ku7dclu-m42,line,,DR-2X4K-7-inver-RGB,ams OSRAM,,,"Others""",,4096.0,2.0,7.0,7.0,global,,80.0,Color,,,Color,M42x1,Camera Link,,BayerGB8 / BayerGB10 / BayerGB12,,156,56,58,26.5
+Sentech,fs-c8ku7dclu-m72,line,,DR-2X8K-7-RGB,ams OSRAM,,,"Others""",,8192.0,2.0,7.0,7.0,global,,40.5,Color,,,Color,M72x0.75,Camera Link,,BayerGB8 / BayerGB10 / BayerGB12,,453,80,100,38.1
+Sentech,stc-mbs163cxp6,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,278.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mcs163cxp6,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,278.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-mbs212cxp6,area,,IMX422,Sony,,,"1/1.7""",2.0,1632.0,1240.0,4.5,4.5,global,239.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mcs212cxp6,area,,IMX422,Sony,,,"1/1.7""",2.0,1632.0,1240.0,4.5,4.5,global,239.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-mbs322cxp6,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,152.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mcs322cxp6,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,152.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-cmb401cxp,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,142.5,,Mono,,,Mono,C-mount,CoaXPress,,Mono8,,124,40,40,41.4
+Sentech,stc-cmc401cxp,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,142.5,,Color,,,Color,C-mount,CoaXPress,,BayerGB8,,124,40,40,41.4
+Sentech,stc-cmb401cxp-nir,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,142.5,,"Mono, NIR",,,Mono,C-mount,CoaXPress,,Mono8,,124,40,40,41.4
+Sentech,stc-mbs502cxp6,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,103.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,53,28,28,40
+Sentech,stc-mcs502cxp6,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,103.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,53,28,28,40
+Sentech,stc-mbs510cxp6,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mcs510cxp6,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-sbs510cxp62,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,162.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,120,40,40,45.5
+Sentech,stc-scs510cxp62,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,162.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,120,40,40,45.5
+Sentech,stc-mbs800cxp6,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,66.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,53,28,28,40
+Sentech,stc-mcs800cxp6,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,66.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,53,28,28,40
+Sentech,stc-cmb120acxp,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Mono,,,Mono,M42x1,CoaXPress,,Mono8,,320,68,68,40
+Sentech,stc-cmc120acxp,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Color,,,Color,M42x1,CoaXPress,,BayerGR8,,320,68,68,40
+Sentech,stc-cmb120acxp-t,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Mono,,,Mono,M42x1,CoaXPress,,Mono8,,320,68,68,46
+Sentech,stc-cmc120acxp-t,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Color,,,Color,M42x1,CoaXPress,,BayerGR8,,320,68,68,46
+Sentech,stc-cmc120acxp-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Color,,,Color,F-mount,CoaXPress,,BayerGR8,,395,68,68,76.5
+Sentech,stc-cmb120acxp-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Mono,,,Mono,F-mount,CoaXPress,,Mono8,,395,68,68,76.5
+Sentech,stc-cmb120acxp-t-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Mono,,,Mono,F-mount,CoaXPress,,Mono8,,395,68,68,82.5
+Sentech,stc-cmc120acxp-t-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,186.9,,Color,,,Color,F-mount,CoaXPress,,BayerGR8,,395,68,68,82.5
+Sentech,stc-sbs123bcxp62,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,67.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,120,40,40,45.5
+Sentech,stc-scs123bcxp62,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,67.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,120,40,40,45.5
+Sentech,stc-mbs1221cxp6,area,,IMX545,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,44.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,53,28,28,40
+Sentech,stc-mcs1221cxp6,area,,IMX545,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,44.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,53,28,28,40
+Sentech,stc-mbs502cxp121,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,123.9,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs502cxp121,area,,IMX547,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,123.9,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs512cxp121,area,,IMX537,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,198.5,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs512cxp121,area,,IMX537,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,198.5,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs510cxp121,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,164.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs510cxp121,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,164.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs800cxp121,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,91.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs800cxp121,area,,IMX546,Sony,,,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,91.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs1221cxp121,area,,IMX545,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,68.3,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs1221cxp121,area,,IMX545,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,68.3,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs1231cxp121,area,,IMX535,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,88.1,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs1231cxp121,area,,IMX535,Sony,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,88.1,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs123bcxp121,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs123bcxp121,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs161bcxp121,area,,IMX542,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,52.6,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs161bcxp121,area,,IMX542,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,52.6,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-lbs162bcxp124,area,,IMX532,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,158.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,220,55,55,46.5
+Sentech,stc-lcs162bcxp124,area,,IMX532,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,158.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,220,55,55,46.5
+Sentech,stc-lbs162bcxp124-t,area,,IMX532,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,158.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,250,55,55,49
+Sentech,stc-lcs162bcxp124-t,area,,IMX532,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,158.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,250,55,55,49
+Sentech,stc-mbs203bcxp121,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,42.7,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs203bcxp121,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,42.7,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs204bcxp121,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,55.8,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs204bcxp121,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,55.8,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-lbs204bcxp124,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,109.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,220,55,55,46.5
+Sentech,stc-lcs204bcxp124,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,109.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,220,55,55,46.5
+Sentech,stc-lbs204bcxp124-t,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,109.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,250,55,55,49
+Sentech,stc-lcs204bcxp124-t,area,,IMX531,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,109.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,250,55,55,49
+Sentech,stc-mbs245ccxp121,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,35.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs245ccxp121,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,35.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-mbs246ccxp121,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,45.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,54,29,29,40
+Sentech,stc-mcs246ccxp121,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,45.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,54,29,29,40
+Sentech,stc-lbs246ccxp124,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,106.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,220,55,55,46.5
+Sentech,stc-lcs246ccxp124,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,106.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,220,55,55,46.5
+Sentech,stc-lbs246ccxp124-t,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,106.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,250,55,55,49
+Sentech,stc-lcs246ccxp124-t,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,106.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,250,55,55,49
+Sentech,stc-lbgp250bcxp122,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,50.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10,,225,55,55,47.5
+Sentech,stc-lcgp250bcxp122,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,50.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10,,225,55,55,47.5
+Sentech,stc-lbgp251bcxp124,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10,,460,68,68,53.5
+Sentech,stc-lcgp251bcxp124,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10,,460,68,68,53.5
+Sentech,stc-lbgp251bcxp124-t,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10,,460,68,68,53.5
+Sentech,stc-lcgp251bcxp124-t,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10,,460,68,68,53.5
+Sentech,stc-lbe671fcxp124,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Mono,,,Mono,M42x1,CoaXPress,,Mono8 / Mono10,,370,68,68,40
+Sentech,stc-lce671fcxp124,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Color,,,Color,M42x1,CoaXPress,,BayerRG8 / BayerRG10,,370,68,68,40
+Sentech,stc-lbe671fcxp124-t,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Mono,,,Mono,M42x1,CoaXPress,,Mono8 / Mono10,,430,68,68,46
+Sentech,stc-lce671fcxp124-t,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Color,,,Color,M42x1,CoaXPress,,BayerRG8 / BayerRG10,,430,68,68,46
+Sentech,stc-lbe671fcxp124-f,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Mono,,,Mono,M42x1,CoaXPress,,Mono8 / Mono10,,470,68,68,76.5
+Sentech,stc-lce671fcxp124-f,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Color,,,Color,F-mount,CoaXPress,,BayerRG8 / BayerRG10,,470,68,68,76.5
+Sentech,stc-lbe671fcxp124-t-f,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Mono,,,Mono,F-mount,CoaXPress,,Mono8 / Mono10,,530,68,68,82.5
+Sentech,stc-lce671fcxp124-t-f,area,,EV2S67MB,Teledyne e2v,,,,67.0,8192.0,8192.0,2.5,2.5,global,65.0,,Color,,,Color,F-mount,CoaXPress,,BayerRG8 / BayerRG10,,530,68,68,82.5
+Sentech,stc-mbs43cxp3,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,523.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mcs43cxp3,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,523.0,,Color,,,Color,C-mount,CoaXPress,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-lbs246cpoe10,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,50.4,,Mono,,,Mono,C-mount,"10GigE, 5GigE",PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,360,55,55,75.45
+Sentech,stc-lcs246cpoe10,area,,IMX530,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,50.4,,Color,,,Color,C-mount,"10GigE, 5GigE",PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,360,55,55,75.45
+Sentech,stc-mbs43poe,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs43poe,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mbs52poe,area,,IMX433,Sony,,,"1/1.7""",0.5,816.0,624.0,9.0,9.0,global,166.5,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,63,29,29,53
+Sentech,stc-mcs52poe,area,,IMX433,Sony,,,"1/1.7""",0.5,816.0,624.0,9.0,9.0,global,166.5,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,63,29,29,53
+Sentech,stc-mbe132poe,area,,EV76C560,Teledyne e2v,,,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",61.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono10Packed,,63,29,29,53
+Sentech,stc-mce132poe,area,,EV76C560,Teledyne e2v,,,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,global,61.0,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono10Packed BayerBG8 / BayerBG10 / BayerBG10Packed RGB8,,63,29,29,53
+Sentech,stc-mbs163poe,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs163poe,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mbs202poe,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs202poe,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mbs231poe,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.3,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,63,29,29,53
+Sentech,stc-mcs231poe,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.3,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,63,29,29,53
+Sentech,stc-mbs312poe,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs312poe,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mbs500poe,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs500poe,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mba503poe-hs,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,"rolling, global reset",21.8,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,62,29,29,53
+Sentech,stc-mca503poe-hs,area,,AR0521,onsemi,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,"rolling, global reset",21.8,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,62,29,29,53
+Sentech,stc-mbs642poe,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",17.4,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,63,29,29,53
+Sentech,stc-mcs642poe,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",17.4,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,63,29,29,53
+Sentech,stc-mbs881poe,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,12.4,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,100,40,30,54.5
+Sentech,stc-mcs881poe,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,12.4,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,100,40,30,54.5
+Sentech,stc-mbs1242poe,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs1242poe,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-mbs122bpoe,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,8.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,100,40,30,54.5
+Sentech,stc-mcs122bpoe,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,8.9,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,100,40,30,54.5
+Sentech,stc-mbs2041poe,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,65,29,29,53
+Sentech,stc-mcs2041poe,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,65,29,29,53
+Sentech,stc-bbs43poe-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs43poe-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs43poe-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Mono,,,Mono,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.7
+Sentech,stc-bcs43poe-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Color,,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,35.0
+Sentech,stc-bbs43ge-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs43ge-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs43ge-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Mono,,,Mono,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.7
+Sentech,stc-bcs43ge-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,282.8,,Color,,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,35.0
+Sentech,stc-bbs163poe-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40.1
+Sentech,stc-bcs163poe-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-bbs163poe-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Mono,,,Mono,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,47,38,38,34.7
+Sentech,stc-bcs163poe-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Color,,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,35.0
+Sentech,stc-bbs163ge-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40.1
+Sentech,stc-bcs163ge-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-bbs163ge-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Mono,,,Mono,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,47,38,38,34.7
+Sentech,stc-bcs163ge-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,70.7,,Color,,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,35.0
+Sentech,stc-bbs202poe-bc,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40
+Sentech,stc-bcs202poe-bc,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.3
+Sentech,stc-bbs202poe-bl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Mono,,,Mono,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.6
+Sentech,stc-bcs202poe-bl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Color,,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,34.9
+Sentech,stc-bbs202ge-bc,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40
+Sentech,stc-bcs202ge-bc,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.3
+Sentech,stc-bbs202ge-bl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Mono,,,Mono,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.6
+Sentech,stc-bcs202ge-bl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,54.6,,Color,,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,34.9
+Sentech,stc-bbs213poe-bc,area,,IMX290,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,47,38,38,39.7
+Sentech,stc-bcs213poe-bc,area,,IMX291,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,40.1
+Sentech,stc-bcs213poe-bc-nir,area,,IMX462,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,"Color, NIR",,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,40
+Sentech,stc-bbs213poe-bl,area,,IMX290,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Mono,,,Mono,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,46,38,38,34.4
+Sentech,stc-bcs213poe-bl,area,,IMX291,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Color,,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,46,38,38,34.7
+Sentech,stc-bcs213poe-bl-nir,area,,IMX462,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,"Color, NIR",,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,46,38,38,34.6
+Sentech,stc-bbs213ge-bc,area,,IMX290,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,47,38,38,39.7
+Sentech,stc-bcs213ge-bc,area,,IMX291,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,40.1
+Sentech,stc-bcs213ge-bc-nir,area,,IMX462,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,"Color, NIR",,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,47,38,38,40
+Sentech,stc-bbs213ge-bl,area,,IMX290,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Mono,,,Mono,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,46,38,38,34.4
+Sentech,stc-bcs213ge-bl,area,,IMX291,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,Color,,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,46,38,38,34.7
+Sentech,stc-bcs213ge-bl-nir,area,,IMX462,Sony,,,"1/2.8""",2.1,1920.0,1080.0,2.9,2.9,"rolling, global reset",53.0,,"Color, NIR",,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,46,38,38,34.6
+Sentech,stc-bbs312poe-bc,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs312poe-bc,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs312poe-bl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Mono,,,Mono,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.7
+Sentech,stc-bcs312poe-bl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Color,,,Color,S-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,35.0
+Sentech,stc-bbs312ge-bc,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs312ge-bc,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs312ge-bl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Mono,,,Mono,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,34.7
+Sentech,stc-bcs312ge-bl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,34.9,,Color,,,Color,S-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,35.0
+Sentech,stc-bbs500poe-bc,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs500poe-bc,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs500ge-bc,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,49,38,38,40.1
+Sentech,stc-bcs500ge-bc,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,21.9,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,49,38,38,40.4
+Sentech,stc-bbs1242poe-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40
+Sentech,stc-bcs1242poe-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-bbs1242ge-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40
+Sentech,stc-bcs1242ge-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",9.2,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-bbs2041poe-bc,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Mono,,,Mono,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40
+Sentech,stc-bcs2041poe-bc,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Color,,,Color,C-mount,GigE,PoE,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-bbs2041ge-bc,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Mono,,,Mono,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,38,38,40
+Sentech,stc-bcs2041ge-bc,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.5,,Color,,,Color,C-mount,GigE,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed RGB8,,48,38,38,40.4
+Sentech,stc-sbs800u3v-uv,area,,IMX487,Sony,,,"1/2.3""",8.1,2848.0,2848.0,2.74,2.74,global,45.1,,UV,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,76,35,35,41.5
+Sentech,stc-mbs43u3v,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,46,28,28,40
+Sentech,stc-mcs43u3v,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,46,28,28,40
+Sentech,stc-mbs52u3v,area,,IMX426,Sony,,,"1/1.7""",0.5,816.0,624.0,9.0,9.0,global,721.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,46,28,28,40
+Sentech,stc-mcs52u3v,area,,IMX426,Sony,,,"1/1.7""",0.5,816.0,624.0,9.0,9.0,global,721.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,46,28,28,40
+Sentech,stc-mbe132u3v,area,,EV76C560,Teledyne e2v,,,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,Mono,,,Mono,CS-mount,USB3,,Mono8 / Mono10,,38,28,28,33.8
+Sentech,stc-mce132u3v,area,,EV76C560,Teledyne e2v,,,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,Color,,,Color,CS-mount,USB3,,BayerRG8 / BayerRG10,,38,28,28,33.8
+Sentech,stc-mbs163u3v,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,46,28,28,40
+Sentech,stc-mcs163u3v,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,46,28,28,40
+Sentech,stc-mbs231u3v,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.6,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12,,48,28,28,40
+Sentech,stc-mcs231u3v,area,,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.6,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12,,48,28,28,40
+Sentech,stc-mbs241u3v,area,,IMX174,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,163.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12,,48,28,28,40
+Sentech,stc-mcs241u3v,area,,IMX174,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,163.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12,,48,28,28,40
+Sentech,stc-mbs312u3v,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,56.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,28,28,40
+Sentech,stc-mcs312u3v,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,56.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,48,28,28,40
+Sentech,stc-mbs322u3v,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,121.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,28,28,40
+Sentech,stc-mcs322u3v,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,121.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,48,28,28,40
+Sentech,stc-mbcm401u3v,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,89.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mccm401u3v,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,89.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12,,52,28,28,40
+Sentech,stc-mbcm401u3v-nir,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,89.0,,"Mono, NIR",,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12,,52,28,28,40
+Sentech,stc-mbs500u3v,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,28,28,40
+Sentech,stc-mcs500u3v,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,48,28,28,40
+Sentech,stc-mbs510u3v,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.7,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,48,28,28,40
+Sentech,stc-mcs510u3v,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.7,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,48,28,28,40
+Sentech,stc-mbpl510u3v,area,,IMX250MZR,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.7,,Polarization,,,,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mbs70bu3v,area,,IMX428,Sony,,,"1.1""",7.1,3216.0,2208.0,4.5,4.5,global,51.2,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mcs70bu3v,area,,IMX428,Sony,,,"1.1""",7.1,3216.0,2208.0,4.5,4.5,global,51.2,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,78,35,35,41.5
+Sentech,stc-mbs881u3v,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mcs881u3v,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,78,35,35,41.5
+Sentech,stc-mbs891u3v,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,41.9,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mcs891u3v,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,41.9,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,78,35,35,41.5
+Sentech,stc-mbs122bu3v,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mcs122bu3v,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,78,35,35,41.5
+Sentech,stc-mbs123bu3v,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.4,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,78,35,35,41.5
+Sentech,stc-mcs123bu3v,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.4,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,78,35,35,41.5
+Sentech,stc-mbs1242u3v,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",31.2,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,77,35,35,41.5
+Sentech,stc-mcs1242u3v,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",31.2,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,77,35,35,41.5
+Sentech,stc-mbs2041u3v,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",18.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,77,35,35,41.5
+Sentech,stc-mcs2041u3v,area,,IMX183,Sony,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",18.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,77,35,35,41.5
+Sentech,stc-bbs43u3v-ac,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,25.55
+Sentech,stc-bcs43u3v-ac,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,27,30.5,29,25.75
+Sentech,stc-bbs163u3v-ac,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,25.55
+Sentech,stc-bcs163u3v-ac,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,27,30.5,29,25.75
+Sentech,stc-bbs502u3v-ac,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,25.55
+Sentech,stc-bcs502u3v-ac,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,27,30.5,29,25.75
+Sentech,stc-bbs642u3v-ac,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,25.55
+Sentech,stc-bcs642u3v-ac,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,26,30.5,29,25.8
+Sentech,stc-bbs1242u3v-ac,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,25.55
+Sentech,stc-bcs1242u3v-ac,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,26,30.5,29,25.8
+Sentech,stc-bbs43u3v-al,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,20.1
+Sentech,stc-bcs43u3v-al,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,26,30.5,29,20.1
+Sentech,stc-bbs163u3v-al,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,20.1
+Sentech,stc-bcs163u3v-al,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,26,30.5,29,20.1
+Sentech,stc-bbs502u3v-al,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,26,30.5,29,20.1
+Sentech,stc-bcs502u3v-al,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,26,30.5,29,20.1
+Sentech,stc-bbs642u3v-al,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,25,30.5,29,20.1
+Sentech,stc-bcs642u3v-al,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,25,30.5,29,20.1
+Sentech,stc-bbs43u3v,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,No Mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bcs43u3v,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,No Mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bbs43u3v-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,15,27.5,27.5,23.13
+Sentech,stc-bcs43u3v-bc,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,16,27.5,27.5,23.33
+Sentech,stc-bbs43u3v-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,17,27.5,27.5,17.68
+Sentech,stc-bcs43u3v-bl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,527.1,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,18,27.5,27.5,17.68
+Sentech,stc-bbs163u3v,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,No Mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bcs163u3v,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,No Mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bbs163u3v-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,15,27.5,27.5,23.13
+Sentech,stc-bcs163u3v-bc,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,16,27.5,27.5,23.33
+Sentech,stc-bbs163u3v-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,17,27.5,27.5,17.68
+Sentech,stc-bcs163u3v-bl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,18,27.5,27.5,17.68
+Sentech,stc-bbs502u3v,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,No Mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bcs502u3v,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,No Mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bbs502u3v-bc,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,15,27.5,27.5,23.13
+Sentech,stc-bcs502u3v-bc,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,16,27.5,27.5,23.33
+Sentech,stc-bbs502u3v-bl,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,17,27.5,27.5,17.68
+Sentech,stc-bcs502u3v-bl,area,,IMX568,Sony,,,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,70.8,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,18,27.5,27.5,17.68
+Sentech,stc-bbs642u3v,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,No Mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bcs642u3v,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,No Mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bbs642u3v-bc,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,15,27.5,27.5,23.13
+Sentech,stc-bcs642u3v-bc,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,16,27.5,27.5,23.38
+Sentech,stc-bbs642u3v-bcs,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,CS-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,14,27.5,27.5,18.18
+Sentech,stc-bcs642u3v-bcs,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,CS-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,14,27.5,27.5,18.43
+Sentech,stc-bbs642u3v-bl,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,17,27.5,27.5,17.68
+Sentech,stc-bcs642u3v-bl,area,,IMX178,Sony,,,"1/1.8""",6.4,3072.0,2048.0,2.4,2.4,"rolling, global reset",29.5,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,18,27.5,27.5,17.68
+Sentech,stc-bbs1242u3v,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Mono,,,Mono,No Mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bcs1242u3v,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Color,,,Color,No Mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,5,26.8,26.8,6.49
+Sentech,stc-bbs1242u3v-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,15,27.5,27.5,23.13
+Sentech,stc-bcs1242u3v-bc,area,,IMX226,Sony,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,"rolling, global reset",25.8,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,16,27.5,27.5,23.38
+Sentech,stc-rbs163u3v-sm121,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,280,18,18,23.42
+Sentech,stc-rcs163u3v-sm121,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,280,18,18,23.62
+Sentech,stc-rbs163u3v-sm12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,360,18,18,23.42
+Sentech,stc-rcs163u3v-sm12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,360,18,18,23.62
+Sentech,stc-rbs163u3v-um121,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,280,18,18,21.42
+Sentech,stc-rcs163u3v-um121,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,280,18,18,21.66
+Sentech,stc-rbs163u3v-um12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Mono,,,Mono,S-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono10Packed / Mono12Packed,,360,18,18,21.42
+Sentech,stc-rcs163u3v-um12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,238.0,,Color,,,Color,S-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG10Packed / BayerRG12Packed,,360,18,18,21.66
+Sentech,stc-mbv133u3v-sp,area,,IMX382,Sony,,,"1/3.2""",1.3,1296.0,976.0,3.5,3.5,rolling,500.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono4Packed / Mono10Packed / Mono12Packed,,40,50,28,29
+Sentech,stc-mcv133u3v-sp,area,,IMX382,Sony,,,"1/3.2""",1.3,1296.0,976.0,3.5,3.5,rolling,500.0,,Color,,,Color,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono4Packed / Mono10Packed / Mono12Packed,,40,50,28,29
+Sentech,stc-mbv133u3v-tp,area,,IMX382,Sony,,,"1/3.2""",1.3,1296.0,976.0,3.5,3.5,rolling,500.0,,Mono,,,Mono,C-mount,USB3,,Mono8 / Mono10 / Mono12 / Mono4Packed / Mono10Packed / Mono12Packed,,40,28,50,29
+Sentech,stc-mcv133u3v-tp,area,,IMX382,Sony,,,"1/3.2""",1.3,1296.0,976.0,3.5,3.5,rolling,500.0,,Color,,,Color,C-mount,USB3,,BayerRG8 / BayerRG10 / BayerRG12 / BayerRG4Packed / BayerRG10Packed / BayerRG12Packed,,40,28,50,29
+Sentech,stc-cmb120aopq,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,279.0,,Mono,,,Mono,M42x1,Opt-C:Link,,Mono8,,815,80,80,62.5
+Sentech,stc-cmc120aopq,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,279.0,,Color,,,Color,M42x1,Opt-C:Link,,BayerGR8,,815,80,80,62.5
+Sentech,stc-cmb120aopq-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,279.0,,Mono,,,Mono,F-mount,Opt-C:Link,,Mono8,,930,80,80,99
+Sentech,stc-cmc120aopq-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,279.0,,Color,,,Color,F-mount,Opt-C:Link,,BayerGR8,,930,80,80,99
+Sentech,stc-cmb120aopt,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,93.4,,Mono,,,Mono,M42x1,Opt-C:Link,,Mono8,,445,72,72,90
+Sentech,stc-cmc120aopt,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,93.4,,Color,,,Color,M42x1,Opt-C:Link,,BayerGR8,,445,72,72,90
+Sentech,stc-cmb120aopt-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,93.4,,Mono,,,Mono,F-mount,Opt-C:Link,,Mono8,,520,72,72,126.5
+Sentech,stc-cmc120aopt-f,area,,CMV12000,ams OSRAM,,,"1.76""",12.0,4096.0,3072.0,5.5,5.5,global,93.4,,Color,,,Color,F-mount,Opt-C:Link,,BayerGR8,,520,72,72,126.5
+Sentech,stc-spb43pcl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,523.5,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,40,28,28,40
+Sentech,stc-spc43pcl,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,523.5,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,40,28,28,40
+Sentech,stc-spb52pcl,area,,IMX433,Sony,,,"1/1.7""",0.5,812.0,620.0,9.0,9.0,global,166.5,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,40,28,28,40
+Sentech,stc-spc52pcl,area,,IMX433,Sony,,,"1/1.7""",0.5,812.0,620.0,9.0,9.0,global,166.5,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,40,28,28,40
+Sentech,stc-spb163pcl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,154.6,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,40,28,28,40
+Sentech,stc-spc163pcl,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,154.6,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,40,28,28,40
+Sentech,stc-spb202pcl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.1,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,40,28,28,40
+Sentech,stc-spc202pcl,area,,IMX430,Sony,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.1,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,40,28,28,40
+Sentech,stc-cmb200pcl,area,,CMV2000,ams OSRAM,,,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,333.3,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10,,90,40,40,40.5
+Sentech,stc-cmc200pcl,area,,CMV2000,ams OSRAM,,,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,333.3,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10,,90,40,40,40.5
+Sentech,stc-cmb200pcl-nir,area,,CMV2000,ams OSRAM,,,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,333.3,,"Mono, NIR",,,Mono,C-mount,Camera Link,,Mono8 / Mono10,,90,40,40,40.5
+Sentech,stc-spb312pcl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1535.0,3.45,3.45,global,55.5,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,69,35,35,40.7
+Sentech,stc-spc312pcl,area,,IMX265,Sony,,,"1/1.8""",3.2,2048.0,1535.0,3.45,3.45,global,55.5,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,69,35,35,40.7
+Sentech,stc-spb322pcl,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1535.0,3.45,3.45,global,216.3,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,71,35,35,40.7
+Sentech,stc-spc322pcl,area,,IMX252,Sony,,,"1/1.8""",3.2,2048.0,1535.0,3.45,3.45,global,216.3,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,71,35,35,40.7
+Sentech,stc-cmb401pcl,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,179.2,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10,,90,40,40,40.5
+Sentech,stc-cmc401pcl,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,179.2,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10,,90,40,40,40.5
+Sentech,stc-cmb401pcl-nir,area,,CMV4000,ams OSRAM,,,"1""",4.0,2048.0,2048.0,5.5,5.5,global,179.2,,"Mono, NIR",,,Mono,C-mount,Camera Link,,Mono8 / Mono10,,90,40,40,40.5
+Sentech,stc-spb500pcl,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.6,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,69,35,35,40.7
+Sentech,stc-spc500pcl,area,,IMX264,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.6,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,69,35,35,40.7
+Sentech,stc-spb510pcl,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,161.9,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,71,35,35,40.7
+Sentech,stc-spc510pcl,area,,IMX250,Sony,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,161.9,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,71,35,35,40.7
+Sentech,stc-spb881pcl,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,20.6,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,69,35,35,40.7
+Sentech,stc-spc881pcl,area,,IMX267,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,20.6,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,69,35,35,40.7
+Sentech,stc-spb891pcl,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,91.5,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,71,35,35,40.7
+Sentech,stc-spc891pcl,area,,IMX255,Sony,,,"1""",8.9,4096.0,2160.0,3.45,3.45,global,91.5,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,71,35,35,40.7
+Sentech,stc-spb122bpcl,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,15.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,69,35,35,40.7
+Sentech,stc-spc122bpcl,area,,IMX304,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,15.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,69,35,35,40.7
+Sentech,stc-spb123bpcl,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,66.6,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,71,35,35,40.7
+Sentech,stc-spc123bpcl,area,,IMX253,Sony,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,66.6,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,71,35,35,40.7
+Sentech,stc-spb161bpcl,area,,IMX542,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,33.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-spc161bpcl,area,,IMX542,Sony,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,33.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,70,35,35,40.7
+Sentech,stc-spb203bpcl,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,26.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-spc203bpcl,area,,IMX541,Sony,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,26.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,70,35,35,40.7
+Sentech,stc-spb245cpcl,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,22.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,70,35,35,40.7
+Sentech,stc-spc245cpcl,area,,IMX540,Sony,,,"1.2""",24.5,5320.0,4600.0,2.74,2.74,global,22.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,70,35,35,40.7
+Sentech,stc-gpb250bpcl,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,30.7,,Mono,,,Mono,C-mount,Camera Link,,Mono8 / Mono10 / Mono12,,77,35,35,42.2
+Sentech,stc-gpc250bpcl,area,,GMAX0505,Gpixel,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,30.7,,Color,,,Color,C-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,77,35,35,42.2
+Sentech,stc-osb250cl,area,,Python25k,onsemi,,,,25.0,5120.0,5120.0,4.5,4.5,global,31.8,,Mono,,,Mono,M42x1,Camera Link,,Mono8 / Mono10,,400,75,75,40
+Sentech,stc-osc250cl,area,,Python25k,onsemi,,,,25.0,5120.0,5120.0,4.5,4.5,global,31.8,,Color,,,Color,M42x1,Camera Link,,BayerRG8 / BayerRG10,,400,75,75,40
+Sentech,stc-osb250cl-f,area,,Python25k,onsemi,,,,25.0,5120.0,5120.0,4.5,4.5,global,31.8,,Mono,,,Mono,F-mount,Camera Link,,Mono8 / Mono10,,505,75,75,76.5
+Sentech,stc-osc250cl-f,area,,Python25k,onsemi,,,,25.0,5120.0,5120.0,4.5,4.5,global,31.8,,Color,,,Color,F-mount,Camera Link,,BayerRG8 / BayerRG10,,505,75,75,76.5
+Sentech,stc-rbs43pcl-sm12,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,532.6,,Mono,,,Mono,S-mount,Camera Link,,Mono8 / Mono10 / Mono12,,300,18,18,23.42
+Sentech,stc-rcs43pcl-sm12,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,532.6,,Color,,,Color,S-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,300,18,18,23.42
+Sentech,stc-rbs43pcl-um12,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,532.6,,Mono,,,Mono,S-mount,Camera Link,,Mono8 / Mono10 / Mono12,,300,18,18,21.42
+Sentech,stc-rcs43pcl-um12,area,,IMX287,Sony,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,532.6,,Color,,,Color,S-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,300,18,18,21.42
+Sentech,stc-rbs163pcl-sm12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,155.0,,Mono,,,Mono,S-mount,Camera Link,,Mono8 / Mono10 / Mono12,,300,18,18,23.42
+Sentech,stc-rcs163pcl-sm12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,155.0,,Color,,,Color,S-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,300,18,18,23.42
+Sentech,stc-rbs163pcl-um12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,155.0,,Mono,,,Mono,S-mount,Camera Link,,Mono8 / Mono10 / Mono12,,300,18,18,21.42
+Sentech,stc-rcs163pcl-um12,area,,IMX273,Sony,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,155.0,,Color,,,Color,S-mount,Camera Link,,BayerRG8 / BayerRG10 / BayerRG12,,300,18,18,21.42
+Sentech,stc-hd213dv,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,DVI,,RGB8bit,,129,40,40,48.9
+Sentech,stc-hd213dv-cs,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,CS-mount,DVI,,RGB8bit,,121,40,40,43.9
+Sentech,stc-hd213dvn,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,DVI,,RGB8bit,,129,40,40,48.9
+Sentech,stc-hd213dvn-cs,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,CS-mount,DVI,,RGB8bit,,121,40,40,43.9
+Sentech,stc-hd213dvn-b,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,DVI,,RGB8bit,,45,35,35,34.2
+Sentech,stc-hd213sdi,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,3G-SDI,,RGB8bit,,138,40,40,48.9
+Sentech,stc-hd213sdi-cs,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,CS-mount,3G-SDI,,RGB8bit,,130,40,40,43.9
+Sentech,stc-hd213sdin,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,3G-SDI,,RGB8bit,,138,40,40,48.9
+Sentech,stc-hd213sdin-cs,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,CS-mount,3G-SDI,,RGB8bit,,130,40,40,43.9
+Sentech,stc-hd213sdin-b,area,,IMX291,Sony,,,"1/2.8""",,1920.0,1080.0,2.9,2.9,rolling,60.0,,Color,,,Color,C-mount,3G-SDI,,RGB8bit,,50,35,35,34.2
+Sentech,stc-s133uvc-bl,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,No Mount,USB3,,8bits,,8,23,20,15.1
+Sentech,stc-s133uvc-bll,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,USB3,,8bits,,13,25,22,24.5
+Sentech,stc-s133uvc-blcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,USB3,,8bits,,12,,,
+Sentech,stc-s133uvc-dbl,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,No Mount,USB3,,8bits,,8,23,20,15.1
+Sentech,stc-s133uvc-dbll,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,USB3,,8bits,,13,25,22,24.5
+Sentech,stc-s133uvc-dblcs,area,,ISX017,Sony,,,"1/3.2""",0.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,USB3,,8bits,,12,,,
+Sentech,stc-s133uvc-all,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,USB3,,8bits,,23,25,25,18
+Sentech,stc-s133uvc-alcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,USB3,,8bits,,24,25,25,25.6
+Sentech,stc-s133uvc-dall,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,USB3,,8bits,,23,25,25,18
+Sentech,stc-s133uvc-dalcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,USB3,,8bits,,24,25,25,25.6
+Sentech,stc-p213uvc-bll,area,,PV4209K,Pixelplus,,,"1/2.9""",2.0,1920.0,1080.0,2.8,2.8,rolling,30.0,,Color,,,Color,S-mount,USB3,,8bits,,14,,,
+Sentech,stc-p213uvc-blcs,area,,PV4209K,Pixelplus,,,"1/2.9""",2.0,1920.0,1080.0,2.8,2.8,rolling,30.0,,Color,,,Color,CS-mount,USB3,,8bits,,12,,,
+Sentech,stc-p213uvc-all,area,,PV4209K,Pixelplus,,,"1/2.9""",2.0,1920.0,1080.0,2.8,2.8,rolling,30.0,,Color,,,Color,S-mount,USB3,,8bits,,23,25,25,29.5
+Sentech,stc-p213uvc-alcs,area,,PV4209K,Pixelplus,,,"1/2.9""",2.0,1920.0,1080.0,2.8,2.8,rolling,30.0,,Color,,,Color,CS-mount,USB3,,8bits,,24,,,
+Sentech,stc-s133mip-nf,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,No Mount,MIPI CSI-2,,RGB8bits,,2,22.4,19,1.2
+Sentech,stc-s133mip,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,No Mount,MIPI CSI-2,,RGB8bits,,6,23,20,8.2
+Sentech,stc-s133mip-cs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,MIPI CSI-2,,RGB8bits,,9,,,
+Sentech,stc-s133mip-l,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,MIPI CSI-2,,RGB8bits,,10,25,22,17.6
+Sentech,stc-s133mip-d,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,No Mount,MIPI CSI-2,,RGB8bits,,6,23,20,8.2
+Sentech,stc-s133mip-dcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,MIPI CSI-2,,RGB8bits,,9,,,
+Sentech,stc-s133mip-dl,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,MIPI CSI-2,,RGB8bits,,10,25,22,17.6
+Sentech,stc-s133mip-alcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,MIPI CSI-2,,RGB8bits,,18,25,25,21.9
+Sentech,stc-s133mip-all,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,MIPI CSI-2,,RGB8bits,,17,25,25,24.8
+Sentech,stc-s133mip-dalcs,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,CS-mount,MIPI CSI-2,,RGB8bits,,18,25,25,21.9
+Sentech,stc-s133mip-dall,area,,ISX017,Sony,,,"1/3.2""",1.3,1280.0,720.0,3.5,3.5,rolling,60.0,,Color,,,Color,S-mount,MIPI CSI-2,,RGB8bits,,17,25,25,24.8
+Sentech,stc-s133n-nf,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,No Mount,Analog,,NTSC (SMTPE170M),,6,23,20,8.2
+Sentech,stc-s133n,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,No Mount,Analog,,NTSC (SMTPE170M),,6,23,20,8.2
+Sentech,stc-s133n-cs,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,No Mount,Analog,,NTSC (SMTPE170M),,10,,,
+Sentech,stc-s133n-l,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,S-mount,Analog,,NTSC (SMTPE170M),,11,25,22,17.6
+Sentech,stc-s133n-ls,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,S-mount,Analog,,NTSC (SMTPE170M),,11,25,22,17.6
+Sentech,stc-s133n-i,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,No Mount,Analog,,NTSC (SMTPE170M),,6,25,22,14.4
+Sentech,stc-s133n-ics,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,CS-mount,Analog,,NTSC (SMTPE170M),,10,,,
+Sentech,stc-s133n-il,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,S-mount,Analog,,NTSC (SMTPE170M),,11,25,22,17.6
+Sentech,stc-s133n-ils,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,S-mount,Analog,,NTSC (SMTPE170M),,10,25,22,14.4
+Sentech,stc-s133n-acs,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,CS-mount,Analog,,NTSC (SMTPE170M),,21,25,25,22
+Sentech,stc-s133n-al,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,S-mount,Analog,,NTSC (SMTPE170M),,20,25,25,14.4
+Sentech,stc-s133n-iacs,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,C-mount,Analog,,NTSC (SMTPE170M),,21,25,25,22
+Sentech,stc-s133n-ial,area,,ISX017,Sony,,,"1/3.2""",,1280.0,486.0,3.5,3.5,rolling,59.94,,Color,,,Color,CS-mount,Analog,,NTSC (SMTPE170M),,20,25,25,14.4
+Sentech,stc-s133p-nf,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,No Mount,Analog,,PAL (ITU-R BT.1700),,2,22.4,19,2.72
+Sentech,stc-s133p,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,No Mount,Analog,,PAL (ITU-R BT.1700),,6,23,20,8.2
+Sentech,stc-s133p-cs,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,10,,,
+Sentech,stc-s133p-l,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,11,25,22,17.6
+Sentech,stc-s133p-ls,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,10,25,22,14.4
+Sentech,stc-s133p-i,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,No Mount,Analog,,PAL (ITU-R BT.1700),,10,23,20,8.2
+Sentech,stc-s133p-ics,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,10,,,
+Sentech,stc-s133p-il,area,,ISX017,Sony,,,"1/3.2""",,,,3.5,3.5,rolling,,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,11,25,22,17.6
+Sentech,stc-s133p-ils,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,10,25,22,14.4
+Sentech,stc-s133p-acs,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,,36,36,37
+Sentech,stc-s133p-al,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,20,25,25,14.4
+Sentech,stc-s133p-iacs,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,21,25,25,22
+Sentech,stc-s133p-ial,area,,ISX017,Sony,,,"1/3.2""",,1211.0,576.0,3.5,3.5,rolling,50.0,,Color,,,Color,S-mount,Analog,,PAL (ITU-R BT.1700),,20,25,25,14.4
+Sentech,stc-s133n-bj,area,,ISX017,Sony,,,"1/3.2""",,1280.0,960.0,3.5,3.5,rolling,59.94,,Color,,,Color,CS-mount,Analog,,NTSC (SMTPE170M),,68,36,36,37
+Sentech,stc-s133n-bt,area,,ISX017,Sony,,,"1/3.2""",,1280.0,960.0,3.5,3.5,rolling,59.94,,Color,,,Color,CS-mount,Analog,,NTSC (SMTPE170M),,67,36,36,37
+Sentech,stc-s133p-bj,area,,ISX017,Sony,,,"1/3.2""",,1280.0,924.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,68,36,36,37
+Sentech,stc-s133p-bt,area,,ISX017,Sony,,,"1/3.2""",,1280.0,924.0,3.5,3.5,rolling,50.0,,Color,,,Color,CS-mount,Analog,,PAL (ITU-R BT.1700),,67,36,36,37

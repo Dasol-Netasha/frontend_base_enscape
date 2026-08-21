@@ -1,0 +1,68 @@
+@layer components {
+  .table-wrap {
+    @apply w-full overflow-x-auto rounded-xl;
+    border: 1px solid var(--theme-table-border);
+    background: var(--theme-table-bg);
+  }
+
+  .table-base {
+    @apply w-full border-collapse text-sm;
+  }
+
+  .table-head-row {
+    background: var(--theme-table-head-bg);
+  }
+
+  .table-row {
+    @apply border-t;
+    border-color: var(--theme-table-border);
+    background: var(--theme-table-row-bg);
+  }
+
+  .table-row-hover {
+    @apply transition-colors duration-150;
+  }
+
+  .table-row-hover:hover {
+    background: var(--theme-table-row-hover-bg);
+  }
+
+  .table-th {
+    @apply px-4 py-3 text-left font-semibold;
+    color: var(--theme-text-body);
+  }
+
+  .table-th-sortable {
+    @apply px-4 py-3;
+  }
+
+  .table-th-content {
+    @apply flex items-center justify-between gap-2;
+  }
+
+  .table-th-label {
+    @apply truncate;
+  }
+
+  .table-td {
+    @apply px-4 py-3;
+    color: var(--theme-text-body);
+  }
+
+  .table-cell-left {
+    @apply text-left;
+  }
+
+  .table-cell-center {
+    @apply text-center;
+  }
+
+  .table-cell-right {
+    @apply text-right;
+  }
+
+  .table-empty {
+    @apply px-4 py-8 text-center;
+    color: var(--theme-text-subtle);
+  }
+}

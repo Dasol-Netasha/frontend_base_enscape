@@ -1,0 +1,203 @@
+@layer components {
+  .tabs-layout {
+    @apply flex;
+  }
+
+  .tabs-layout-fill {
+    @apply h-screen w-full overflow-hidden;
+  }
+
+  .tabs-layout-horizontal {
+    @apply flex-col;
+  }
+
+  .tabs-layout-vertical {
+    @apply items-stretch gap-4;
+  }
+
+  .tabs-layout-vertical-divider {
+    @apply gap-0;
+  }
+
+  .tabs-layout-vertical .tab-list {
+    @apply min-w-44 self-start;
+  }
+
+  .tabs-layout-vertical .tab-panel {
+    @apply mt-0 flex-1;
+  }
+
+  .tabs-layout-vertical-divider .tab-list-line-vertical {
+    @apply border-r-0;
+  }
+
+  .tabs-content-divider-horizontal {
+    @apply border-t pt-4;
+    border-color: var(--theme-border-soft);
+  }
+
+  .tabs-content-divider-vertical {
+    @apply border-l pl-4;
+    border-color: var(--theme-border-soft);
+  }
+
+  .tabs-panel-container {
+    @apply min-h-0 flex-1 overflow-y-auto;
+  }
+
+  .tab-list {
+    @apply flex gap-1 rounded-lg p-1;
+    background: var(--theme-nav-bg);
+  }
+
+  .tab-list-solid {
+    @apply rounded-lg p-1;
+    background: var(--theme-nav-bg);
+  }
+
+  .tab-list-line {
+    @apply rounded-none bg-transparent p-0;
+  }
+
+  .tab-list-horizontal {
+    @apply flex-row;
+  }
+
+  .tab-list-align-left {
+    @apply w-full justify-start;
+  }
+
+  .tab-list-align-center {
+    @apply w-full justify-center;
+  }
+
+  .tab-list-align-right {
+    @apply w-full justify-end;
+  }
+
+  .tab-list-vertical {
+    @apply flex-col;
+  }
+
+  .tab-list-line-horizontal {
+    @apply border-b;
+    border-color: var(--theme-border-soft);
+  }
+
+  .tab-list-line-vertical {
+    @apply border-r;
+    border-color: var(--theme-border-soft);
+  }
+
+  .tab-item {
+    @apply relative inline-flex h-9 items-center justify-center rounded-md px-3 text-sm font-medium transition-all duration-300 ease-out focus:outline-none focus-visible:ring-2 disabled:cursor-not-allowed disabled:opacity-50;
+    --tab-ring-color: var(--theme-focus-ring-strong);
+    --tab-line-color: var(--theme-accent);
+    --tab-active-bg: var(--theme-surface-1);
+    --tab-active-text: var(--theme-text-strong);
+    --tab-inactive-text: var(--theme-text-subtle);
+    --tab-hover-bg: var(--theme-surface-3);
+    --tab-hover-text: var(--theme-text-strong);
+    --tab-divider: var(--theme-border-soft);
+  }
+
+  .tab-item:focus-visible {
+    box-shadow: 0 0 0 2px var(--tab-ring-color);
+  }
+
+  .tab-item-solid {
+    @apply rounded-md;
+  }
+
+  .tab-item-line {
+    @apply rounded-none bg-transparent;
+  }
+
+  .tab-item-line.tab-item-horizontal {
+    background-image: linear-gradient(var(--tab-line-color), var(--tab-line-color));
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 0 2px;
+    transition: background-size 220ms ease-out, color 220ms ease-out;
+  }
+
+  .tab-item-line.tab-item-vertical {
+    background-image: linear-gradient(var(--tab-line-color), var(--tab-line-color));
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 2px 0;
+    transition: background-size 220ms ease-out, color 220ms ease-out;
+  }
+
+  .tab-item-horizontal {
+    @apply w-auto;
+  }
+
+  .tab-item-vertical {
+    @apply w-full justify-start;
+  }
+
+  .tab-item-active {
+    @apply shadow-sm;
+    background: var(--tab-active-bg);
+    color: var(--tab-active-text);
+  }
+
+  .tab-item-inactive {
+    color: var(--tab-inactive-text);
+  }
+
+  .tab-item-inactive:hover {
+    background: var(--tab-hover-bg);
+    color: var(--tab-hover-text);
+  }
+
+  .tab-item-line.tab-item-horizontal.tab-item-line-active-horizontal {
+    color: var(--tab-active-text);
+    background-size: 100% 2px;
+  }
+
+  .tab-item-line.tab-item-vertical.tab-item-line-active-vertical {
+    color: var(--tab-active-text);
+    background-size: 2px 100%;
+  }
+
+  .tab-item-line-inactive {
+    color: var(--tab-inactive-text);
+  }
+
+  .tab-item-line-inactive:hover {
+    color: var(--tab-hover-text);
+  }
+
+  .tab-list-line-horizontal > .tab-item + .tab-item {
+    @apply border-l;
+    border-color: var(--tab-divider);
+  }
+
+  .tab-list-line-vertical > .tab-item + .tab-item {
+    @apply border-t;
+    border-color: var(--tab-divider);
+  }
+
+  .tab-panel {
+    @apply mt-4;
+  }
+
+  .tab-panel-fade-enter-active,
+  .tab-panel-fade-leave-active {
+    transition: opacity 180ms ease, transform 180ms ease;
+  }
+
+  .tab-panel-fade-enter-from,
+  .tab-panel-fade-leave-to {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  .tab-panel-fade-enter-to,
+  .tab-panel-fade-leave-from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

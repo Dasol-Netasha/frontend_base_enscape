@@ -1,0 +1,185 @@
+@layer components {
+  .btn-base {
+    @apply inline-flex items-center justify-center rounded-xl font-medium transition-colors duration-150 focus:outline-none focus:ring-2 focus:ring-offset-1 disabled:cursor-not-allowed disabled:opacity-50;
+    --btn-ring-offset: var(--theme-surface-1);
+    --btn-ring-color: var(--theme-focus-ring-strong);
+    box-shadow: 0 0 0 0 var(--btn-ring-color);
+  }
+
+  .btn-base:focus {
+    box-shadow: 0 0 0 2px var(--btn-ring-offset), 0 0 0 4px var(--btn-ring-color);
+  }
+
+  .btn-primary {
+    background: var(--theme-primary-bg);
+    color: var(--theme-primary-text);
+  }
+
+  .btn-primary:hover {
+    background: var(--theme-primary-bg-hover);
+  }
+
+  .btn-secondary {
+    background: var(--theme-secondary-bg);
+    color: var(--theme-secondary-text);
+  }
+
+  .btn-secondary:hover {
+    background: var(--theme-secondary-bg-hover);
+  }
+
+  .btn-danger {
+    background: var(--theme-danger-bg);
+    color: var(--theme-danger-text);
+  }
+
+  .btn-danger:hover {
+    background: var(--theme-danger-bg-hover);
+  }
+
+  .btn-ghost {
+    @apply bg-transparent;
+    color: var(--theme-text-body);
+  }
+
+  .btn-ghost:hover {
+    background: var(--theme-surface-3);
+    color: var(--theme-text-strong);
+  }
+
+  .btn-outlined {
+    @apply border bg-transparent;
+  }
+
+  .btn-outlined-primary {
+    border-color: var(--theme-primary-bg);
+    color: var(--theme-primary-bg);
+  }
+
+  .btn-outlined-primary:hover {
+    background: color-mix(in srgb, var(--theme-primary-bg) 8%, transparent);
+  }
+
+  .btn-outlined-secondary {
+    border-color: var(--theme-border-strong);
+    color: var(--theme-text-body);
+  }
+
+  .btn-outlined-secondary:hover {
+    background: var(--theme-surface-3);
+  }
+
+  .btn-outlined-danger {
+    @apply border-red-600 text-red-600 hover:bg-red-600/5;
+  }
+
+  .btn-outlined-ghost {
+    border-color: var(--theme-border-soft);
+    color: var(--theme-text-subtle);
+  }
+
+  .btn-outlined-ghost:hover {
+    background: var(--theme-surface-3);
+    color: var(--theme-text-body);
+  }
+
+  .btn-sm {
+    @apply h-8 px-3 text-sm;
+  }
+
+  .btn-md {
+    @apply h-10 px-4 text-sm;
+  }
+
+  .btn-lg {
+    @apply h-12 px-5 text-base;
+  }
+
+  .btn-rounded {
+    @apply rounded-full;
+  }
+
+  .btn-flat {
+    @apply h-auto w-auto border-none bg-transparent px-0 py-0 shadow-none hover:bg-transparent;
+  }
+
+  .btn-flat.btn-primary {
+    color: var(--theme-primary-bg);
+  }
+
+  .btn-flat.btn-primary:hover {
+    color: var(--theme-primary-bg-hover);
+  }
+
+  .btn-flat.btn-secondary {
+    color: var(--theme-text-body);
+  }
+
+  .btn-flat.btn-secondary:hover {
+    color: var(--theme-text-strong);
+  }
+
+  .btn-flat.btn-danger {
+    @apply text-red-600 hover:text-red-500;
+  }
+
+  .btn-flat.btn-ghost {
+    color: var(--theme-text-body);
+  }
+
+  .btn-flat.btn-ghost:hover {
+    color: var(--theme-text-strong);
+  }
+
+  .btn-flat-sm {
+    @apply text-sm;
+  }
+
+  .btn-flat-md {
+    @apply text-sm;
+  }
+
+  .btn-flat-lg {
+    @apply text-base;
+  }
+
+  .btn-icon {
+    @apply p-0;
+  }
+
+  .btn-icon-flat {
+    @apply p-0;
+  }
+
+  .btn-icon-sm {
+    @apply h-8 w-8;
+  }
+
+  .btn-icon-md {
+    @apply h-10 w-10;
+  }
+
+  .btn-icon-lg {
+    @apply h-12 w-12;
+  }
+
+  .icon-svg {
+    @apply shrink-0;
+  }
+
+  .icon-svg > svg {
+    @apply h-full w-full;
+  }
+
+  .icon-svg-sm .icon-svg {
+    @apply h-4 w-4;
+  }
+
+  .icon-svg-md .icon-svg {
+    @apply h-5 w-5;
+  }
+
+  .icon-svg-lg .icon-svg {
+    @apply h-6 w-6;
+  }
+}

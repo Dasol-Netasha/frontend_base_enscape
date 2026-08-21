@@ -1,0 +1,539 @@
+﻿brand	model_name,camera_type,sensor_name,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+Hikrobot	MV-CT0MG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT1CG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT1MG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0004/G/NN/NN,area,,,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,200.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT0MG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0016/G/NN/NN,area,,,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT0MG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,180.1,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,180.1,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0020/G/NN/NN,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT0MG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT1MU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,70,29,29,30
+Hikrobot	MV-CT1CU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,70,29,29,30
+Hikrobot	MV-CT2MG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MG0032/G/16LC/WN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0032/G/16LC/WN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,39.0,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,109,42,42,43
+Hikrobot	MV-CT2CU0032/G/NN/NN,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,104.8,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,109,42,42,43
+Hikrobot	MV-CT0MG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT1CU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,70,29,29,30
+Hikrobot	MV-CT1MU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,70,29,29,30
+Hikrobot	MV-CT2MG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MG0050/G/16LC/WN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0050/G/16LC/WN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,109,42,42,43
+Hikrobot	MV-CT2CU0050/G/NN/NN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,109,42,42,43
+Hikrobot	MV-CT2MU0050/G/16LC/WN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,,,,,,,C-mount,"USB3, USB2",,,CMOS,,,,
+Hikrobot	MV-CT2CU0050/G/16LC/WN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,,,,,,,C-mount,"USB3, USB2",,,CMOS,,,,
+Hikrobot	MV-CT0MG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0060/R/NN/NN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0060/R/16LC/WN,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT0MG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT1MU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,70,29,29,30
+Hikrobot	MV-CT1CU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,70,29,29,30
+Hikrobot	MV-CT2MG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,109,42,42,43
+Hikrobot	MV-CT2CU0089/G/NN/NN,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,42.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,109,42,42,43
+Hikrobot	MV-CT0MG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MG0120/G/16LC/WN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0120/G/16LC/WN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT1MU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,70,29,29,30
+Hikrobot	MV-CT1CU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,70,29,29,30
+Hikrobot	MV-CT2MU0120/G/16LC/WN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,,,,,,,C-mount,"USB3, USB2",,,CMOS,,,,
+Hikrobot	MV-CT2CU0120/G/16LC/WN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,,,,,,,C-mount,"USB3, USB2",,,CMOS,,,,
+Hikrobot	MV-CT0MG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT1MG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0120/R/NN/NN,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,9.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,109,42,42,43
+Hikrobot	MV-CT2CU0120/G/NN/NN,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,109,42,42,43
+Hikrobot	MV-CT0MG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,116,29,29,42
+Hikrobot	MV-CT0CG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,116,29,29,42
+Hikrobot	MV-CT0MU0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.3,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,72,29,29,30
+Hikrobot	MV-CT0CU0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.3,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,72,29,29,30
+Hikrobot	MV-CT1MG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,124,29,29,42
+Hikrobot	MV-CT1CG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,124,29,29,42
+Hikrobot	MV-CT2MG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0200/R/NN/NN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CT2MG0200/R/16LC/WN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,120,42,42,43
+Hikrobot	MV-CT2CG0200/R/16LC/WN,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,120,42,42,43
+Hikrobot	MV-CS004-10GM,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,125.2,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS004-10GC,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,125.2,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS004-10UM,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,526.5,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS004-10UM V5,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,525.5,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS004-10UC,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,526.5,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS004-10UC V5,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,530.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS004-11GM,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,312.9,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS004-11GC,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,312.9,,,,,,C-mount,GigE,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS013-60GN,area,,,,,"2/3""",1.25,1224.0,1024.0,6.9,6.9,global,59.2,,NIR,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS016-10GM,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.2,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS016-10GC,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.2,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS016-10UM,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS016-10UM V5,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS016-10UC,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS016-10UC V5,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS016-11GM,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS020-10GM,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,60.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS020-10GC,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,60.0,,,,,,C-mount,GigE,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS020-10UM,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,90.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS020-10UC,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,90.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS020-60GM,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,"Mono, Color",,,,C-mount,GigE,,"Mono 8/10/10Packed/12/12Packed,Mono 8/10/12,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS020-60GC,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,60.3,,"Mono, Color",,,,C-mount,GigE,,"Mono 8/10/10Packed/12/12Packed,Mono 8/10/12,, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS023-10GM,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS023-10GC,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,,,,,C-mount,GigE,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS023-10UM,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,78,29,29,30
+Hikrobot	MV-CS023-10UC,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,78,29,29,30
+Hikrobot	MV-CS028-10UM,area,IMX421,Sony,,,"2/3""",2.83,1936.0,1464.0,4.5,4.5,global,132.2,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS032-10GM,area,IMX265,Sony,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.1,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS032-10GC,area,IMX265,Sony,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.1,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS032-60GM,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.6,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS032-60GM V5,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS032-60GC,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.6,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS032-60GC V5,area,,,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,38.9,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS040-A0UM,area,,,,,"1""",4.19,2048.0,2048.0,5.5,5.5,global,90.1,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,88,29,29,30
+Hikrobot	MV-CS040-A0UC,area,,,,,"1""",4.19,2048.0,2048.0,5.5,5.5,global,90.1,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,88,29,29,30
+Hikrobot	MV-CS050-10GM,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.2,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-10GC,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.2,,,,,,C-mount,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS050-10GM-PRO,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.2,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS050-10GC-PRO,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.2,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS050-10UM,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS050-10UC,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422_YUYV_Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS050-20GM,area,XGS5000,onsemi,,,"2/3""",5.31,2592.0,2048.0,3.2,3.2,global,22.7,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-20GC,area,XGS5000,onsemi,,,"2/3""",5.31,2592.0,2048.0,3.2,3.2,global,22.7,,,,,,C-mount,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS050-60GM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,23.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-60GM V5,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.4,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-60GC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,23.0,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS050-60GC V5,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.4,,Color,,,Color,C-mount,GigE,,"Mono 8, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS050-60GN,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,23.0,,NIR,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-60UM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS050-60UM V5,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,"Mono, Color",,,,C-mount,"USB3, USB2",,"Mono 8/10/10Packed/12/12Packed, Mono 8, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS050-60UC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS050-60UC V5,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,"Mono, Color",,,,C-mount,"USB3, USB2",,"Mono 8/10/10Packed/12/12Packed, Mono 8, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS050-80GM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,102,29,29,42
+Hikrobot	MV-CS050-80GC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.0,,,,,,C-mount,GigE,,"Mono 8, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,102,29,29,42
+Hikrobot	MV-CS050-80UM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,87,29,29,30
+Hikrobot	MV-CS050-80UC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,,,,,C-mount,"USB3, USB2",,"Mono 8, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,87,29,29,30
+Hikrobot	MV-CS050-90GM,area,GMAX3405,,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,24.2,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS050-90GC,area,GMAX3405,,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,24.2,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GM V5,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GC,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GC V5,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.5,,Color,,,Color,C-mount,GigE,,"Mono 8,, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GM-PRO,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS060-10GC-PRO,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS060-10UM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS060-10UC,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS060-10UM-PRO,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,59.6,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422Packed, YUV422_YUYV_Packed, RGB, 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS060-10UC-PRO,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,59.6,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,80,29,29,30
+Hikrobot	MV-CS120-10GM V5,area,IMX226,Sony,,,"1/1.7”""",12.22,4024.0,3036.0,1.85,1.85,rolling,10.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CS120-10GC V5,area,IMX226,Sony,,,"1/1.7”""",12.22,4024.0,3036.0,1.85,1.85,rolling,10.0,,Color,,,Color,C-mount,GigE,,"Mono 8, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS120-10UM,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,29.4,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS120-10UC,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,29.4,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS200-10GM,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS200-10GC,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS200-10GM V5,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,,,,,C-mount,GigE,,"Mono 8/10/10Packed/12/12Packed, Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS200-10GC V5,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,,,,,C-mount,GigE,,"Mono 8/10/10Packed/12/12Packed, Mono 8, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CS200-10UM,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS200-10UM V5,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CS200-10UC,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GB 8/10/10Packed /12/12Packed ,, YUV422_YUYV_Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS200-10UC V5,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8,, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CS200-10GM-ADV,area,IMX183,,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CS200-RC,area,IMX183,,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, <br/>Bayer GB 8/10/10Packed /12/12Packed ,<br/>YUV422_YUYV_Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CU004-10GM,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,126.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU004-10GC,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,126.5,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-80GM,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-80GC,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,Color,,,Color,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-80UM,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,240.4,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,77,29,29,30
+Hikrobot	MV-CU013-80UC,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,240.4,,Color,,,Color,C-mount,"USB3, USB2",,Bayer BG 8/10/10Packed/12/12Packed,CMOS,77,29,29,30
+Hikrobot	MV-CU013-A0GM,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,91.3,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-A0GC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,91.3,,Color,,,Color,C-mount,GigE,,Bayer GB 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-A1GC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,90.0,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CU013-A0UM,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.4,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU013-A0UC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.4,,Color,,,Color,C-mount,"USB3, USB2",,Bayer GB 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU013-A1UC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,210.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,76,29,29,30
+Hikrobot	MV-CU016-10GM,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.8,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU016-10GC,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.8,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-80GM,area,,,,,"1/2.6""",1.92,1600.0,1200.0,3.45,3.45,global,53.5,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,97,29,29,42
+Hikrobot	MV-CU020-80GC,area,,,,,"1/2.6""",1.92,1600.0,1200.0,3.45,3.45,global,53.5,,,,,,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,97,29,29,42
+Hikrobot	MV-CU020-90GM,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,49.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-90GC,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,49.0,,,,,,C-mount,GigE,,Bayer GB 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-90UM,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,150.2,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CU020-90UC,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,150.2,,,,,,C-mount,"USB3, USB2",,Bayer GB 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CU020-19GM V3,area,,,,,"1/2.8""",2.07,1920.0,1080.0,2.9,2.9,rolling,56.0,,Mono,,,Mono,C-mount,GigE,,Mono 8,CMOS,100,29,29,42
+Hikrobot	MV-CU020-19GC V3,area,,,,,"1/2.8""",2.07,1920.0,1080.0,2.9,2.9,rolling,56.0,,Color,,,Color,C-mount,GigE,,"Mono 8, YUV422Packed",CMOS,100,29,29,42
+Hikrobot	MV-CU020-19GC(850nm) V3,area,,,,,"1/2.8""",2.07,1920.0,1080.0,2.9,2.9,rolling,56.0,,Mono,,,Mono,C-mount,GigE,,Mono 8,CMOS,100,29,29,42
+Hikrobot	MV-CU050-30GC,area,AR0521,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,24.0,,Color,,,Color,C-mount,GigE,,Bayer GR 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU050-60GM,area,,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,23.1,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU050-60UM,area,,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,48.2,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU050-90GM,area,GMAX2505,,,,"1/2""",5.62,2600.0,2160.0,2.5,2.5,global,21.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,117,29,29,47.6
+Hikrobot	MV-CU050-90GC,area,GMAX2505,,,,"1/2""",5.62,2600.0,2160.0,2.5,2.5,global,21.0,,Color,,,Color,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,117,29,29,47.6
+Hikrobot	MV-CU050-30GM,area,AR0521,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,24.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU200-20GC,area,AR2020,,,,"1/1.8""",19.66,5120.0,3840.0,1.4,1.4,rolling,5.9,,,,,,C-mount,GigE,,Bayer GR 8/10/10 Packed/12/12 Packed,CMOS,100,,,
+Hikrobot	MV-CU200-20GM,area,AR2020,,,,"1/1.8""",19.66,5120.0,3840.0,1.4,1.4,rolling,5.9,,,,,,C-mount,GigE,,Mono 8/10/10 Packed/12/12 Packed,CMOS,100,,,
+Hikrobot	MV-CU050-90UM,area,GMAX2505,,,,"1/2""",5.62,2600.0,2160.0,2.5,2.5,global,59.8,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,94,29,29,35.6
+Hikrobot	MV-CU050-90UC,area,GMAX2505,,,,"1/2""",5.62,2600.0,2160.0,2.5,2.5,global,59.8,,Color,,,Color,C-mount,"USB3, USB2",,Bayer BG 8/10/10Packed/12/12Packed,CMOS,94,29,29,35.6
+Hikrobot	MV-CU060-10GM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-10GC,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-10UM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,59.6,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU060-10UC,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,59.6,,Color,,,Color,C-mount,"USB3, USB2",,Bayer RG 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU060-60GM,area,,,,,"1/2.4""",6.22,3200.0,1944.0,2.0,2.0,rolling,19.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-60GC,area,,,,,"1/2.4""",6.22,3200.0,1944.0,2.0,2.0,rolling,19.0,,,,,,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU120-10GM,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU120-10GC,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU120-10UM,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,29.2,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU120-10UC,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,29.2,,Color,,,Color,C-mount,"USB3, USB2",,Bayer RG 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CU020-90GM V2,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,49.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-90GC V2,area,GMAX4002,,,,"1/1.7""",2.46,2048.0,1200.0,4.0,4.0,global,49.0,,Color,,,Color,C-mount,GigE,,Bayer GB 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU200-20GM V2,area,AR2020,,,,"1/1.8""",19.66,5120.0,3840.0,1.4,1.4,rolling,5.9,,,,,,C-mount,GigE,,Mono 8/10/10 Packed/12/12 Packed,CMOS,100,,,
+Hikrobot	MV-CU200-20GC V2,area,AR2020,,,,"1/1.8""",19.66,5120.0,3840.0,1.4,1.4,rolling,5.9,,,,,,C-mount,GigE,,Bayer GR 8/10/10 Packed/12/12 Packed,CMOS,100,,,
+Hikrobot	MV-CU004-10GM V2,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,126.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU004-10GC V2,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,126.5,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-80GC V2,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,Color,,,Color,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-80GM V2,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-A0GC V2,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,90.2,,Color,,,Color,C-mount,GigE,,Bayer GB 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU013-A0GM V2,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,90.2,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU016-10GM V2,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.8,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU016-10GC V2,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.8,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-80GM V2,area,,,,,"1/2.6""",1.92,1600.0,1200.0,3.45,3.45,global,53.5,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU020-80GC V2,area,,,,,"1/2.6""",1.92,1600.0,1200.0,3.45,3.45,global,53.5,,,,,,C-mount,GigE,,Bayer GB 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU050-30GC V2,area,AR0521,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,24.0,,Color,,,Color,C-mount,GigE,,Bayer GR 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU050-30GM V2,area,AR0521,,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,24.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-10GM V2,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-10GC V2,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-60GM V2,area,,,,,"1/2.4""",6.22,3200.0,1944.0,2.0,2.0,rolling,19.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU060-60GC V2,area,,,,,"1/2.4""",6.22,3200.0,1944.0,2.0,2.0,rolling,19.0,,Color,,,Color,C-mount,GigE,,Bayer BG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU120-10GM V2,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CU120-10GC V2,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Color,,,Color,C-mount,GigE,,Bayer RG 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH040-A0CM,area,,,,,"1""",4.19,2048.0,2048.0,5.5,5.5,global,180.0,,Mono,,,Mono,C-mount,Camera Link,,Mono 8/10/12,CMOS,100,44,29,59
+Hikrobot	MV-CH050-10UM,area,IMX250,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,74.1,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH050-10UC,area,IMX250,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,74.1,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10//10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH050-10CM,area,IMX250,Sony,,,"2/3""",4.98,2432.0,2048.0,3.45,3.45,global,140.0,,Mono,,,Mono,C-mount,Camera Link,,Mono 8/10/12,CMOS,100,44,29,59
+Hikrobot	MV-CH050-10CC,area,IMX250,Sony,,,"2/3""",4.98,2432.0,2048.0,3.45,3.45,global,140.0,,Color,,,Color,C-mount,Camera Link,,"Bayer RG 8/10/12, RGB 8",CMOS,100,44,29,59
+Hikrobot	MV-CH050-60UM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,79.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH050-60NM,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"2.5GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH050-60NC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"2.5GigE, GigE",,"Mono 8/10/12,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH050-60UC,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,79.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12,, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH050-90XM-C-NN,area,GMAX2505,Gpixel,,,"1/2""",5.6,2592.0,2160.0,2.5,2.5,global,213.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/12,CMOS,220,50,50,45
+Hikrobot	MV-CH050-90XC-C-NN,area,GMAX2505,Gpixel,,,"1/2""",5.6,2592.0,2160.0,2.5,2.5,global,213.0,,Color,,,Color,C-mount,CoaXPress,,"Mono 8, Bayer BG 8/12, YUV 422 Packed",CMOS,220,50,50,45
+Hikrobot	MV-CH050-90Y1M-NN,area,GMAX3405,Gpixel,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,164.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,90,29,29,42
+Hikrobot	MV-CH050-90Y1C-NN,area,GMAX3405,Gpixel,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,164.0,,Color,,,Color,C-mount,CoaXPress,,Bayer GB 8/10/12,CMOS,90,29,29,42
+Hikrobot	MV-CH050-90TM-C-NF,area,GMAX3405,Gpixel,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,163.4,,Mono,,,Mono,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,212,50,45,68.6
+Hikrobot	MV-CH050-90TC-C-NF,area,GMAX3405,Gpixel,,,"2/3""",5.01,2448.0,2048.0,3.4,3.4,global,163.4,,Color,,,Color,C-mount,"10GigE, GigE",,Bayer GB 8/10/10Packed/12/12Packed,CMOS,212,50,45,68.6
+Hikrobot	MV-CH089-10GM,area,IMX267,Sony,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.7,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH089-10GC,area,IMX267,Sony,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.7,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH089-10UM,area,IMX267,Sony,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,32.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,100,44,29,59
+Hikrobot	MV-CH089-10UC,area,IMX267,Sony,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,32.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,44,29,59
+Hikrobot	MV-CH089-60GM V5,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH089-60GC V5,area,,,,,"1""",8.85,4096.0,2160.0,3.45,3.45,global,13.9,,,,,,C-mount,GigE,,"Mono 8, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH100-60GM,area,,,,,"1""",10.08,4096.0,2460.0,3.45,3.45,global,11.6,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,92,29,44,59
+Hikrobot	MV-CH100-60GC,area,,,,,"1""",10.08,4096.0,2460.0,3.45,3.45,global,11.6,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, , Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,92,29,44,59
+Hikrobot	MV-CH100-60UM,area,,,,,"1""",10.08,4096.0,2460.0,3.45,3.45,global,36.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,113,29,44,59
+Hikrobot	MV-CH100-60UC,area,,,,,"1""",10.08,4096.0,2460.0,3.45,3.45,global,36.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,113,29,44,59
+Hikrobot	MV-CH120-10GM(EoL),area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.4,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,140,44,29,59
+Hikrobot	MV-CH120-10GC(EoL),area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.4,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GR 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,140,44,29,59
+Hikrobot	MV-CH120-10UM(EoL),area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,23.1,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,100,44,29,59
+Hikrobot	MV-CH120-10UC(EoL),area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,23.1,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,44,29,59
+Hikrobot	MV-CH120-10GM,area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH120-10GC,area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.9,,,,,,C-mount,GigE,,"Mono 8/10/12, , Bayer RG 8/10/10Packed /12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH120-10UM,area,IMX304,Sony,,,"1.1”""",12.29,4096.0,3000.0,3.45,3.45,global,30.5,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH120-10UC,area,IMX304,Sony,,,"1.1”""",12.29,4096.0,3000.0,3.45,3.45,global,30.5,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH120-60GM,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH120-60GC,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.5,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH120-60UM,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,30.7,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH120-60UC,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,30.7,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer GB 8/10/10Packed /12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH120-15TM-M58S-NF,area,IMX253,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,68.3,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,74,74,72.4
+Hikrobot	MV-CH120-15TC-M58S-NF,area,IMX253,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,68.3,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8, Bayer RG 8, , YUV422Packed, YUV422_YUYV_Packed, , RGB 8, BGR 8",CMOS,550,74,74,72.4
+Hikrobot	MV-CH120-11UM,area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,30.3,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed /12/12Packed,CMOS,100,44,29,59
+Hikrobot	MV-CH120-11UC,area,IMX304,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,30.3,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,44,29,59
+Hikrobot	MV-CH120-10CM,area,IMX253,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,50.9,,Mono,,,Mono,C-mount,Camera Link,,Mono 8/10/12,CMOS,100,44,29,59
+Hikrobot	MV-CH120-10CC,area,IMX253,Sony,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,51.4,,Color,,,Color,C-mount,Camera Link,,"Bayer RG 8/10/12, RGB 8",CMOS,100,44,29,59
+Hikrobot	MV-CH120-20GM,area,XGS12000,onsemi,,,"1""",12.58,4096.0,3072.0,3.2,3.2,global,9.6,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH120-20GC,area,XGS12000,onsemi,,,"1""",12.58,4096.0,3072.0,3.2,3.2,global,9.6,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH120-20UM,area,XGS12000,onsemi,,,"1”""",12.58,4096.0,3072.0,3.2,3.2,global,28.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH120-20UC,area,XGS12000,onsemi,,,"1”""",12.58,4096.0,3072.0,3.2,3.2,global,28.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10Packed/12/12Packed YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH120-40XM-M58S-NN,area,CMV12000,ams OSRAM,,28.14,,12.58,4096.0,3072.0,5.5,5.5,global,188.0,,,,,,M58x0.75,CoaXPress,,Mono 8/10,CMOS,269,60,60,59
+Hikrobot	MV-CH120-60GM V5,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,10.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MV-CH120-60GC V5,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,10.0,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CH120-60UM V5,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.3,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH120-60UC V5,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,31.3,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH120-60TM-C-NF,area,,,,,"1.1""",12.58,4096.0,3072.0,3.45,3.45,global,80.0,,Mono,,,Mono,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,203,50,45,68.6
+Hikrobot	MV-CH120-60TC-C-NF,area,,,,,"1.1""",12.58,4096.0,3072.0,3.45,3.45,global,80.0,,Color,,,Color,C-mount,"10GigE, GigE",,Bayer GB 8/10/10Packed/12/12Packed,CMOS,203,50,45,68.6
+Hikrobot	MV-CH120-60VM,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,60.2,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH120-60VC,area,,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,60.2,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer GB 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,44,59
+Hikrobot	MV-CH120-90TM-C-NF,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,94.0,,Mono,,,Mono,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,212,50,45,68.6
+Hikrobot	MV-CH120-90Y1M-NH,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,93.9,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,170,29,85,42
+Hikrobot	MV-CH120-90Y1M-NN,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,93.9,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,170,29,85,42
+Hikrobot	MV-CH120-90Y1C-NN,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,93.9,,Color,,,Color,C-mount,CoaXPress,,Bayer GB 8/10/12,CMOS,170,29,85,42
+Hikrobot	MV-CH120-90Y1C-NH,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,93.9,,Color,,,Color,C-mount,CoaXPress,,Bayer GB 8/10/12,CMOS,170,29,85,42
+Hikrobot	MV-CH120-90X2M-C-NN,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,95.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH120-90Y2M-C-NN,area,GMAX3412,Gpixel,,,"1.1""",12.32,4096.0,3008.0,3.4,3.4,global,149.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH120-90X2C-C-NN,area,GMAX3412,Gpixel,,,"1.1""",12.58,4096.0,3072.0,3.4,3.4,global,95.0,,Color,,,Color,C-mount,CoaXPress,,Bayer GB 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH120-90Y2C-C-NN,area,GMAX3412,Gpixel,,,"1.1""",12.32,4096.0,3008.0,3.4,3.4,global,149.0,,Color,,,Color,C-mount,CoaXPress,,Bayer GB 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH123-10UM,area,IMX545,Sony,,,"1/1.1""",12.29,4096.0,3000.0,2.74,2.74,global,31.5,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CH123-10UC,area,IMX545,Sony,,,"1/1.1""",12.29,4096.0,3000.0,2.74,2.74,global,31.5,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CH140-60GM,area,,,,,"1""",13.3,4708.0,2824.0,3.0,3.0,global,9.0,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,117,29,44,59
+Hikrobot	MV-CH140-60UM,area,,,,,"1""",13.3,4708.0,2824.0,3.0,3.0,global,27.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,113,29,44,59
+Hikrobot	MV-CH140-60GC,area,,,,,"1""",13.3,4708.0,2824.0,3.0,3.0,global,9.0,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, , Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,117,29,44,59
+Hikrobot	MV-CH140-90XM-M58S-NN,area,Gsprint 5514,Gpixel,,30.46,,14.16,4608.0,3072.0,5.5,5.5,global,169.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,790,60,60,76
+Hikrobot	MV-CH140-90YM-M58S-NF,area,Gsprint 5514,Gpixel,,30.46,,14.16,4608.0,3072.0,5.5,5.5,global,339.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,790,60,60,77
+Hikrobot	MV-CH140-90YC-M58S-NF,area,Gsprint 5514,Gpixel,,30.46,,14.16,4608.0,3072.0,5.5,5.5,global,339.0,,Color,,,Color,M58x0.75,CoaXPress,,Bayer GR 8/10/12,CMOS,790,60,60,77
+Hikrobot	MV-CH160-60GM,area,,,,,"1.1""",16.0,4000.0,4000.0,3.2,3.2,global,7.25,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/12,CMOS,100,29,44,59
+Hikrobot	MV-CH210-90YM-M58S-NN,area,Gsprint4521,Gpixel,,29.5,,20.97,5120.0,4096.0,4.5,4.5,global,222.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,790,84,84,75
+Hikrobot	MV-CH210-90YC-M58S-NN,area,Gsprint4521,Gpixel,,29.5,,20.97,5120.0,4096.0,4.5,4.5,global,222.0,,Color,,,Color,M58x0.75,CoaXPress,,Bayer GB 8/10/12,CMOS,790,84,84,75
+Hikrobot	MV-CH210-90Q2M-M58S-NF,area,Gsprint4521,Gpixel,,29.5,,20.97,5120.0,4096.0,4.5,4.5,global,541.0,,Mono,,,Mono,M58x0.75,QSFP,,Mono 8,CMOS,1153,84,84,100
+Hikrobot	MV-CH240-10TM-C-NN,area,IMX540,Sony,,,"1.2""",24.51,5328.0,4600.0,2.74,2.74,global,35.1,,,,,,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,600,84,84,92.5
+Hikrobot	MV-CH250-20XM-M58S-NN,area,PYTHON25K,onsemi,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,80.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,730,84,84,92.5
+Hikrobot	MV-CH250-20CM-M58S-NN,area,PYTHON25K,onsemi,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,31.3,,,,,,M58x0.75,Camera Link,,Mono 8,CMOS,380,70,70,44.3
+Hikrobot	MV-CH250-25TM-M58S-NF,area,PYTHON25K,onsemi,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,40.0,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,58,74,74
+Hikrobot	MV-CH250-25TM-F-NF,area,PYTHON25K,onsemi,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,40.0,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,600,74,74,78.7
+Hikrobot	MV-CH250-25TC-M58S-NF,area,PYTHON25K,onsemi,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,40.0,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,550,58,74,74
+Hikrobot	MV-CH250-60UM,area,,,,17.82,,26.21,5120.0,5120.0,2.5,2.5,rolling,14.8,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,103,29,44,59
+Hikrobot	MV-CH250-60UC,area,,,,17.82,,26.21,5120.0,5120.0,2.5,2.5,rolling,14.8,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12,, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_8_YUYV,, RGB 8, BGR 8",CMOS,103,29,44,59
+Hikrobot	MV-CH250-60TM-M58S-NF,area,,,,32.53,,26.21,5120.0,5120.0,4.5,4.5,global,31.7,,,,,,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,74,74,78.8
+Hikrobot	MV-CH250-90GM,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,4.5,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH250-90UN V4,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,14.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH250-90TM-C-NF,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Mono,,,Mono,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,590,74,74,78.8
+Hikrobot	MV-CH250-90TC-C-NF,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Color,,,Color,C-mount,"10GigE, GigE",,"Mono 8/10/12,, Bayer BG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,590,74,74,78.8
+Hikrobot	MV-CH250-90GC,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,4.5,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, , Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,44,59
+Hikrobot	MV-CH250-90GN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,4.5,,NIR,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH250-90UM V4,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,14.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH250-90UC V4,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,14.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,100,29,44,59
+Hikrobot	MV-CH250-90TM-M58S-NF,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,74,74,78.8
+Hikrobot	MV-CH250-90TC-M58S-NF,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12,, Bayer BG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,550,74,74,78.8
+Hikrobot	MV-CH250-90XM-C-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH250-90XC-C-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Color,,,Color,C-mount,CoaXPress,,Bayer BG 8/10/12,CMOS,207,50,50,45
+Hikrobot	MV-CH250-90YM-M58S-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,150.0,,,,,,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,285,60,60,59
+Hikrobot	MV-CH250-90YM-C-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,150.0,,,,,,C-mount,CoaXPress,,Mono 8/10/12,CMOS,280,60,60,59
+Hikrobot	MV-CH250-90YC-C-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,150.0,,,,,,C-mount,CoaXPress,,Bayer BG 8/10/12,CMOS,280,60,60,59
+Hikrobot	MV-CH250-90YC-M58S-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,150.0,,,,,,M58x0.75,CoaXPress,,Bayer BG 8/10/12,CMOS,285,60,60,59
+Hikrobot	MV-CH250-90YN-C-NN,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,150.0,,,,,,C-mount,CoaXPress,,Mono 8/10/12,CMOS,280,60,60,59
+Hikrobot	MV-CH250-90VM,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,30.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,44,59
+Hikrobot	MV-CH250-90VC,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,30.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,44,59
+Hikrobot	MV-CH250-92TM-C-NF V2,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Mono,,,Mono,C-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,212,50,45,68.6
+Hikrobot	MV-CH250-92TC-C-NF  V2,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,41.5,,Color,,,Color,C-mount,"10GigE, GigE",,Bayer BG 8/10/10Packed/12/12Packed,CMOS,212,50,45,68.6
+Hikrobot	MV-CH310-10GM-M58S-NF,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,3.9,,Mono,,,Mono,M58x0.75,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,550,74,74,74.3
+Hikrobot	MV-CH310-10GM-F-NF,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,3.9,,Mono,,,Mono,F-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,600,74,74,80.1
+Hikrobot	MV-CH310-10GC-F-NF,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,3.9,,Color,,,Color,F-mount,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,600,74,74,80.1
+Hikrobot	MV-CH310-10GC-M58S-NF,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,3.9,,Color,,,Color,M58x0.75,GigE,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,550,74,74,74.3
+Hikrobot	MV-CH310-10TM-M58S-NN,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,17.2,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,560,74,74,64.4
+Hikrobot	MV-CH310-10TC-M58S-NN,area,IMX342,Sony,,27.86,,31.36,6464.0,4852.0,3.45,3.45,global,17.2,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,560,74,74,64.4
+Hikrobot	MV-CH500-90TM-F-NF,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,15.5,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,600,74,74,84.8
+Hikrobot	MV-CH500-90TM-M58S-NF,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,15.5,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,74,74,78.8
+Hikrobot	MV-CH500-90TC-M58S-NF,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,15.5,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12, , Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,550,74,74,78.8
+Hikrobot	MV-CH610-10TM-F-TF,area,IMX455,Sony,,43.27,,61.04,9568.0,6380.0,3.76,3.76,rolling,17.9,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed/16,CMOS,1090,100,100,82
+Hikrobot	MV-CH610-10TC-F-TF,area,IMX455,Sony,,43.27,,61.04,9568.0,6380.0,3.76,3.76,rolling,17.9,,Color,,,Color,F-mount,"10GigE, GigE",,"Mono 8/10/12/16, Bayer RG 8/10/10Packed/12/12Packed/16, YUV422_8, YUV422_8_YUYV, RGB 8, BGR 8",CMOS,1090,100,100,82
+Hikrobot	MV-CH650-90TM-M58S-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.2,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10p/12/12p,CMOS,550,58,74,74
+Hikrobot	MV-CH650-90TC-M58S-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.2,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12, Bayer 8/10/10p/12/12p, YUV422 8, YUV422_8_YUYV, RGB 8, BGR 8",CMOS,550,58,74,74
+Hikrobot	MV-CH650-90TM-F-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.2,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10p/12/12p,CMOS,600,74,74,84.8
+Hikrobot	MV-CH650-90TC-F-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.2,,Color,,,Color,F-mount,"10GigE, GigE",,"Mono 8/10/12, Bayer 8/10/10p/12/12p, YUV422 8, YUV422_8_YUYV, RGB 8, BGR 8",CMOS,600,74,74,84.8
+Hikrobot	MV-CH650-90XM-M58S-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,31.5,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,470,58,74,74
+Hikrobot	MV-CH650-90XM-F-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,31.5,,Mono,,,Mono,F-mount,CoaXPress,,Mono 8/10/12,CMOS,500,74,74,76.4
+Hikrobot	MV-CH650-90XC-M58S-NF,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,31.5,,Color,,,Color,M58x0.75,CoaXPress,,Bayer BG 8/10/12,CMOS,470,58,74,74
+Hikrobot	MV-CH650-90YM-M58S-NN,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,71.0,,,,,,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,650,84,84,92.5
+Hikrobot	MV-CH650-90YC-M58S-NN,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,71.0,,,,,,M58x0.75,CoaXPress,,Bayer BG 8/10/12,CMOS,650,84,84,92.5
+Hikrobot	MV-CH650-90YC-F-NN,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,71.0,,,,,,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,650,84,84,92.5
+Hikrobot	MV-CH650-90YM-M58S-NN V2,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,71.0,,,,,,M58x0.75,CoaXPress,,Mono 8/10/12,CMOS,285,60,60,59
+Hikrobot	MV-CH1010-10CM-M72-NF,area,IMX461,Sony,,55.0,,101.8,11648.0,8740.0,3.76,3.76,rolling,8.1,,Mono,,,Mono,M72x0.75,Camera Link,,"ADC 12-bit mode: Mono 8/10/12, ADC 16-bit mode: Mono 8/10/12/16",CMOS,1700,90,90,71.5
+Hikrobot	MV-CH1010-10CM-M72-TF,area,IMX461,Sony,,55.0,,101.8,11648.0,8740.0,3.76,3.76,rolling,8.1,,Mono,,,Mono,M72x0.75,Camera Link,,"ADC 12-bit mode: Mono 8/10/12, ADC 16-bit mode: Mono 8/10/12/16",CMOS,1700,90,90,71.5
+Hikrobot	MV-CH1030-90TM-M58S-NN,area,GMAX32103,Gpixel,,46.6,,103.63,11264.0,9200.0,3.2,3.2,global,11.0,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,738,84,84,92.5
+Hikrobot	MV-CH1030-90TC-M58S-NN,area,GMAX32103,Gpixel,,46.6,,103.63,11264.0,9200.0,3.2,3.2,global,11.0,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12,, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,738,84,84,92.5
+Hikrobot	MV-CH1510-11XM-M72-TF,area,IMX411,Sony,,66.7,,151.17,14208.0,10640.0,3.76,3.76,rolling,6.2,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono 8/10/12/16,CMOS,1000,100,100,74.3
+Hikrobot	MV-CH1510-10XM-M72-NF,area,IMX411,Sony,,66.7,,151.17,14208.0,10640.0,3.76,3.76,rolling,6.2,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono 8/10/12/16,CMOS,1000,100,100,74.3
+Hikrobot	MV-CH1510-11XC-M72-TF,area,IMX411,Sony,,66.7,,151.17,14208.0,10640.0,3.76,3.76,rolling,6.2,,Color,,,Color,M72x0.75,CoaXPress,,"Mono 8/10/12/16, Bayer RG 8/10/12/16, RGB 8",CMOS,1000,100,100,74.3
+Hikrobot	MV-CH1510-10XC-M72-NF,area,IMX411,Sony,,66.7,,151.17,14208.0,10640.0,3.76,3.76,rolling,6.2,,Color,,,Color,M72x0.75,CoaXPress,,"Mono 8/10/12/16, Bayer RG 8/10/12/16, RGB 8",CMOS,1000,100,100,74.3
+Hikrobot	MV-CH1510-10FM-M72-TF,area,IMX411,Sony,,66.7,,151.17,14208.0,10640.0,3.76,3.76,rolling,6.2,,Mono,,,Mono,M72x0.75,10GigE,,Mono 8/10/10Packed/12/12Packed/16,CMOS,2500,120,120,89
+Hikrobot	MV-CH1510-10XM-M72-TF V2,area,IMX411,Sony,,66.7,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.2,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono 8/10/12/16,CMOS,1200,100,100,82
+Hikrobot	MV-CH1510-10XC-M72-TF V2,area,IMX411,Sony,,66.7,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.2,,Color,,,Color,M72x0.75,CoaXPress,,"Mono 8/10/12/16, Bayer RG 8/10/12/16, RGB 8",CMOS,1200,100,100,82
+Hikrobot	MV-CH6040-10XM-M72-NF,area,IMX411,Sony,,66.7,,604.69,28416.0,21280.0,3.76,3.76,rolling,1.45,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono 8/10/12/16,CMOS,1400,100,100,128.5
+Hikrobot	MV-CH120-10UM(TK),area,IMX304,Sony,,,"1.1”""",12.29,4096.0,3000.0,3.45,3.45,global,23.1,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,100,44,29,59
+Hikrobot	MV-CH2450-10YC-M72-TF,area,IMX811,Sony,,64.84,,245.76,19200.0,12800.0,2.81,2.81,rolling,12.4,,Color,,,Color,M72x0.75,CoaXPress,,"Mono 8/10/12/16, Bayer RG 8/10/12/16, RGB 8",CMOS,1216,100,100,82
+Hikrobot	MV-CH2450-10YM-M72-TF,area,IMX811,Sony,,64.84,,245.76,19200.0,12800.0,2.81,2.81,rolling,12.4,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono 8/10/12/16,CMOS,1216,100,100,82
+Hikrobot	MV-CH250-90Y2M-C-NF,area,GMAX0505,Gpixel,,,"1.1""",26.21,5120.0,5120.0,2.5,2.5,global,85.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,134,40,40,66.5
+Hikrobot	MV-CH500-90TM-M58S-NF V2,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,23.3,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,58,74,74
+Hikrobot	MV-CH500-90TC-M58S-NF V2,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,23.3,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12,, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,550,58,74,74
+Hikrobot	MV-CH500-90TM-F-NF V2,area,GMAX,Gpixel,,31.68,,49.06,7008.0,7000.0,3.2,3.2,global,23.3,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,600,74,74,84.8
+Hikrobot	MV-CH650-90TC-F-NF V2,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.4,,Color,,,Color,F-mount,"10GigE, GigE",,"Mono 8/10/12, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,600,74,74,84.8
+Hikrobot	MV-CH650-90TM-M58S-NF V2,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.4,,Mono,,,Mono,M58x0.75,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,550,58,74,74
+Hikrobot	MV-CH650-90TC-M58S-NF V2,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.4,,Color,,,Color,M58x0.75,"10GigE, GigE",,"Mono 8/10/12, Bayer BG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,550,58,74,74
+Hikrobot	MV-CH650-90TM-F-NF V2,area,GMAX3265,Gpixel,,37.36,,65.41,9344.0,7000.0,3.2,3.2,global,17.4,,Mono,,,Mono,F-mount,"10GigE, GigE",,Mono 8/10/10Packed/12/12Packed,CMOS,600,74,74,84.8
+Hikrobot	MV-CB004-10GM-S,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,125.2,,Mono,,,Mono,M12-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,45,29,29,30.2
+Hikrobot	MV-CB004-10GC-S,area,IMX297,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,125.2,,Color,,,Color,M12-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,45,29,29,30.2
+Hikrobot	MV-CB013-A0UM-B,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,Mono,,,Mono,,USB3,,Mono 8/10/10p/12/12p,CMOS,10,32.5,32.5,1.6
+Hikrobot	MV-CB013-A0UM-C,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,Mono,,,Mono,C-mount,USB3,,Mono 8/10/10p/12/12p,CMOS,30,35,35,8.6
+Hikrobot	MV-CB013-A0UM-S,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,Mono,,,Mono,M12-mount,USB3,,Mono 8/10/10p/12/12p,CMOS,30,35,35,8.6
+Hikrobot	MV-CB013-A0UC-C,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,30,35,35,8.6
+Hikrobot	MV-CB013-A0UC-S,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,Color,,,Color,M12-mount,USB3,,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,30,35,35,8.6
+Hikrobot	MV-CB016-10GM-S,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.2,,Mono,,,Mono,M12-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,45,29,29,30.2
+Hikrobot	MV-CB016-10GC-C,area,IMX296,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,65.2,,Color,,,Color,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,45,29,29,30.2
+Hikrobot	MV-CB016-10UM-B,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,10,,,
+Hikrobot	MV-CB016-10UM-C,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,C-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,30,,,
+Hikrobot	MV-CB016-10UM-S,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,M12-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,43,,,
+Hikrobot	MV-CB016-10UC-B,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,,USB3,,"Mono 8/10/12, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,10,,,
+Hikrobot	MV-CB016-10UC-C,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,C-mount,USB3,,"Mono 8/10/12, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,30,,,
+Hikrobot	MV-CB016-10UC-S,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,165.4,,,,,,M12-mount,USB3,,"Mono 8/10/12, Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,43,,,
+Hikrobot	MV-CB020-61UM-B-F,area,,,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,99.0,,Mono,,,Mono,,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,37,29,29,27.6
+Hikrobot	MV-CB020-61UM-C-F,area,,,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,99.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,37,29,29,31.3
+Hikrobot	MV-CB020-61UM-S-F,area,,,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,99.0,,Mono,,,Mono,M12-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,37,29,29,31.3
+Hikrobot	MV-CB050-11UC-C,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed, , YUV422Packed, YUV422_YUYV_Packed, , RGB 8, BGR 8",CMOS,37,29,29,31.3
+Hikrobot	MV-CB050-60UM-C-F,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,37,29,29,31.3
+Hikrobot	MV-CB050-60UC-C-F,area,,,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,80.0,,Color,,,Color,C-mount,"USB3, USB2",,"Mono8, Bayer GR 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB8, BGR8",CMOS,37,29,29,31.3
+Hikrobot	MV-CB060-10GM-S,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Mono,,,Mono,M12-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,45,29,29,30.2
+Hikrobot	MV-CB060-10GC-S,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,19.1,,Color,,,Color,M12-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,45,29,29,30.2
+Hikrobot	MV-CB060-10UM-B,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Mono,,,Mono,,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,10,32.5,32.5,1.6
+Hikrobot	MV-CB060-10UM-C,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Mono,,,Mono,C-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,30,35,35,8.6
+Hikrobot	MV-CB060-10UM-S,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Mono,,,Mono,M12-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,43,35,35,8.6
+Hikrobot	MV-CB060-10UC-B,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Color,,,Color,,USB3,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,10,32.5,32.5,1.6
+Hikrobot	MV-CB060-10UC-C,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,30,35,35,8.6
+Hikrobot	MV-CB060-10UC-S,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,60.9,,Color,,,Color,M12-mount,USB3,,"Mono 8/10/12, , Bayer RG 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,43,35,35,8.6
+Hikrobot	MV-CB120-10GM-C,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,"C-mount, M12-mount",GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,45,29,29,30.2
+Hikrobot	MV-CB120-10GM-S,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,"C-mount, M12-mount",GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,45,29,29,30.2
+Hikrobot	MV-CB120-10UM-B V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Mono,,,Mono,,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,10,32.5,32.5,1.6
+Hikrobot	MV-CB120-10UM-C V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Mono,,,Mono,C-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,30,35,35,8.6
+Hikrobot	MV-CB120-10UM-S V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Mono,,,Mono,M12-mount,USB3,,Mono 8/10/10Packed/12/12Packed,CMOS,30,35,35,8.6
+Hikrobot	MV-CB120-10UC-B V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Color,,,Color,,USB3,,"Mono8/10/12, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB8, BGR8",CMOS,10,32.5,32.5,1.6
+Hikrobot	MV-CB120-10UC-C V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Color,,,Color,C-mount,USB3,,"Mono8/10/12, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB8, BGR8",CMOS,30,35,35,8.6
+Hikrobot	MV-CB120-10UC-S V4,area,IMX226,Sony,,,"1/1.7""",12.24,4032.0,3036.0,1.85,1.85,rolling,30.0,,Color,,,Color,M12-mount,USB3,,"Mono8/10/12, Bayer RG 8/10/10Packed/12/12Packed, YUV422Packed, YUV422_YUYV_Packed, RGB8, BGR8",CMOS,30,35,35,8.6
+Hikrobot	MV-CB020-60UM-B,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Mono,,,Mono,,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,10,,,
+Hikrobot	MV-CB020-60UC-S,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Color,,,Color,M12-mount,"USB3, USB2",,"Mono 8, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,30,,,
+Hikrobot	MV-CB020-60UM-S,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Mono,,,Mono,M12-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,30,,,
+Hikrobot	MV-CB020-60UC-B,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Color,,,Color,,"USB3, USB2",,"Mono 8, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,10,,,
+Hikrobot	MV-CB020-60UM-C,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Mono,,,Mono,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,30,,,
+Hikrobot	MV-CB020-60UC-C,area,,,,,"1/2.53""",2.01,1624.0,1240.0,3.45,3.45,global,179.9,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8, Bayer GB 8/10/10Packed/12/12Packed,, YUV422Packed, YUV422_YUYV_Packed,, RGB 8, BGR 8",CMOS,30,,,
+Hikrobot	MV-CI003-GL-N6,area,,,,,,0.33,640.0,512.0,17.0,,,50.0,,,,,,M34x0.75,GigE,,"Mono 8/12/14, YUV422_YUYV_Packed",,275,58,58,115.5
+Hikrobot	MV-CI003-GL-N15,area,,,,,,0.33,640.0,512.0,17.0,,,50.0,,,,,,M34x0.75,GigE,,"Mono 8/12/14, YUV422_YUYV_Packed",,275,58,58,102.5
+Hikrobot	MV-CI003-GL-N25,area,,,,,,0.33,640.0,512.0,17.0,,,50.0,,,,,,M34x0.75,GigE,,"Mono 8/12/14, YUV422_YUYV_Packed",,275,58,58,96.9
+Hikrobot	MV-CI003-GL-N35,area,,,,,,0.33,640.0,512.0,17.0,,,50.0,,,,,,M34x0.75,GigE,,"Mono 8/12/14, YUV422_YUYV_Packed",,275,58,58,115.5
+Hikrobot	MV-CI003-GL-T6,area,,,,,,0.33,640.0,512.0,17.0,,,50.0,,,,,,,GigE,,"Mono 16, Float 32, YUV422(YUYV)Packed, YUV 422 Packed",,370,48,48,117.9
+Hikrobot	MV-CI013-GS-TF,area,IMX990,Sony,,,"1/2""",1.31,1280.0,1024.0,5.0,5.0,,91.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,InGaAs,470,58,58,82
+Hikrobot	MV-CI013-GS-TH,area,IMX990,Sony,,,"1/2""",1.31,1280.0,1024.0,5.0,5.0,,91.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,InGaAs,750,58,94,82
+Hikrobot	MV-CI013-GS-NN,area,IMX990,Sony,,,"1/2""",1.31,1280.0,1024.0,5.0,5.0,,91.0,,,,,,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,InGaAs,100,29,29,42
+Hikrobot	MV-CI050-Y1S-NN,area,IMX992,Sony,,,"1/1.4""",5.33,2592.0,2056.0,3.45,3.45,global,120.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,InGaAs,90,29,29,42
+Hikrobot	MV-CE013-80GM,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,96,29,29,42
+Hikrobot	MV-CE013-80GC,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,89.9,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer BG 8/10/10p/12/12p, YUV422_YUYV_Packed, YUV422 Packed, RGB 8, BGR 8",CMOS,96,29,29,42
+Hikrobot	MV-CE013-80UM,area,,,,,"1/2.7""",1.31,1280.0,1024.0,4.0,4.0,global,148.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CE020-10GC,area,IMX290,Sony,,,"1/2.8""",2.07,1920.0,1080.0,2.9,2.9,rolling,58.0,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,68,29,29,42
+Hikrobot	MV-CE050-30UC,area,AR0521,onsemi,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,44.7,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GR 8/10/10p/12/12p,, YUV422_YUYV_Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,56,29,29,30
+Hikrobot	MV-CE050-31GC,area,AR0521,onsemi,,,"1/2.5""",5.04,2592.0,1944.0,2.2,2.2,rolling,24.0,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, BGR 8, RGB 8",CMOS,68,29,29,42
+Hikrobot	MV-CE060-10UM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,42.7,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CE060-10UC,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,42.7,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422_YUYV_Packed, YUV 422 Packed, RGB8, BGR8",CMOS,56,29,29,30
+Hikrobot	MV-CE100-30GC,area,MT9J003,,,,"1/2.3""",10.55,3840.0,2748.0,1.67,1.67,rolling,7.0,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GR 8/10/10p/12/12p, YUV422Packed,YUV422_YUYV_Packed, RGB 8",CMOS,68,29,29,42
+Hikrobot	MV-CE120-10GM,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.6,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CE120-10GC,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.6,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,68,29,29,42
+Hikrobot	MV-CE120-10UM,area,IMX226,Sony,,,"1/1.7""",12.14,4000.0,3036.0,1.85,1.85,rolling,31.9,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,80,29,29,30
+Hikrobot	MV-CE120-10UC,area,IMX226,Sony,,,"1/1.7""",12.14,4000.0,3036.0,1.85,1.85,rolling,31.9,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CE200-10UM,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,19.2,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,100,44,29,59
+Hikrobot	MV-CE200-10GM,area,IMX183,Sony,,,"1""",19.96,5472.0,3648.0,2.4,2.4,rolling,5.9,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,44,29,59
+Hikrobot	MV-CS060-RC,area,IMX178,,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,42.7,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,<br/>YUV422_YUYV_Packed, YUV 422 Packed, RGB8, BGR8",CMOS,56,29,29,30
+Hikrobot	MV-CA003-20GC,area,PYTHON300,,,,"1/4""",0.34,672.0,512.0,4.8,4.8,global,336.0,,,,,,C-mount,GigE,,"Mono8/10/12, Bayer RG 8/10/10p/12/12p, , YUV 422 Packed, YUV422_YUYV_Packed, RGB 8",CMOS,68,29,29,42
+Hikrobot	MV-CA003-21UC,area,PYTHON300,,,,"1/4""",0.31,640.0,480.0,4.8,4.8,global,814.5,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p,, YUV422_YUYV_Packed, YUV 422 Packed, RGB8, BGR8",CMOS,56,29,29,30
+Hikrobot	MV-CA004-10GM,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,312.9,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA004-10GC,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,312.9,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer GR 8/10/10p/12/12p, YUV 422 Packed, YUV422_YUYV_Packed, RGB 8",CMOS,68,29,29,42
+Hikrobot	MV-CA004-10UM,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,526.5,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,80,29,29,30
+Hikrobot	MV-CA004-10UC,area,IMX287,Sony,,,"1/2.9""",0.39,720.0,540.0,6.9,6.9,global,526.5,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, , YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CA013-20GM,area,PYTHON1300,onsemi,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,90.0,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA013-20GC,area,PYTHON1300,onsemi,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,90.0,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed,, RGB 8",CMOS,68,29,29,42
+Hikrobot	MV-CA013-21UM,area,PYTHON1300,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,210.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CA013-A0GM,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,,global,92.8,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,29,42
+Hikrobot	MV-CA013-A0GC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,,global,92.8,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV 422 (YUYV) Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,100,29,29,42
+Hikrobot	MV-CA013-A0UM,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10Packed/12/12Packed,CMOS,80,29,29,30
+Hikrobot	MV-CA013-A0UC,area,,,,,"1/2""",1.31,1280.0,1024.0,4.8,4.8,global,201.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, , Bayer GB 8/10/10Packed /12/1210Packed, YUV422Packed, YUV422_YUYV_Packed, , RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CA016-10GM,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA016-10GC,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,78.2,,,,,,C-mount,GigE,,"Mono8/10/12, Bayer RG 8/10/10p/12/12p, YUV 422 Packed, YUV422_YUYV_Packed, RGB8",CMOS,68,29,29,42
+Hikrobot	MV-CA016-10UM,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CA016-10UC,area,IMX273,Sony,,,"1/2.9""",1.56,1440.0,1080.0,3.45,3.45,global,249.1,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422_YUYV_Packed, YUV 422 Packed, RGB 8, BGR 8",CMOS,56,29,29,30
+Hikrobot	MV-CA017-10GM,area,IMX432,Sony,,,"1.1""",1.78,1608.0,1104.0,9.0,9.0,global,68.5,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,100,29,44,59
+Hikrobot	MV-CA017-10GC,area,IMX432,Sony,,,"1.1""",1.78,1608.0,1104.0,9.0,9.0,global,68.5,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,100,29,44,59
+Hikrobot	MV-CA020-10GM,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,60.0,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA020-10GC,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,60.0,,,,,,C-mount,GigE,,"Mono 8/10/12, RGB 8, BGR 8,, Bayer GB 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed",CMOS,68,29,29,42
+Hikrobot	MV-CA020-10UM,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,89.1,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,80,29,29,30
+Hikrobot	MV-CA020-10UC,area,IMX430,Sony,,,"1/1.7""",2.01,1624.0,1240.0,4.5,4.5,global,89.1,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CA023-10GM,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA023-10GC,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,68,29,29,42
+Hikrobot	MV-CA023-10UM,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CA023-10UC,area,IMX249,Sony,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,40.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,56,29,29,30
+Hikrobot	MV-CA032-10GM,area,IMX265,Sony,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,37.5,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA032-10GC,area,IMX265,Sony,,,"1/1.8""",3.15,2048.0,1536.0,3.45,3.45,global,37.5,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,68,29,29,42
+Hikrobot	MV-CA050-12GC,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.1,,,,,,C-mount,GigE,,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,88,29,29,42
+Hikrobot	MV-CA050-12UM,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,47.0,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,80,29,29,30
+Hikrobot	MV-CA050-12UC,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,60.0,,,,,,C-mount,"USB3, USB2",,"Mono 8/10/12, Bayer RG 8/10/10p/12/12p, YUV422Packed, YUV422_YUYV_Packed, RGB 8, BGR 8",CMOS,80,29,29,30
+Hikrobot	MV-CA050-20UM,area,PYTHON5000,,,,"1""",5.31,2592.0,2048.0,4.8,4.8,global,71.8,,,,,,C-mount,"USB3, USB2",,Mono 8/10/10p/12/12p,CMOS,56,29,29,30
+Hikrobot	MV-CA050-10GM,area,IMX264,Sony,,,"2/3""",5.01,2448.0,2048.0,3.45,3.45,global,24.1,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA050-20GM,area,PYTHON5000,,,,"1""",5.31,2592.0,2048.0,4.8,4.8,global,22.0,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CA060-11GM,area,IMX178,Sony,,,"1/1.8""",6.29,3072.0,2048.0,2.4,2.4,rolling,17.0,,,,,,C-mount,GigE,,Mono 8/10/10p/12/12p,CMOS,68,29,29,42
+Hikrobot	MV-CM2020C-0H,area,,,,,"1/2""",2.07,1920.0,1080.0,3.75,3.75,rolling,60.0,,Color,,,Color,C-mount,,,,CMOS,220,50,50,55.4
+Hikrobot	MV-CM3040C-1H,area,,,,,"1/1.88""",3.69,2560.0,1440.0,2.9,2.9,rolling,30.0,,Color,,,Color,C-mount,,,,CMOS,430,75,75,86.9
+Hikrobot	MV-CM3040C-1H(MSD),area,,,,,"1/1.88""",3.69,2560.0,1440.0,2.9,2.9,rolling,30.0,,Color,,,Color,C-mount,,,,CMOS,430,75,75,86.9
+Hikrobot	MV-CM3120C-1H,area,,,,,"1/1.56""",12.39,4096.0,3024.0,2.0,2.0,rolling,30.0,,Color,,,Color,C-mount,,,,CMOS,461,75,75,87.3
+Hikrobot	MVAC-PY-FV373-D3XF,area,,,,,"1""",4.0,,,5.5,5.5,global,90.1,,Color,,,Color,C-mount,"USB3, USB2",,"Mono 8/10/12, <br/>Bayer GB 8/10/10Packed/12/12Packed, <br/>YUV422Packed, <br/>YUV422_YUYV_Packed,RGB 8, BGR",CMOS,88,29,29,30
+Hikrobot	MV-DV4024-50GM,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,C-mount,GigE,,Mono 8/10/10Packed/12/12Packed,CMOS,100,29,29,42
+Hikrobot	MVAC-PY-FX453-43XP,area,IMX226,Sony,,,"1/1.7""",12.22,4024.0,3036.0,1.85,1.85,rolling,29.2,,Color,,,Color,C-mount,"USB3, USB2",,Bayer RG 8/10/10Packed/12/12Packed,CMOS,76,29,29,30
+Hikrobot	MV-CL022-91GM,line,,,,,,,2048.0,1.0,14.0,14.0,,,56.0,,,,,M42x1,GigE,,Mono 8/10/12,CMOS,280,62,62,41
+Hikrobot	MV-CL022-91GC,line,,,,,,,2048.0,2.0,14.0,14.0,,,40.0,,,,,M42x1,GigE,,"Mono 8/10/12, Bayer RG 8/10/12, RGB 8, BGR 8",CMOS,280,62,62,41
+Hikrobot	MV-CL024-91GM,line,,,,,,,2048.0,2.0,7.0,7.0,,,58.0,,,,,M42x1,GigE,,Mono 8/10/12,CMOS,256,62,62,40.5
+Hikrobot	MV-CL024-91GC,line,,,,,,,2048.0,3.0,7.0,7.0,,,58.0,,,,,M42x1,GigE,,"Mono 8, Bayer RG 8/10/12, RGB 8, BGR 8",CMOS,256,62,62,40.5
+Hikrobot	MV-CL042-91GM,line,,,,,,,4096.0,2.0,7.0,7.0,,,28.0,,,,,M42x1,GigE,,Mono 8/10/12,CMOS,280,62,62,41
+Hikrobot	MV-CL042-91GC,line,,,,,,,4096.0,2.0,7.0,7.0,,,28.0,Color,,,Color,M42x1,GigE,,"Mono 8/10/12, Bayer RG 8/10/12, RGB 8, BGR 8, Bayer RBGG 8",CMOS,280,62,62,41
+Hikrobot	MV-CL042-91CM,line,,,,,,,4096.0,2.0,7.0,,,,40.5,,,,,M42x1,Camera Link,,Mono 8/10/12,CMOS,238,62,62,36.9
+Hikrobot	MV-CL042-91CM,line,,,,,,,4096.0,2.0,7.0,,,,40.5,,,,,M42x1,Camera Link,,Mono 8/10/12,CMOS,238,62,62,36.9
+Hikrobot	MV-CL042-91CC,line,,,,,,,4096.0,2.0,7.0,,,,40.0,,,,,M42x1,Camera Link,,"Mono 8, RGB 8, Bayer RGBG 8",CMOS,238,62,62,36.9
+Hikrobot	MV-CL042-91CC,line,,,,,,,4096.0,2.0,7.0,,,,40.0,,,,,M42x1,Camera Link,,"Mono 8, RGB 8, Bayer RGBG 8",CMOS,238,62,62,36.9
+Hikrobot	MV-CL042-91CM-V2,line,,,,,,,4096.0,2.0,7.0,,,,40.5,,,,,M42x1,Camera Link,,Mono 8/10/12,CMOS,238,62,62,36.9
+Hikrobot	MV-CL042-91FM,line,,,,,,,4096.0,2.0,7.0,7.0,,,195.0,Mono,,,Mono,M42x1,,,Mono 8/10/12,CMOS,300,101.2,62,70.7
+Hikrobot	MV-CL042-91FC,line,,,,,,,4096.0,2.0,7.0,7.0,,,,,,,,M42x1,,,"Bayer RG 8/10/12, Bayer RBGG 8, RGB 8, BGR 8, Mono 8/10/12",CMOS,300,101.2,62,70.7
+Hikrobot	MV-CL043-A1GM-V2,line,,,,,,,4096.0,3.0,7.0,7.0,,,28.0,,,,,M42x1,GigE,,Mono 8/10/12,CMOS,280,62,62,41
+Hikrobot	MV-CL043-A1GC,line,,,,,,,4096.0,3.0,7.0,7.0,,,28.0,,,,,M42x1,GigE,,"Bayer RG 8, RGB 8, BGR 8, Mono 8",CMOS,280,62,62,41
+Hikrobot	MV-CL044-91NM,line,,,,,,,4096.0,4.0,7.0,7.0,,,75.3,,,,,M42x1,"2.5GigE, GigE",,Mono 8/10/12,CMOS,260,62,62,46.1
+Hikrobot	MV-CL044-91NC,line,,,,,,,4096.0,3.0,7.0,7.0,,,75.3,,,,,M42x1,"2.5GigE, GigE",,"RGB 8, BGR 8, Bayer RG 8/10, Mono 8",CMOS,260,62,62,46.1
+Hikrobot	MV-CL081-41CM,line,,,,,,,8192.0,1.0,7.0,,,,20.0,,,,,M72x0.75,Camera Link,,Mono 8/10/12,CMOS,320,76,76,42.1
+Hikrobot	MV-CL161-41CM,line,,,,,,,16384.0,1.0,3.5,,,,10.0,,,,,M72x0.75,Camera Link,,Mono 8/10/12,CMOS,320,76,76,42.1
+Hikrobot	MV-CL161-41CM,line,,,,,,,16384.0,1.0,3.5,,,,10.0,,,,,M72x0.75,Camera Link,,Mono 8/10/12,CMOS,320,76,76,42.1
+Hikrobot	MV-CL166-91F2C,line,,,,,,,16384.0,12.0,5.0,5.0,,,47.3,,,,,M90x1,,,"RGB 8, BGR 8",CMOS,923,99,99,83.4
+Hikrobot	MV-CL081-B0F2M,line,,,,,,,8192.0,1.0,7.0,7.0,,,240.0,Mono,,,Mono,M72x0.75,,,Mono 8/10/12,CMOS,600,132,76,55.5
+Hikrobot	MV-CL083-B0F2C,line,,,,,,,8192.0,3.0,7.0,7.0,,,71.0,Color,,,Color,M72x0.75,,,"RGB 8, BGR 8, Mono 8, Bayer RG 8/10",CMOS,600,132,76,55.5

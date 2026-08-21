@@ -1,0 +1,405 @@
+﻿brand,model_name,camera_type,sensor_name,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+Huaray,A5031CG300E,area,PYTHON 300,,,,"1/4""",0.3,640.0,480.0,4.8,4.8,global,300.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8，BayerRGB/10/10Packed，BayerGB8/10/10Packed,YUV422Packed",CMOS,88,29,29,42
+Huaray,A5031CU815E,area,PYTHON 300,,,,"1/4""",0.3,640.0,480.0,4.8,4.8,global,815.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5031MG300E,area,PYTHON 300,,,,"1/4""",0.3,640.0,480.0,4.8,4.8,global,300.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5031MU815E,area,PYTHON 300,,,,"1/4""",0.3,640.0,480.0,4.8,4.8,global,815.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AH7040MG001E,area,IMX297,,,,"1/2.9""",0.4,720.0,520.0,6.9,6.9,global,125.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AH7040CG001E,area,IMX297,,,,"1/2.9""",0.4,720.0,520.0,6.9,6.9,global,125.2,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10, Bayer RG 8/10/10Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH7040CU000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,525.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH7040MG000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,310.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH7040CG000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,310.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH7040MU000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,525.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AE7040MG001E,area,IMX297,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,123.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AE7040CG001E,area,IMX297,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,123.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed,CMOS,98,29,29,42
+Huaray,A7040CK402E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,349.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8/10,CMOS,80,29,29,43.8
+Huaray,A7040MK402E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,349.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,80,29,29,43.8
+Huaray,A7040CU000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,437.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7040MG000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,300.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,A7040MU000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,437.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AH7040MK100E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,117.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,65,29,29,29
+Huaray,A7040CG000E,area,IMX287,,,,"1/2.9""",0.4,720.0,540.0,6.9,6.9,global,300.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed，BayerGB8/10/10Packed/12/12Packed，YUV422Packed",CMOS,88,29,29,42
+Huaray,AE5048MG000E,area,,,,,"1/2.9""",0.4,720.0,544.0,6.9,6.9,global,308.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,AE5048CG000E,area,,,,,"1/2.9""",0.4,720.0,544.0,6.9,6.9,global,308.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed/BayerRG12/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,AB3051MG020E,area,PYTHON 480,,,,"1/3.6""",0.5,800.0,600.0,4.5,4.5,global,120.0,,Mono,,,Mono,CS-mount,GigE,,Mono8/10/10Packed,CMOS,60,55,55,14
+Huaray,A3051CG000E,area,PYTHON480,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,120.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRG8/10/10Packed，BayerGB8/10/10Packed，YUV422Packed；,CMOS,88,29,29,42
+Huaray,A3051MG000E,area,PYTHON480,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,120.0,,Color,,,Color,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5051CU545E,area,PYTHON 500,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,545.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5051MG200E,area,PYTHON 500,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,200.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5051MU545E,area,PYTHON 500,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,545.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5051CG200E,area,PYTHON 500,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,200.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRGB/10/10Packed，BayerGB8/10/10Packed，YUV422Packed,CMOS,88,29,29,42
+Huaray,A3051MG100E,area,PYTHON480,,,,"1/3.6""",0.5,800.0,600.0,4.8,4.8,global,120.0,,Mono,,,Mono,C-mount,GigE,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A3139CU000E,area,,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,210.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A3139CG000E,area,,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,92.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AE3139CG000E,area,,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,92.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed,CMOS,98,29,29,42
+Huaray,A3139MG000E,area,,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,AHS130MG000E,area,IMX990,,,,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AB3131MG023E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,60.0,,Mono,,,Mono,CS-mount,GigE,,Mono8/10/10Packed,CMOS,60,55,55,14
+Huaray,AB5131CU000E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,208.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,46,35,35,19
+Huaray,AB5131MU000E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,208.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,46,35,35,19
+Huaray,A5131CG75E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,90.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRGB/10/10Packed，BayerGB8/10/10Packed，YUV422Packed,CMOS,88,29,29,42
+Huaray,AB3138MU000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,201.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,46,35,35,19
+Huaray,A3138CU000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,201.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3138MU000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,201.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,68,29,29,29
+Huaray,AE5137MG010E,area,,,,,"1/1.7""",1.3,1280.0,1024.0,4.0,4.0,global,90.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed；,CMOS,88,29,29,42
+Huaray,A5131CU210E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,208.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5131MG75E-NIR,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,90.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,AE3138CG010E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE3138MG010E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed；,CMOS,98,29,29,42
+Huaray,A5131MU001E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,90.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AE5137CG010E,area,,,,,"1/1.7""",1.3,1280.0,1024.0,4.0,4.0,global,90.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerGB8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE3139MG000E,area,,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AB3138CU000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,201.0,,Color,,,Color,C-mount,USB3,,BayerRG8/BayerGB8/BayerRG10/BayerGB10/BayerRG10Packed/BayerGB10Packed,CMOS,68,35,35,19
+Huaray,A5131MG75E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,90.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A3131MG100E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,60.0,,Mono,,,Mono,C-mount,GigE,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A3131MG000E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,60.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A3131CG000E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,60.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRG8/10/10Packed，BayerGB8/10/10Packed，YUV422Packed；,CMOS,88,29,29,42
+Huaray,AE3138MG000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AE3138CG000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed,CMOS,98,29,29,42
+Huaray,A5131MU210E,area,PYTHON 1300,,,,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,208.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A3138MG000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,A3138CG000E,area,,,,,"1/2.7""",1.3,1280.0,1024.0,4.0,4.0,global,92.0,,Mono,,,Mono,C-mount,GigE,,Mono8，BayerRG8/10/10Packed，BayerGB8/10/10Packed，YUV422Packed,CMOS,88,29,29,42
+Huaray,AH7160MU000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,249.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH7160CU000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,249.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH7160CG000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AE7160MG010E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,98,29,29,42
+Huaray,AE7160CG010E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,A7160MU000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,249.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AH7160MG000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,A7160CG000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed，BayerGB8/10/10Packed/12/12Packed，YUV422Packed",CMOS,88,29,29,42
+Huaray,AE7160MG001E,area,IMX296,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,65.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AE7160CG001E,area,IMX296,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,65.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed,CMOS,98,29,29,42
+Huaray,AB7160CU000E,area,IMX273,,,,"1/2.9""",3.0,1440.0,1080.0,3.45,3.45,global,249.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,68,35,35,19
+Huaray,A7160CU000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,249.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7160MG000E,area,IMX273,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,77.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,AH7160MG001E,area,IMX296,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,65.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AH7160CG001E,area,IMX296,,,,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,65.2,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10, Bayer RG 8/10/10Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AE5168CG000E,area,,,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,77.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed/BayerRG12/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,AE5168MG000E,area,,,,,"1/2.9""",1.6,1440.0,1088.0,3.45,3.45,global,77.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,AE5208MG000E,area,,,,,"1/2.6""",2.0,1600.0,1200.0,3.45,3.45,global,62.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,AE5208CG000E,area,,,,,"1/2.6""",2.0,1600.0,1200.0,3.45,3.45,global,62.9,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed/BayerRG12/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,AH5200CU000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH5200CG000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,60.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH5200MU000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH5200MG000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,60.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AE5200CG010E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,60.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE5200MG010E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,60.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed；,CMOS,98,29,29,42
+Huaray,A5200MU000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.0,,Mono,,,Mono,,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5200CU000E,area,IMX430,,,,"1/1.7""",2.0,1624.0,1240.0,4.5,4.5,global,89.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7200CU130E,area,IMX174,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7200MU130E,area,IMX174,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AB7200MU102E,area,IMX174,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,50,35,35,31
+Huaray,AB7200MU000E,area,IMX174,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,68,35,35,19
+Huaray,AE7230CG010E,area,IMX392,,,,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,52.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE7230MG010E,area,IMX392,,,,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,52.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,AE7200CG010E,area,IMX249,,,,"1/1.2""",2.0,1920.0,1200.0,5.86,5.86,global,38.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,A5201CG50E,area,PYTHON 2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,50.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRG8/10/10Packed，BayerGB8/10/10Packed，YUV422Packed,CMOS,88,29,29,42
+Huaray,A5201CU150E,area,PYTHON 2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,150.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5201MG50E,area,PYTHON 2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,50.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5201MG50E-NIR,area,PYTHON 2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,50.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5201MU150E,area,PYTHON 2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,150.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5201CK402E,area,PYTHON2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,37.8,,Color,,,Color,C-mount,Camera Link,,BayerRG8/10,CMOS,80,29,29,43.8
+Huaray,A5201MK402E,area,PYTHON2000,,,,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,37.8,,Mono,,,,C-mount,Camera Link,,Mono8/10,CMOS,80,29,29,43.8
+Huaray,A7230CU000E,area,IMX392,,,,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,167.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7230MU000E,area,IMX392,,,,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,167.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7200CG30E,area,IMX249,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,38.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed，BayerGB8/10/10Packed,YUV422Packed",CMOS,88,29,29,42
+Huaray,A7200MG30E,area,IMX249,,,,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,38.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,AH7200MG000E,area,IMX249,,,,"1/1.2""",2.0,1920.0,1200.0,5.86,5.86,global,40.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,98,29,29,42
+Huaray,AH7200CG000E,area,IMX249,,,,"1/1.2""",2.0,1920.0,1200.0,5.86,5.86,global,40.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AH5207MG000E,area,GMAX4002,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,49.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH5207CG000E,area,GMAX4002,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,49.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer GB 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH5207MU000E,area,GMAX4002,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,150.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH5207CU000E,area,GMAX4002,,,,"1/1.7""",20.0,2048.0,1200.0,4.0,4.0,global,150.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AB5207MU212E-C,area,GMAX4002,,,,"1/1.7""",2.4,2048.0,1200.0,4.0,4.0,global,81.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,36,29,29,19
+Huaray,AE5207CG010E,area,,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,48.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerGB8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE5207MG010E,area,,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,48.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed；,CMOS,88,29,29,42
+Huaray,AE5207MG000E,area,GMAX4002,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,48.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,AE5207CG000E,area,GMAX4002,,,,"1/1.7""",2.0,2048.0,1200.0,4.0,4.0,global,48.0,,Color,,,Color,C-mount,GigE,PoE,BayerGB8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,A7300MU90E,area,IMX252,,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,120.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7300CU90E,area,IMX252,,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,120.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,AE7300CG010E,area,IMX265,,,,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,38.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,98,29,29,42
+Huaray,AE7300MG010E,area,IMX265,,,,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,38.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,98,29,29,42
+Huaray,AH5308MG000E,area,,,,,"2/3""",3.0,2048.0,1536.0,3.45,3.45,global,38.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH5308CG000E,area,,,,,"2/3""",3.0,2048.0,1536.0,3.45,3.45,global,38.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,A7300MK200E,area,IMX252,,,,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,188.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8,CMOS,100,29,44,58
+Huaray,A7300CG30E,area,IMX265,,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,36.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8，BayerRG8/10/10Packed，BayerGB8/10/10Packed,YUV422Packed",CMOS,88,29,29,42
+Huaray,A7300MG30E,area,IMX265,,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,36.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,AB7300MU102E,area,IMX252,,,,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,120.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,50,35,35,31
+Huaray,AB7300CU102E,area,IMX252,,,,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,120.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,50,35,35,31
+Huaray,A5402MU90E,area,CMV4000,,,,"1""",4.1,2048.0,2048.0,5.5,5.5,global,90.0,,Mono,,,Mono,C-mount,USB3,,Mono8,CMOS,60,29,29,29
+Huaray,A5402CU90E,area,CMV4000,,,,"1""",4.1,2048.0,2048.0,5.5,5.5,global,90.0,,Color,,,Color,C-mount,USB3,,"BayerRG8,BayerGB8",CMOS,60,29,29,29
+Huaray,AH7500CU000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.2,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AX0057MX1E-000,area,GMAX3405,,,,"2/3""",5.0,2448.0,2048.0,3.4,3.4,global,118.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,224,60,60,40
+Huaray,AE5508MG000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,23.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,98,29,29,42
+Huaray,AE5508CG000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,23.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed/BayerRG12/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,AE7500MG010E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,AE7500MG000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,A7500CG20E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AH7500MG000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH7500CG000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH5507MP000E,area,,,,,,,2448.0,2048.0,3.4,3.4,global,164.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,103,29,29,42
+Huaray,AH7500MU000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.2,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AE0500GCSE,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.0,,Color,,,Color,C-mount,FAKRA,,BayerRG8/BayerRG10/BayerRG12,CMOS,75,29,29,30
+Huaray,AE0500GMSE,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.0,,Mono,,,Mono,C-mount,FAKRA,,Mono8/10/Mono12,CMOS,75,29,29,30
+Huaray,AH5508MG000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH5508CG000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH5508MU000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH5508CU000E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH5507CP000E,area,,,,,,,2448.0,2048.0,3.4,3.4,global,164.0,,Color,,,Color,C-mount,CoaXPress,,Bayer RG8/10/12;Bayer GB 8/10/12,CMOS,103,29,29,42
+Huaray,AE7500CG010E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AE7500CG000E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG12/BayerRG10Packed/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,A7500CU35E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7500MK402E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,30.2,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,80,29,29,43.8
+Huaray,A7500MU75E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7500MG20E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,A7500CK200E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,150.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8/BayerGB8,CMOS,100,29,44,58
+Huaray,A7500CU75E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7500MK200E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,150.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8,CMOS,100,29,44,58
+Huaray,A7500MU35E,area,IMX264,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,68.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AE3504CG010E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AE3504MG010E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,AE3504MG000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,"rolling, global reset",23.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,98,29,29,42
+Huaray,A3504CU000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,48.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3504MU000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,48.0,,Mono,,,Mono,C-mount,USB3,,Mono8/Mono10/Mono12,CMOS,68,29,29,29
+Huaray,A3504CG000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,A3504MG000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,A3504MG100E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Mono,,,Mono,C-mount,GigE,,Mono8/10/10Packed/12/12Packed,CMOS,60,29,29,29
+Huaray,A3504CG100E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,23.0,,Color,,,Color,C-mount,GigE,,"Mono8，BayerRG8/10/10Packed/12/12Packed，BayerGB8/10/10Packed/12/12Packed，RGB8Packed,YUV422Packed；",CMOS,60,29,29,29
+Huaray,AE3504CG000E,area,AR0521,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,"rolling, global reset",23.0,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG10Packed,CMOS,98,29,29,42
+Huaray,A3514MG000E,area,MT9P031,,,,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,14.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,AHS500MP000E,area,IMX992,,,,"1/1.4""",5.0,2560.0,2048.0,3.45,3.45,global,132.1,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,InGaAs,105,29,29,48.3
+Huaray,A7501CU001E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,43.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7501MU000E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,71.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,AE7501MG010E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,22.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,AE7501CG010E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,22.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,A5501CG20E,area,PYTHON 5000,,,,"1""",5.3,2592.0,2048.0,4.8,4.8,global,20.0,,Color,,,Color,C-mount,GigE,PoE,Mono8，BayerRGB/10/10Packed，BayerGB8/10/10Packed，YUV422Packed,CMOS,88,29,29,42
+Huaray,A5501MG20E,area,PYTHON 5000,,,,"1""",5.3,2592.0,2048.0,4.8,4.8,global,20.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5501MG20E-NIR,area,PYTHON 5000,,NIR,,"1""",5.3,2592.0,2048.0,4.8,4.8,global,20.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A5501CU60E,area,PYTHON 5000,,,,"1""",5.3,2592.0,2048.0,4.8,4.8,global,60.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,60,29,29,29
+Huaray,A5501MU60E,area,PYTHON 5000,,,,"1""",5.3,2592.0,2048.0,4.8,4.8,global,60.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7501MG010E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,21.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,A7501CG010E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,21.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,A7501MU001E,area,XGS5000,,,,"2/3""",5.0,2592.0,2048.0,3.2,3.2,global,43.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A9507CX703E,area,GMAX2505,,,8.45,,5.0,2592.0,2160.0,2.5,2.5,global,210.0,,Color,,,Color,C-mount,CoaXPress,,BayerGB8/BayerGB10,CMOS,240,50,50,44.7
+Huaray,A9507MX703E,area,GMAX2505,,,8.45,,5.0,2592.0,2160.0,2.5,2.5,global,210.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,240,50,50,44.7
+Huaray,AH3600MG000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",19.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH3600CG000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",19.2,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH3600MU000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",60.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH3600CU000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",60.0,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AE3600MG000E,area,IMX178,,,,"1/1.7""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",19.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AB3600MU000E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,60.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,46,35,35,19
+Huaray,AB3600CU000E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,60.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,46,35,35,19
+Huaray,A3600CU60E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,60.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3600MU60E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,60.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3600CG18E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,19.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8，BayerRG8/10/10Packed,BayerGB8/10/10Packed,YUV422Packed",CMOS,88,29,29,42
+Huaray,A3600MG100E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,rolling,18.0,,Mono,,,Mono,C-mount,GigE,,Mono8/10/10Packed/12/12Packed,CMOS,60,29,29,29
+Huaray,AE3600MG010E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,rolling,19.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,AE3600CG010E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,rolling,19.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AE3600CG000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,"rolling, global reset",19.2,,Color,,,Color,C-mount,GigE,PoE,BayerRG8/BayerRG10/BayerRG12/BayerRG10Packed/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,A3600MG18E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,rolling,19.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,AB3600CU010E,area,IMX178,,,,"1/1.8""",6.2,3072.0,2048.0,2.4,2.4,rolling,60.0,,Color,,,Color,M12,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,46,35,35,19
+Huaray,AB3600MG000E,area,IMX178,,,,"1/1.8""",6.0,3072.0,2048.0,2.4,2.4,rolling,18.0,,Mono,,,Mono,C-mount,GigE,,Mono8/10/10Packed/12/12Packed,CMOS,60,55,55,14
+Huaray,AH3800CG010E,area,IMX678,,,,"1/1.8""",8.0,3840.0,2160.0,2.0,2.0,rolling,14.5,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,94,29,29,42
+Huaray,AH7900MU000E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,41.6,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH7900CU000E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,41.6,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH7900MG000E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,13.7,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH7900CG000E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,13.7,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,A7900CG400E,area,IMX267,,,,"1""",8.0,4096.0,2160.0,3.45,3.45,global,13.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,BayerGB8/10/10Packed，YUV422Packed",CMOS,100,29,29,42
+Huaray,A7900MG400E,area,IMX267,,,,"1""",8.0,4096.0,2160.0,3.45,3.45,global,13.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,100,29,29,42
+Huaray,A7900CU200E,area,IMX255,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,40.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7900CU201E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7900MG13E,area,IMX267,,,,"1""",8.95,4096.0,2160.0,3.45,3.45,global,13.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,100,29,44,58
+Huaray,A7900MU200E,area,IMX255,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,40.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7900MU201E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7900CG13E,area,IMX267,,,,"1""",8.95,4096.0,2160.0,3.45,3.45,global,13.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,BayerGB8/10/10Packed，YUV422Packed",CMOS,100,29,44,58
+Huaray,A7900CK401E,area,IMX267,,,,"1""",9.0,4096.0,2160.0,3.45,3.45,global,27.0,,Color,,,Color,C-mount,Camera Link,,BayerGB8,CMOS,80,29,29,43.8
+Huaray,A9907MX703E,area,GMAX2509,,,11.81,,9.0,4192.0,2160.0,2.5,2.5,global,120.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,240,50,50,44.7
+Huaray,AH5A09MG200E,area,,,,,"1""",10.0,4096.0,2460.0,3.45,3.45,global,11.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,140,29,44,58
+Huaray,AH5A09CG200E,area,,,,,"1""",10.0,4096.0,2460.0,3.45,3.45,global,11.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,140,29,44,58
+Huaray,AH5A09MU200E,area,,,,,"1""",10.0,4096.0,2460.0,3.45,3.45,global,38.4,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,140,29,44,58
+Huaray,AH5A09CU200E,area,,,,,"1""",10.0,4096.0,2460.0,3.45,3.45,global,38.4,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,140,29,44,58
+Huaray,AE3A20MG010E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,10.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,A3A20MG8E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,10.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed；,CMOS,88,29,29,42
+Huaray,A3A20CG8E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,10.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AB3A20MU000E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,30.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,46,35,35,19
+Huaray,AB3A20CU000E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,30.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,46,35,35,19
+Huaray,A3A20CU24E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,30.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3A20MU24E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,30.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,68,29,29,29
+Huaray,AE3A20CG010E,area,IMX226,,,,"1/1.7""",12.0,4000.0,3000.0,1.85,1.85,rolling,10.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AH3A20MU000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,"rolling, global reset",31.7,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH3A20MG000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,rolling,9.7,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH3A20CU000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,"rolling, global reset",31.7,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH3A20CG000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,rolling,9.7,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AE3A20MG000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,"rolling, global reset",9.8,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AE3A20CG000E,area,IMX226,,,,"1/1.7""",12.0,4024.0,3036.0,1.85,1.85,"rolling, global reset",9.8,,Color,,,Color,C-mount,GigE,PoE,BayerRGB8/BayerRG10/BayerRG12/BayerRG10Packed/BayerRG12Packed,CMOS,98,29,29,42
+Huaray,AH7A20MU000E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.2,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AB7A20MU102E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.4,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,50,35,35,31
+Huaray,A7A20MG9E,area,IMX304,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,100,29,44,58
+Huaray,AH7A20CG000E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,9.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH7A20CU000E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.2,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AE1200GCSE,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.2,,Color,,,Color,C-mount,FAKRA,,BayerRG8/BayerRG10/BayerRG12,CMOS,75,29,29,30
+Huaray,AH7A20MG000E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,9.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AE1200GMSE,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.2,,Mono,,,Mono,C-mount,FAKRA,,Mono8/10/Mono12,CMOS,75,29,29,30
+Huaray,AH7A2AMG000E,area,IMX545,,,,"1.1""",12.0,4096.0,3000.0,2.74,2.74,global,9.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,A7A2AMU000E,area,IMX545,,,,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,31.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,29,29
+Huaray,A7A20CU201E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.5,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed;BayerGB8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7A20CU30E,area,IMX253,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7A20MU30E,area,IMX253,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,91,29,44,58
+Huaray,A7A20CG9E,area,IMX304,,,,"1.1""",12.29,4096.0,3000.0,3.45,3.45,global,9.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8，BayerRG8/10/10Packed,BayerGB8/10/10Packed，YUV422Packed",CMOS,100,29,44,58
+Huaray,A7A20CK401E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,20.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8/BayerRG10,CMOS,80,29,29,43.8
+Huaray,A7A20MK401E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,20.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,80,29,29,43.8
+Huaray,A7A20MU201E,area,IMX304,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.5,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,91,29,44,58
+Huaray,AX7A20MT250E,area,IMX253,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Mono,,,Mono,M58x0.75,10GigE,,Mono8/10/10Packed,CMOS,583,72,72,78
+Huaray,AX7A20CT250E,area,IMX253,,,,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Color,,,Color,M58x0.75,10GigE,,"BayerRG8/10/10Packed, BayerGB8/10/10Packed",CMOS,583,72,72,78
+Huaray,AX5A22CP050E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,330.0,,Color,,,Color,M58x0.75,CoaXPress,,"BayerGR8/10/12, BayerRG8/10/12, BayerGB8/10/12, BayerBG8/10/12",CMOS,790,80,80,72.3
+Huaray,AX0127MX2E-000,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,94.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,239,60,60,40
+Huaray,AX0127MP1E-000,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,94.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,239,60,60,40
+Huaray,A9A27CX703E,area,,,,15.23,,12.0,4096.0,3072.0,2.5,2.5,global,85.0,,Color,,,Color,C-mount,CoaXPress,,BayerGB8/10/12,CMOS,240,50,50,44.8
+Huaray,AH5A27MP000E,area,,,,,,,4096.0,3072.0,3.4,3.4,global,94.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono 8/10/12,CMOS,103,29,29,42
+Huaray,AH5A27CP000E,area,,,,,,,4096.0,3072.0,3.4,3.4,global,94.0,,Color,,,Color,C-mount,CoaXPress,,Bayer RG8/10/12;Bayer GB 8/10/12,CMOS,103,29,29,42
+Huaray,AH5A27MG000E,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,9.6,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH5A27CG000E,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,9.6,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,A7A21MG400E,area,XGS12000,,,,"1""",12.0,4096.0,3072.0,3.2,3.2,global,9.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,88,29,29,42
+Huaray,A7A21MK200E,area,XGS12000,,,,"1""",12.0,4096.0,3072.0,3.2,3.2,global,56.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,100,29,44,58
+Huaray,A7A21MK401E,area,XGS12000,,,,"1""",12.0,4096.0,3072.0,3.2,3.2,global,18.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,80,29,29,43.8
+Huaray,AX5A22MP050E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,330.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,790,80,80,72.3
+Huaray,AX5A22CX050E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,720,72,72,72
+Huaray,AX5A22CX060E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Color,,,Color,F-mount,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,720,72,72,72
+Huaray,AX5A22CX340E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Color,,,Color,M42x1,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,720,80,80,47
+Huaray,AX5A22MX060E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Mono,,,Mono,F-mount,CoaXPress,,Mono8/Mono10/Mono12,CMOS,720,72,72,72
+Huaray,AX5A22MX340E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Mono,,,Mono,M42x1,CoaXPress,,Mono8/Mono10/Mono12,CMOS,720,80,80,47
+Huaray,AH5A27MU000E,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,30.7,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH5A27CU000E,area,GMAX3412,,,,"1.1""",12.0,4096.0,3072.0,3.4,3.4,global,30.7,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,A9A27MX703E,area,,,,15.23,,12.0,4096.0,3072.0,2.5,2.5,global,85.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,240,50,50,44.8
+Huaray,A7A21MU200E,area,XGS12000,,,,"1""",12.0,4096.0,3072.0,3.2,3.2,global,28.6,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,60,29,44,58
+Huaray,AX5A22MX050E,area,CMV12000,,,28.14,,12.0,4096.0,3072.0,5.5,5.5,global,188.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/Mono10/Mono12,CMOS,720,72,72,72
+Huaray,A7A21CK401E,area,XGS12000,,,,"1""",12.0,4096.0,3072.0,3.2,3.2,global,18.0,,Color,,,Color,C-mount,Camera Link,,BayerRG8/BayerRG10/BayerRG12,CMOS,80,29,29,43.8
+Huaray,AH7A6AMG000E,area,IMX542,,,,"1.1""",16.0,5320.0,3032.0,2.74,2.74,global,7.2,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,A9A87MX703E,area,GMAX2518,,,15.23,,18.0,4496.0,4096.0,2.5,2.5,global,64.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,240,50,50,44.8
+Huaray,AH3B01MG000E,area,AR2020,,,,"1/1.8""",20.0,5120.0,3840.0,1.4,1.4,"rolling, global reset",5.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH3B01CG000E,area,AR2020,,,,"1/1.8""",20.0,5120.0,3840.0,1.4,1.4,"rolling, global reset",5.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH3B01MU000E,area,AR2020,,,,"1/1.8""",20.0,5120.0,3840.0,1.4,1.4,"rolling, global reset",19.6,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH3B01CU000E,area,AR2020,,,,"1/1.8""",20.0,5120.0,3840.0,1.4,1.4,"rolling, global reset",19.6,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH3B00CG000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH3B00MU000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",19.1,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH3B00MG000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",5.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH3B00CU000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",19.1,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AE2000RMSE,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",22.0,,Mono,,,Mono,C-mount,FAKRA,,Mono8/10/Mono12,CMOS,75,29,29,30
+Huaray,AE2000RCSE,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,"rolling, global reset",22.0,,Color,,,Color,C-mount,FAKRA,,BayerRG8/BayerRG10/BayerRG12,CMOS,75,29,29,30
+Huaray,A3B00CU000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,19.66,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,68,29,29,29
+Huaray,A3B00MU000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,19.66,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,68,29,29,29
+Huaray,AE3B00CG010E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,6.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AE3B00MG010E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,6.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A3B00MG000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,6.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed,CMOS,88,29,29,42
+Huaray,A3B00CG000E,area,IMX183,,,,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,6.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,YUV422_8_UYVY,YUV422_8",CMOS,88,29,29,42
+Huaray,AH7B0AMG000E,area,IMX541,,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,5.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH7B0ACG000E,area,IMX541,,,,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,5.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AX5B17MP050E,area,GSPRINT4521,,,29.45,,21.0,5120.0,4096.0,4.5,4.5,global,219.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,775,80,80,75
+Huaray,AH7B4AMG000E,area,IMX540,,,,"1.2""",24.0,5328.0,4608.0,2.74,2.74,global,4.9,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,98,29,29,42
+Huaray,AH7B4ACG000E,area,IMX540,,,,"1.2""",24.0,5328.0,4608.0,2.74,2.74,global,4.9,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,98,29,29,42
+Huaray,AH5B57MU200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,14.7,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,140,29,44,58
+Huaray,A9B57CP340E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Color,,,Color,M42x1,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,890,80,80,65
+Huaray,AX0257MP2E-100,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,89.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,333,60,60,47.5
+Huaray,AX0257MP4E-150,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,328,60,60,50.5
+Huaray,AX0257MP4E-100,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,333,60,60,47.5
+Huaray,AH5B57MV200E,area,,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,30.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/12/12Packed,CMOS,139,29,44,58
+Huaray,AH5B57CU200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,14.7,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer GB 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,140,29,44,58
+Huaray,AH5B57MG200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,4.5,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,140,29,44,58
+Huaray,AH5B57CG200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,4.5,,Color,,,Color,C-mount,GigE,PoE,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,140,29,44,58
+Huaray,A9B57MX703E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,42.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,240,50,50,45
+Huaray,A5B57CG200E,area,,,,,,25.0,5120.0,5120.0,2.5,2.5,global,4.0,,Color,,,Color,C-mount,GigE,PoE,"Mono8,BayerRG8/10/10Packed,BayerGB8/10/10Packed，YUV422Packed",CMOS,100,29,44,58
+Huaray,A5B57CU200E,area,,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,14.0,,Color,,,Color,C-mount,USB3,,BayerRG8/10/10Packed，BayerGB8/10/10Packed,CMOS,100,29,44,58
+Huaray,A5B57MG200E,area,,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,4.0,,Mono,,,Mono,C-mount,GigE,PoE,Mono8/10/10Packed/12/12Packed,CMOS,100,29,44,58
+Huaray,A5B57MU200E,area,,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,14.0,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed,CMOS,100,29,44,58
+Huaray,A5B57MK200E,area,,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,30.0,,Mono,,,Mono,C-mount,Camera Link,,Mono8/10,CMOS,100,29,44,58
+Huaray,AX5B57MT200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.0,,Mono,,,Mono,C-mount,10GigE,,Mono8/10/10Packed/12/12Packed,CMOS,600,72,72,85.1
+Huaray,A9B57MX200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,90.0,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,720,72,72,74.8
+Huaray,A9B57CX200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,90.0,,Color,,,Color,C-mount,CoaXPress,,BayerGR8/BayerGR10/BayerGR12/BayerRG8/BayerRG10/BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,720,72,72,74.8
+Huaray,AX5B57CT200E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.0,,Color,,,Color,C-mount,10GigE,,"BayerRG8/10/12/10Packed/12Packed, BayerGB8/10/12/GB10Packed/GB12Packed",CMOS,600,72,72,85.1
+Huaray,A9B57MP340E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,M42x1,CoaXPress,,Mono8/Mono10/Mono12,CMOS,890,80,80,65
+Huaray,AX5B57MT250E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.0,,Mono,,,Mono,M58x0.75,10GigE,,Mono8/10/10Packed/12/12Packed,CMOS,600,72,72,79
+Huaray,AX5B57CT250E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.0,,Color,,,Color,M58x0.75,10GigE,,"BayerRG8/10/12/10Packed/12Packed, BayerGB8/10/12/GB10Packed/GB12Packed",CMOS,600,72,72,79
+Huaray,A9B57CP050E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,890,80,80,72
+Huaray,A9B57CX250E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,90.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerGR8 /BayerGR10 /BayerGR12 /BayerRG8 /BayerRG10 /BayerRG12/BayerGB8/BayerGB10/BayerGB12/BayerBG8/BayerBG10/BayerBG12,CMOS,720,72,72,70
+Huaray,A9B57MP050E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/Mono10/Mono12,CMOS,890,80,80,72
+Huaray,A9B57CX703E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.8,,Color,,,Color,C-mount,CoaXPress,,BayerGB8/10/12,CMOS,240,50,50,45
+Huaray,A9B57MX250E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,90.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/Mono10/Mono12,CMOS,720,72,72,70
+Huaray,AX7C10CK250E,area,IMX342,,,27.86,,31.0,6240.0,4848.0,3.45,3.45,global,24.8,,Color,,,Color,M58x0.75,Camera Link,,"BayerRG8/10/12, BayerGB8/10/12",CMOS,500,72,72,64.1
+Huaray,AX7C10MK250E,area,IMX342,,,27.86,,31.0,6240.0,4848.0,3.45,3.45,global,24.8,,Mono,,,Mono,M58x0.75,Camera Link,,Mono8/10/12,CMOS,500,72,72,64.1
+Huaray,AX7C10CG250E,area,IMX342,,,27.86,,31.0,6464.0,4852.0,3.45,3.45,global,3.6,,Color,,,Color,M58x0.75,GigE,,"Mono8, BayerRG8/10/10Packed/12/12Packed, BayerGB8/10/10Packed/12/12Packed, YUV422 Packed",CMOS,487,72,72,64
+Huaray,AX7C10MG250E,area,IMX342,,,27.86,,31.0,6464.0,4852.0,3.45,3.45,global,3.6,,Mono,,,Mono,M58x0.75,GigE,,Mono8/10/10Packed/12/12Packed,CMOS,487,72,72,64
+Huaray,AX5E07CK250E,area,,,,33.91,,50.0,9280.0,4992.0,3.2,3.2,global,17.5,,Color,,,Color,M58x0.75,Camera Link,,BayerGB8,CMOS,490,72,72,65
+Huaray,AX5E07MK250E,area,,,,33.91,,50.0,9280.0,4992.0,3.2,3.2,global,17.5,,Mono,,,Mono,M58x0.75,Camera Link,,Mono8,CMOS,490,72,72,65
+Huaray,AX5E07CG250E,area,,,,33.12,,50.0,9344.0,5000.0,3.2,3.2,global,2.6,,Color,,,Color,M58x0.75,GigE,,"Mono8, BayerRG8/10/10Packed/12/12Packed, BayerGB8/10/10Packed/12/12Packed, YUV422 Packed, YUV422_8",CMOS,482,72,72,64.8
+Huaray,AX5E07MG250E,area,,,,33.12,,50.0,9344.0,5000.0,3.2,3.2,global,2.6,,Mono,,,Mono,M58x0.75,GigE,,Mono8/10/10Packed/12/12Packed;,CMOS,482,72,72,64.8
+Huaray,AX5E07MX250E,area,,,,33.91,,50.0,9344.0,5000.0,3.2,3.2,global,44.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,690,72,72,69.8
+Huaray,AX5E07CX250E,area,,,,33.91,,50.0,9344.0,5000.0,3.2,3.2,global,44.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerRG8/10/12,CMOS,690,72,72,70
+Huaray,AX5E07MT250E,area,,,,31.68,,50.0,7008.0,7000.0,3.2,3.2,global,17.4,,Mono,,,Mono,M58x0.75,10GigE,,Mono8,,600,72,72,80.5
+Huaray,AX5E07CT250E,area,,,,31.68,,50.0,7008.0,7000.0,3.2,3.2,global,17.4,,Color,,,Color,M58x0.75,10GigE,,BayerRG8/BayerGB8,,600,72,72,80.5
+Huaray,AX5F57CK250E,area,GMAX3265,,,37.36,,65.0,9280.0,6992.0,3.2,3.2,global,12.5,,Color,,,Color,M58x0.75,Camera Link,,BayerGB8BayerGB10,CMOS,490,72,72,65
+Huaray,AX5F57MK250E,area,GMAX3265,,,37.36,,65.0,9280.0,6992.0,3.2,3.2,global,12.5,,Mono,,,Mono,M58x0.75,Camera Link,,Mono8Mono10,CMOS,490,72,72,65
+Huaray,AX0657MP4E-150,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,71.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,328,60,60,50.5
+Huaray,AX5F57CG250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,1.7,,Color,,,Color,M58x0.75,GigE,,"Mono8, BayerRG8/10/10Packed/12/12Packed, BayerGB8/10/10Packed/12/12Packed, YUV422 Packed, YUV422_8",CMOS,482,72,72,64.8
+Huaray,AX5F57CP050E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,71.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerGB8/10/12,CMOS,790,80,80,73.4
+Huaray,AX5F57MG250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,1.7,,Mono,,,Mono,M58x0.75,GigE,,Mono8/10/10Packed/12/12Packed,CMOS,482,72,72,64.8
+Huaray,AX5F57MP050E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,71.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,790,80,80,73.4
+Huaray,AX5F57MT250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,17.4,,Mono,,,Mono,M58x0.75,10GigE,,Mono8,CMOS,600,72,72,80
+Huaray,AX5F57MX250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,31.0,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,690,72,72,69.8
+Huaray,AX5F57CX250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,31.0,,Color,,,Color,M58x0.75,CoaXPress,,BayerRG 8/10/12,CMOS,690,72,72,70
+Huaray,AX5F57CT250E,area,GMAX3265,,,37.36,,65.0,9344.0,7000.0,3.2,3.2,global,17.4,,Color,,,Color,M58x0.75,10GigE,,"BayerRG8, BayerGB8",CMOS,600,72,72,80
+Huaray,AX1037MP4E-450,area,GMAX32103,,,46.56,,103.0,11264.0,9200.0,3.2,3.2,global,24.8,,Mono,,,Mono,M58x0.75,CoaXPress,,Mono8/10/12,CMOS,400,65,65,54.15
+Huaray,AX5K37MT250E,area,GMAX32103,,,46.56,,103.0,11264.0,9200.0,3.2,3.2,global,11.25,,Mono,,,Mono,M58x0.75,10GigE,,Mono8/10/10Packed/12/12Packed,CMOS,600,72,72,79
+Huaray,AX7Q00MK470E,area,IMX411,,,66.72,,151.0,14160.0,10640.0,3.76,3.76,rolling,5.1,,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10/12,CMOS,890,100,100,65.7
+Huaray,AX7Q10MX770E,area,IMX411,,,66.72,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.2,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/10/12,CMOS,,110,110,90.1
+Huaray,AX7Q10CX470E,area,IMX411,,,66.72,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.1,,Color,,,Color,M72x0.75,CoaXPress,,"BayerRG8/10/12, BayerBG8/10/12",CMOS,890,100,100,65.7
+Huaray,AX7Q10MX470E,area,IMX411,,,66.72,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.1,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/10/12,CMOS,890,100,100,65.7
+Huaray,AX7Q10CX770E,area,,,,,,151.0,14192.0,10640.0,3.76,3.76,rolling,6.2,,Color,,,Color,M72x0.75,CoaXPress,,Bayer 8/10/12,,,110,110,90
+Huaray,AX7Q27MT470E,area,GMAX32152,,,60.61,,152.0,16544.0,9200.0,3.2,3.2,global,7.76,,Mono,,,Mono,M72x0.75,10GigE,,Mono8/10/10Packed/12/12Packed,CMOS,990,100,100,99.4
+Huaray,AX7Q27CP470E,area,GMAX32152,,,60.61,,152.0,16544.0,9200.0,3.2,3.2,global,16.0,,Color,,,Color,M72x0.75,CoaXPress,,BayerGB8/10/12,CMOS,900,100,100,89.4
+Huaray,AX7Q27CT470E,area,GMAX32152,,,60.61,,152.0,16544.0,9200.0,3.2,3.2,global,7.76,,Color,,,Color,M72x0.75,10GigE,,BayerGB8/10/10Packed/12/12Packed,CMOS,990,100,100,99.4
+Huaray,AX7Q27MP470E,area,GMAX32152,,,60.61,,152.0,16544.0,9200.0,3.2,3.2,global,16.0,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/10/12,CMOS,900,100,100,89.4
+Huaray,AX2450MP4E-670-F,area,IMX811,,,64.84,,245.0,19200.0,12800.0,2.81,2.81,rolling,12.4,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/10/12,CMOS,900,100,100,89.83
+Huaray,AX2450CP4E-670-F,area,IMX811,,,64.84,,245.0,19200.0,12800.0,2.81,2.81,rolling,12.4,,Color,,,Color,M72x0.75,CoaXPress,,BayerRG8/10/12,CMOS,900,100,100,89.83
+Huaray,AX7Q10MX670E,area,IMX411,,,66.72,,600.0,28384.0,21280.0,3.76,3.76,rolling,1.55,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/10/12,CMOS,1000,100,100,88.4
+Huaray,AE5508CG010E,area,,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,24.0,,Color,,,Color,,,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,,,,
+Huaray,AB3600CG000E,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,AB3134CU210E,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,AB3134CU210E-S,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,AH3A20MU001E,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,AH5207MK100E,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,AH5B57MP000E,area,GMAX0505,,,,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,41.85,,Mono,,,Mono,C-mount,CoaXPress,,Mono8/10/12,CMOS,90,29,29,48.3
+Huaray,AH7500MU075E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.2,,Mono,,,Mono,C-mount,USB3,,Mono8/10/10Packed/Mono12/Mono12Packed,CMOS,85,29,29,30
+Huaray,AH7500CU075E,area,IMX250,,,,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.2,,Color,,,Color,C-mount,USB3,,"Mono 8/10/12,, Bayer RG 8/10/10Packed/12/12Packed,YUV422_8_UYVY,YUV422_8,RGB8,BGR8",CMOS,85,29,29,30
+Huaray,AH3A20CU001E,area,,,,,,,,,,,,,,,,,,,,,,,,,,
+Huaray,L5022MG141E,line,,,,,,,2048.0,1.0,14.0,14.0,global,,49.0,Mono,,,Mono,M42x1,GigE,,Mono8/10/12/10Packed/12Packed,CMOS,240,62,62,35.8
+Huaray,L5027MG140E,line,,,,,,,2048.0,1.0,14.0,14.0,global,,49.0,Mono,,,Mono,M42x1,GigE,,Mono8/10/12/10Packed/12Packed,CMOS,245,62,62,44
+Huaray,L5027CG140E,line,,,,,,,2048.0,2.0,14.0,14.0,global,,49.0,Color,,,Color,M42x1,GigE,,BayerRG8/BayerRG10/BayerRG12/RGB8Packed/YUV422Packed,CMOS,245,62,62,44
+Huaray,L5042MG141E,line,,,,,,,4096.0,1.0,7.0,7.0,global,,28.0,Mono,,,Mono,M42x1,GigE,,Mono8/10/12/10Packed/12Packed,CMOS,240,62,62,35.8
+Huaray,L5027CG300E,line,,,,,,,2048.0,3.0,7.0,7.0,global,,44.7,Color,,,Color,C-mount,GigE,,Mono8/BayerRG8/10/12/10P/12P/RGB8P/YUV422,,100,29,44,57.5
+Huaray,L5082MK170E,line,,,,,,,8192.0,1.0,7.0,7.0,global,,80.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10,CMOS,360,80,80,39.5
+Huaray,L5047CK141E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,92.0,Color,,,Color,M42x1,Camera Link,,"BayerRG8,RGB8",CMOS,200,62,62,33.7
+Huaray,L5047MG100E,line,,,,,,,4096.0,2.0,3.5,3.5,global,,29.0,Mono,,,Mono,C-mount,GigE,,Mono8/10/12/10P/12P,CMOS,100,29,44,57.5
+Huaray,L5047MK141E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,180.0,Mono,,,Mono,M42x1,Camera Link,,Mono8/10,CMOS,200,62,62,33.7
+Huaray,L5047MK140E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,120.0,Mono,,,Mono,M42x1,Camera Link,,Mono8/10,CMOS,200,62,62,33.7
+Huaray,L5047CK140E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,62.0,Color,,,Color,M42x1,Camera Link,,"BayerRG8,RGB8",CMOS,200,62,62,33.7
+Huaray,L5047CG140E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,28.0,Color,,,Color,M42x1,GigE,,BayerRG8/BayerRG10/BayerRG12/RGB8Packed/YUV422Packed,CMOS,245,62,62,44
+Huaray,L5027MG400E,line,,,,,,,2048.0,4.0,7.0,7.0,global,,59.0,Mono,,,Mono,C-mount,GigE,,Mono8/10/12/10P/12P,CMOS,100,29,44,57.5
+Huaray,L5047MG140E,line,,,,,,,4096.0,2.0,7.0,7.0,global,,28.0,Mono,,,Mono,M42x1,GigE,,Mono8/10/12/10Packed/12Packed,CMOS,245,62,62,44
+Huaray,L5082MG170E,line,,,,,,,8192.0,1.0,7.0,7.0,global,,13.0,Mono,,,Mono,M72x0.75,GigE,,Mono8/10/12/10Packed/12Packed,CMOS,390,80,80,48
+Huaray,L5047CG440E,line,,,,,,,4096.0,3.0,7.0,7.0,global,,29.0,Color,,,Color,M42x1,GigE,,BayerRG8/RGB8/Mono8/YUV422Packed,CMOS,193,62,62,39.1
+Huaray,L5047CK440E,line,,,,,,,4096.0,3.0,7.0,7.0,global,,,Color,,,Color,M42x1,Camera Link,,RGB8,CMOS,155,62,62,28
+Huaray,L5162MK170E,line,,,,,,,16384.0,1.0,3.5,3.5,global,,50.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10,CMOS,360,80,80,39.5
+Huaray,L5087MT270E,line,,,,,,,8192.0,2.0,7.0,7.0,global,,148.8,Mono,,,Mono,M72x0.75,10GigE,,Mono8/10,CMOS,520,80,80,48.2
+Huaray,L5087CT370E,line,,,,,,,8192.0,3.0,7.0,7.0,global,,48.0,Color,,,Color,M72x0.75,10GigE,,RGB8,CMOS,520,80,80,48.2
+Huaray,L5087MK471E,line,,,,,,,8192.0,4.0,7.0,7.0,global,,,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10,CMOS,520,80,64,47.1
+Huaray,L5167CT270E,line,,,,,,,16384.0,2.0,3.5,3.5,global,,60.0,Color,,,Color,M72x0.75,10GigE,,BayerRG8/BayerRG10/RGB8,CMOS,520,80,80,48.2
+Huaray,L5087MKA70E,line,,,,,,,8192.0,4.0,5.0,5.0,global,,100.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10,CMOS,520,80,80,57.8
+Huaray,L5167MX270E,line,,,,,,,16384.0,2.0,3.5,3.5,global,,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/Mono10,CMOS,520,80,80,57.1
+Huaray,L5087MX470E,line,,,,,,,8192.0,4.0,7.0,7.0,global,,,Mono,,,Mono,M72x0.75,CoaXPress,,Mono8/Mono10,CMOS,520,80,80,57.1
+Huaray,L5087MK470E,line,,,,,,,8192.0,4.0,5.0,5.0,global,,100.0,Mono,,,Mono,M72x0.75,Camera Link,,Mono8/10,CMOS,520,80,80,57.8
+Huaray,L5087CKA70E,line,,,,,,,8192.0,6.0,5.0,5.0,global,,33.0,Color,,,Color,M72x0.75,Camera Link,,RGB8,CMOS,520,80,80,57.8
+Huaray,L5087CK670E,line,,,,,,,8192.0,6.0,5.0,5.0,global,,33.0,Color,,,Color,M72x0.75,Camera Link,,RGB8,CMOS,520,80,80,57.8
+Huaray,L5167CPA90E,line,,,,,,,16384.0,16.0,5.0,5.0,global,,92.0,Color,,,Color,M90x1,CoaXPress,,RGB8,CMOS,930,99,99,65
+Huaray,L5167MPA90E,line,,,,,,,16384.0,16.0,5.0,5.0,global,,265.0,Mono,,,Mono,M90x1,CoaXPress,,Mono8/Mono10/Mono12,CMOS,930,99,99,65
+Huaray,L5167CPA90,line,,,,,,,16384.0,16.0,5.0,5.0,global,,92.0,Color,,,Color,M90x1,CoaXPress,,RGB8,CMOS,930,99,99,65
+Huaray,MV-L087MQ-T,line,,,,,"TDI""",,8192.0,256.0,5.0,5.0,global,,50.0,Mono,,,Mono,M58x0.75,QSFP,,Mono8/Mono10/Mono12,CMOS,2000,92,92,140
+Huaray,MV-L087UQ-T,line,,,,,"TDI""",,8192.0,256.0,5.0,5.0,global,,50.0,Mono,,,Mono,M58x0.75,QSFP,,Mono8/Mono10/Mono12,CMOS,2000,92,92,140

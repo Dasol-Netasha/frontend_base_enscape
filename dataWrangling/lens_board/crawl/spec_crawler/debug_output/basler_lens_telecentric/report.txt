@@ -1,0 +1,49 @@
+=== URL: https://docs.baslerweb.com/sitemap.xml ===
+status_code: 200
+saved html -> debug_output\basler_lens_telecentric\page_00__sitemap.xml.html (437771 bytes)
+
+[<table> 추출] 레코드 수: 0
+  -> <table> 추출 0건.
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+  -> table/dl 둘 다 0건. JS 렌더링 또는 또 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 22
+  - https://docs.baslerweb.com/c11t-05-110-vi-c
+  - https://docs.baslerweb.com/c11t-05-110-vi
+  - https://docs.baslerweb.com/c11t-08-110-vi-c
+  - https://docs.baslerweb.com/c11t-08-110-vi
+  - https://docs.baslerweb.com/c11t-1-110-vi-c
+  - https://docs.baslerweb.com/c11t-1-110-vi
+  - https://docs.baslerweb.com/c11t-2-110-vi-c
+  - https://docs.baslerweb.com/c11t-2-110-vi
+  - https://docs.baslerweb.com/c11t-4-110-vi-c
+  - https://docs.baslerweb.com/c11t-4-110-vi
+  - https://docs.baslerweb.com/c12t-1-80-vi-c
+  - https://docs.baslerweb.com/c12t-1-80-vi
+  - https://docs.baslerweb.com/c12t-2-63-vi-c
+  - https://docs.baslerweb.com/c12t-2-63-vi
+  - https://docs.baslerweb.com/c12t-4-63-vi-c
+  ... 외 7개
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 0개
+
+
+=== sitemap / robots 확인 ===
+
+[--] https://docs.baslerweb.com/robots.txt (status=404)
+[OK] https://docs.baslerweb.com/sitemap.xml (status=200, len=437771)
+     <loc> 개수: 2363
+     - https://docs.baslerweb.com/index
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-24-07-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-24-10-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-01-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-04-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-07-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-1
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-2
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-26-01-0
+     ... 외 2353개
+[--] https://docs.baslerweb.com/sitemap_index.xml (status=404)

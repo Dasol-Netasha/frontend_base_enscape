@@ -1,0 +1,48 @@
+=== URL: https://docs.baslerweb.com/c11t-08-110-vi ===
+status_code: 200
+saved html -> debug_output\docs.baslerweb.com\page_00__c11t-08-110-vi.html (47339 bytes)
+
+[<table> 추출] 레코드 수: 1
+  - record[0] 필드 16개, 미리보기: ['Order Number', 'Magnification Î² (x)', 'Working Distance WD (mm)', 'Aperture Range', 'Theoretical Object-side Resolution (Âµm) (dep. on f/#)', 'MTF30 (lp/mm) (dep. on f/#)', 'Numerical Aperture N.A. (dep. on f/#)', 'Object-side Theoretical Depth of Field (mm) (dep. on f/#)', 'Image Circle (⌀ mm)', 'Image-side Distortion (% max, typical)']
+    sample values: {'Order Number': '2200002848', 'Magnification Î² (x)': '0.8', 'Working Distance WD (mm)': '110 Â±2', 'Aperture Range': 'F6.6', 'Theoretical Object-side Resolution (Âµm) (dep. on f/#)': '4.9'}
+
+[<dl> 정의목록 추출] 레코드 수: 0
+
+[링크] 링크 수: 97
+  - https://docs.baslerweb.com/
+  - https://docs.baslerweb.com/index.html
+  - https://docs.baslerweb.com/cameras.html
+  - https://docs.baslerweb.com/lenses.html
+  - https://docs.baslerweb.com/illumination.html
+  - https://docs.baslerweb.com/acquisition-cards.html
+  - https://docs.baslerweb.com/embedded-vision-kits.html
+  - https://docs.baslerweb.com/accessories.html
+  - https://docs.baslerweb.com/software.html
+  - https://docs.baslerweb.com/basler-fixed-focal-lenses.html
+  - https://docs.baslerweb.com/terminology-%28basler-lenses%29.html
+  - https://docs.baslerweb.com/precautions-mounting-and-cleaning-%28basler-lenses%29.html
+  - https://docs.baslerweb.com/c125-0418-5m-p.html
+  - https://docs.baslerweb.com/c125-0618-5m-p.html
+  - https://docs.baslerweb.com/c125-0818-5m-p.html
+  ... 외 82개
+
+[JS/JSON 신호] script JSON blob: 1개, API-like 경로 후보: 0개
+
+
+=== sitemap / robots 확인 ===
+
+[--] https://docs.baslerweb.com/robots.txt (status=404)
+[OK] https://docs.baslerweb.com/sitemap.xml (status=200, len=437771)
+     <loc> 개수: 2363
+     - https://docs.baslerweb.com/index
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-24-07-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-24-10-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-01-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-04-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-07-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-0
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-1
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-25-10-2
+     - https://docs.baslerweb.com/3d-camera-cube-software-image-26-01-0
+     ... 외 2353개
+[--] https://docs.baslerweb.com/sitemap_index.xml (status=404)

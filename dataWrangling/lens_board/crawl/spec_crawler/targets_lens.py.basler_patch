@@ -1,0 +1,15 @@
+# Basler 렌즈 타겟 설계 메모
+# 
+# docs.baslerweb.com/sitemap.xml 에서 확인된 렌즈 URL 패턴:
+#   Basler 자체 고정초점: /c125-*, /c23-*, /c10-*, /c11-*, /c12-*, /f-s35-*
+#   Basler 자체 텔레센트릭: /c11t-*, /c12t-*, /c23t-*
+#   파트너 렌즈: partner-fixed-focal-lenses, partner-telecentric-lenses 페이지에 목록
+#
+# 접근 전략:
+#   listing_url = docs.baslerweb.com/sitemap.xml
+#   product_link_pattern = 모델명 패턴으로 필터링
+#
+# 브랜드 구분:
+#   - "Basler" 자체 제조: C/F 시리즈 (model명이 C 또는 F로 시작)
+#   - 파트너 브랜드: Computar, Fujinon, Kowa, Moritex 등
+#     → partner-telecentric-lenses 페이지에서 별도 크롤

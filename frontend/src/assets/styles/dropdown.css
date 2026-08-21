@@ -1,0 +1,126 @@
+@layer components {
+  .dropdown-root {
+    @apply relative inline-block;
+  }
+
+  .dropdown-content {
+    @apply absolute top-full z-50 mt-2 min-w-48 rounded-xl border p-1 shadow-lg;
+    border-color: var(--theme-border-soft);
+    background: var(--theme-surface-1);
+  }
+
+  .dropdown-content-start {
+    @apply left-0;
+  }
+
+  .dropdown-content-end {
+    @apply right-0;
+  }
+
+  .dropdown-menu {
+    @apply flex flex-col gap-1;
+  }
+
+  .dropdown-divider {
+    @apply my-1 h-px;
+    background: var(--theme-border-soft);
+  }
+
+  .dropdown-item {
+    @apply inline-flex w-full items-center gap-2 rounded-lg px-3 py-2 text-left text-sm transition-colors duration-150;
+    color: var(--theme-text-body);
+  }
+
+  .dropdown-item:hover {
+    background: var(--theme-surface-3);
+    color: var(--theme-text-strong);
+  }
+
+  .dropdown-item-icon {
+    @apply inline-flex h-4 w-4 shrink-0 items-center justify-center;
+  }
+
+  .dropdown-item-active {
+    background: var(--theme-surface-3);
+    color: var(--theme-text-strong);
+  }
+
+  .dropdown-item-danger {
+    @apply text-red-600 hover:bg-red-50 hover:text-red-700;
+  }
+
+  .dropdown-item-disabled {
+    @apply cursor-not-allowed opacity-50;
+  }
+
+  .column-picker-trigger {
+    @apply inline-flex items-center gap-2 rounded-lg border px-3 py-2 text-sm font-medium shadow-sm transition;
+    border-color: var(--theme-border-soft);
+    background: var(--theme-surface-1);
+    color: var(--theme-text-body);
+  }
+
+  .column-picker-trigger:hover {
+    color: var(--theme-text-strong);
+  }
+
+  .column-picker-trigger-main:hover,
+  .column-picker-trigger-main.is-open {
+    border-color: var(--theme-main-accent);
+    color: var(--theme-main-accent);
+  }
+
+  .column-picker-trigger-sub:hover,
+  .column-picker-trigger-sub.is-open {
+    border-color: var(--theme-sub-accent);
+    color: var(--theme-sub-accent);
+  }
+
+  .column-picker-badge {
+    @apply rounded-full px-1.5 py-0.5 text-xs font-semibold;
+  }
+
+  .column-picker-badge-main {
+    background: var(--theme-main-accent-soft);
+    color: var(--theme-main-accent);
+  }
+
+  .column-picker-badge-sub {
+    background: var(--theme-sub-accent-soft);
+    color: var(--theme-sub-accent);
+  }
+
+  .column-picker-badge-muted {
+    background: var(--theme-surface-3);
+    color: var(--theme-text-subtle);
+  }
+
+  .column-picker-panel {
+    @apply w-56 rounded-xl border p-2 shadow-lg;
+    border-color: var(--theme-border-soft);
+    background: var(--theme-surface-1);
+  }
+
+  .column-picker-row {
+    @apply flex cursor-pointer items-center gap-2 rounded-lg px-2;
+  }
+
+  .column-picker-row:hover {
+    background: var(--theme-surface-3);
+  }
+
+  .column-picker-row-all {
+    @apply py-2 text-xs font-semibold;
+    color: var(--theme-text-subtle);
+  }
+
+  .column-picker-row-item {
+    @apply py-1.5 text-sm;
+    color: var(--theme-text-body);
+  }
+
+  .column-picker-divider {
+    @apply my-1 border-t;
+    border-color: var(--theme-border-soft);
+  }
+}

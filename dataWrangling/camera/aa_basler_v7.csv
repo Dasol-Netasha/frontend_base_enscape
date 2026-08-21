@@ -1,0 +1,571 @@
+﻿brand	model_name	camera_type,sensor_name,_basler_vendor,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+Basler	r2T16416-500cm	line,GLT5016BSI,Gpixel,,,,,,16416.0,256.0,5.0,5.0,global,,500.0,Visible,,,,M90x1,CoaXPress,,,Hybrid CCD/CMOS,1420,110,110,106
+Basler	a2A5320-29mgc	area,IMX542,Sony,,,16.78,"1.1""",,5320.0,3032.0,2.74,2.74,global,29.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A3536-37mgm	area,IMX676,Sony,,,10.04,"1/1.6""",,3536.0,3536.0,2.0,2.0,rolling,37.0,,"Visible, NIR",,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A1920-168mgm	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,168.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A2448-90mgm	area,IMX547,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,90.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A5328-19mgm	area,IMX540,Sony,,,19.26,"1.2""",,5328.0,4608.0,2.74,2.74,global,19.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A2448-90mgc	area,IMX547,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,90.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A1920-168mgc	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,168.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A5320-29mgm	area,IMX542,Sony,,,16.78,"1.1""",,5320.0,3032.0,2.74,2.74,global,29.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A5328-19mgc	area,IMX540,Sony,,,19.26,"1.2""",,5328.0,4608.0,2.74,2.74,global,19.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A3536-37mgc	area,IMX676,Sony,,,10.04,"1/1.6""",,3536.0,3536.0,2.0,2.0,rolling,37.0,,Visible,,,,C-mount,GMSL2,,,CMOS,85,29,29,42.8
+Basler	a2A2464-115g5mBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,115.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2464-23gmPRO	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,23.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2464-23gmBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,23.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2464-23gcBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,23.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2464-23gcPRO	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,23.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2464-77umBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,77.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2464-77umPRO	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,77.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A2464-77ucBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,77.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2464-77ucPRO	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,77.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A2464-115g5cBAS	area,OG05C,OmniVision,,,11.02,"2/3""",,2448.0,2048.0,3.45,3.45,global,115.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	boA13440-19ccCST	area,IMX661,Sony,,,56.65,"3.6""",,13376.0,9528.0,3.45,3.45,global,19.0,,Visible,,,,M72x0.75,CoaXPress,,,CMOS,700,90,90,54
+Basler	dmA2048-37gm (Mono)	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA2048-37gc (Color)	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	a2A4096-9gcIP67	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A2448-23gmIP67	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A1920-51gmIP67	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A1920-51gcIP67	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A2448-23gcIP67	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A4096-9gmIP67	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A2840-14gmIP67	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A2840-14gcIP67	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A5328-4gmIP67	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A4504-5gcIP67	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A5320-7gmIP67	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A5328-4gcIP67	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A5320-7gcIP67	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	a2A4504-5gmIP67	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,72,31,31,55.5
+Basler	r2L16384-120cm	line,GL3516,Gpixel,,,,,,16384.0,2.0,3.5,3.5,global,,120.0,Visible,,,,M72x0.75,CoaXPress,,,CMOS,420,80,90,36
+Basler	r2L8192-80cc	line,GL7008,Gpixel,,,,,,8192.0,4.0,7.0,7.0,global,,80.0,Visible,,,,M72x0.75,CoaXPress,,,CMOS,420,80,90,36
+Basler	r2L16384-60cc	line,GL3516,Gpixel,,,,,,16384.0,2.0,3.5,3.5,global,,60.0,Visible,,,,M72x0.75,CoaXPress,,,CMOS,420,80,90,36
+Basler	r2L8192-240cm	line,GL7008,Gpixel,,,,,,8192.0,4.0,7.0,7.0,global,,240.0,Visible,,,,M72x0.75,CoaXPress,,,CMOS,420,80,90,36
+Basler	a2A2560-131cmSWIR	area,IMX992,Sony,,,11.31,"1/1,4""",5.2,2560.0,2048.0,3.45,3.45,global,131.0,,"Visible, SWIR",,,,C-mount,CoaXPress,,,InGaAs,90,29,29,42.8
+Basler	a2A2048-173cmSWIR	area,IMX993,Sony,,,8.86,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,173.0,,"Visible, SWIR",,,,C-mount,CoaXPress,,,InGaAs,90,29,29,42.8
+Basler	acA3800-10gm	area,MT9J003,onsemi,,,7.93,"1/2.3""",10.0,3840.0,2748.0,1.67,1.67,rolling,10.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2048-37gmPRO	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2048-37gcBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2048-114g5cBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2048-114umPRO	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A2048-37gmBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2048-114ucBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2048-37gcPRO	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,37.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2048-114umBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2048-114g5mBAS	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2048-114ucPRO	area,IMX900,Sony,,,5.76,"1/3.1""",3.2,2048.0,1536.0,2.25,2.25,global,114.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	dmA4096-9gc (Color)	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA2448-23gm (Mono)	area,IMX547,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA4096-9gm (Mono)	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA2840-14gm (Mono)	area,IMX546,Sony,,,11.0,"2/3""",8.3,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA2840-14gc (Color)	area,IMX546,Sony,,,11.0,"2/3""",8.3,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA2448-23gc (Color)	area,IMX547,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	a2A5060-35cc	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,35.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,29,29,42.8
+Basler	a2A5060-35cm	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,35.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,29,29,42.8
+Basler	raL4096-80km	line,DR-4k-7,Awaiba,,,,,,4096.0,1.0,7.0,7.0,global,,80.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",Camera Link,,,CMOS,210,56,62,34
+Basler	a2A5060-15ucBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A5060-15umBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A5060-21g5cBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,21.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5060-21g5mBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,21.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5060-4gcBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5060-4gmBAS	area,E2525A,,,,17.89,"1.1""",25.0,5064.0,5064.0,2.5,2.5,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	r2L2048-62g5c	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,62.0,Visible,,,,C-mount,5GigE,,,,102,29,29,55.5
+Basler	r2L2048-172g5m	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,172.0,Visible,,,,C-mount,5GigE,,,,102,29,29,55.5
+Basler	r2L4096-84cm	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,84.0,Visible,,,,C-mount,CoaXPress,,,,85,29,29,55.5
+Basler	r2L2048-172cm	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,172.0,Visible,,,,C-mount,CoaXPress,,,,85,29,29,55.5
+Basler	r2L2048-62cc	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,62.0,Visible,,,,C-mount,CoaXPress,,,,85,29,29,55.5
+Basler	r2L4096-84g5m	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,84.0,Visible,,,,C-mount,5GigE,,,,102,29,29,55
+Basler	r2L4096-42g5c	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,42.0,Visible,,,,C-mount,5GigE,,,,102,29,29,55
+Basler	r2L2048-58gm	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,58.0,Visible,,,,C-mount,GigE,,,,100,29,29,55.5
+Basler	r2L2048-29gc	line,GL3504,Gpixel,,,,,,,,7.0,7.0,global,,29.0,Visible,,,,C-mount,GigE,,,,100,29,29,55.5
+Basler	r2L4096-42cc	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,42.0,Visible,,,,C-mount,CoaXPress,,,,85,29,29,55.5
+Basler	r2L4096-29gm	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,29.0,Visible,,,,C-mount,GigE,,,,100,29,29,55.5
+Basler	r2L4096-14gc	line,GL3504,Gpixel,,,,,,,,3.5,3.5,global,,14.0,Visible,,,,C-mount,GigE,,,,100,29,29,55.5
+Basler	dmA3536-9gc (Color)	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA3536-9gm (Mono)	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	a2A3536-42g5mBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,42.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A3536-31umPRO	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,31.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A3536-9gcBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A3536-42g5cBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,42.0,,"Visible, NIR",,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A3536-31umBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,31.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A3536-31ucBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,31.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A3536-9gcPRO	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A3536-9gmBAS	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A3536-31ucPRO	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,31.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A3536-9gmPRO	area,IMX676,Sony,,,10.04,"1/1.6""",12.5,3536.0,3536.0,2.0,2.0,rolling,9.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	boA13440-17cm	area,IMX661,Sony,,,56.65,"3.6""",127.0,13376.0,9528.0,3.45,3.45,global,17.0,,Visible,,,,M72x0.75,CoaXPress,,,CMOS,700,90,90,54
+Basler	dmA1440-73gm (Mono)	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,73.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA720-290gc (Color)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,290.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA1920-51gm (Mono)	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA1920-51gc (Color)	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA1440-73gc (Color)	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,73.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	dmA720-290gm (Mono)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,290.0,,Visible,,,,No Mount,GigE,,,CMOS,14,27,13.9,27
+Basler	a2A2448-210cc	area,IMX537,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,212.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2840-86cm	area,IMX546,Sony,,,11.0,"2/3""",8.1,2840.0,2840.0,2.74,2.74,global,86.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A5320-52cc	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,52.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A5328-35cm	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,35.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A4504-42cc	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,42.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2448-120cm	area,IMX547,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,122.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A4504-42cm	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,42.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2448-120cc	area,IMX547,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,122.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A5320-52cm	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,52.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A4096-67cm	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,67.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A4096-67cc	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,67.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2840-86cc	area,IMX546,Sony,,,11.0,"2/3""",8.1,2840.0,2840.0,2.74,2.74,global,86.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2448-210cm	area,IMX537,Sony,,,8.75,"1/1.8""",5.1,2448.0,2048.0,2.74,2.74,global,212.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A5328-35cc	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,35.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,76,,,
+Basler	a2A2048-110umSWIR	area,IMX993,Sony,,,8.86,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,110.0,,"Visible, SWIR",,,,C-mount,USB3,,,InGaAs,90,29,29,42.8
+Basler	a2A2560-70umSWIR	area,IMX992,Sony,,,11.31,"1/1,4""",5.2,2560.0,2048.0,3.45,3.45,global,70.0,,"Visible, SWIR",,,,C-mount,USB3,,,InGaAs,90,29,29,42.8
+Basler	a2A2048-35gmSWIR	area,IMX993,Sony,,,8.86,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,35.0,,"Visible, SWIR",,,,C-mount,GigE,,,InGaAs,100,29,29,55.5
+Basler	a2A2560-20gmSWIR	area,IMX992,Sony,,,11.31,"1/1,4""",5.2,2560.0,2048.0,3.45,3.45,global,20.0,,"Visible, SWIR",,,,C-mount,GigE,,,InGaAs,100,29,29,55.5
+Basler	a2A2840-48umUV	area,IMX487,Sony,,,11.0,"2/3""",8.1,2840.0,2840.0,2.74,2.74,global,48.0,,UV,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2840-67g5mUV	area,IMX487,Sony,,,11.0,"2/3""",8.1,2840.0,2840.0,2.74,2.74,global,67.0,,UV,,,,C-mount,5GigE,,,CMOS,102,29,29,55.5
+Basler	a2A2840-14gmUV	area,IMX487,Sony,,,11.0,"2/3""",8.1,2840.0,2840.0,2.74,2.74,global,14.0,,UV,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2440-98g5mBAS	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,5GigE,,,CMOS,102,29,29,55.5
+Basler	a2A2440-98g5cBAS	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,5GigE,,,CMOS,102,29,29,55.5
+Basler	boA9344-30cc	area,GMAX3265,Gpixel,,,37.36,"2.3""",65.0,9344.0,7000.0,3.2,3.2,global,30.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,66.6
+Basler	boA9344-30cm	area,GMAX3265,Gpixel,,,37.36,"2.3""",65.0,9344.0,7000.0,3.2,3.2,global,30.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,66.6
+Basler	acA1920-25uc	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,26.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA2500-60mci (No-Mount)	area,AR0521,onsemi,,,7.13,"1/2.5""",5.0,2560.0,1920.0,2.2,2.2,rolling,60.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	acA720-290gc	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,291.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA1600-60um (No-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	acA2040-25gc	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,25.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA5120-150cc	area,GMAX0505,Gpixel,,,18.1,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,71
+Basler	daA4200-30mci (No-Mount)	area,AR1335,onsemi,,,5.76,"1/3""",13.0,4208.0,3120.0,1.1,1.1,rolling,30.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	daA1600-60uc (No-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	acA2040-180kc	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,180.0,,Visible,,,,C-mount,Camera Link,,,CMOS,100,29,29,43.5
+Basler	daA1280-54uc (S-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA1440-220um (No-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	boA6500-36cm	area,XGS 32000,onsemi,,,26.28,,32.4,6580.0,4935.0,3.2,3.2,global,35.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	boA2448-250cm	area,IMX537,Sony,,,8.73,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,250.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	MED ace 8.9 MP 32 color	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	a2A3840-45ucBAS	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	acA4112-20um	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	a2A5320-23ucPRO	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1600-60um (CS-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2000-340kc	area,CMV2000,ams,,,12.75,"2/3""",2.0,2046.0,1086.0,5.5,5.5,global,340.0,,Visible,,,,C-mount,Camera Link,,,CMOS,100,29,29,43.5
+Basler	acA720-520um	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,525.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA2440-75uc	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA4112-8gm	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,8.0,,Visible,,,,C-mount,GigE,,,CMOS,150,40,30,50
+Basler	acA1920-48gc	area,PYTHON 2000,onsemi,,,10.87,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4504-5gcPRO	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	acA3088-16gm	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,16.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4200-12gcBAS	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	MED ace 12.3 MP 30 mono	area,IMX253,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	acA1920-150uc	area,PYTHON 2000,onsemi,,,10.87,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,150.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A2448-75ucPRO	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA1920-25gc	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,25.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2840-48ucBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,48.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	alA3800-8gc	area,MT9J003,onsemi,,,7.93,"1/2.3""",10.0,3840.0,2748.0,1.67,1.67,rolling,8.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA720-520uc (No-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	boA5120-230cm	area,GSPRINT4521,Gpixel,,,29.45,,21.0,5120.0,4096.0,4.5,4.5,global,230.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,76
+Basler	acA1440-73gm	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,73.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA5320-150cc	area,IMX532,Sony,,,16.79,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,150.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	daA3840-30mc (No-Mount) - Tray (40pcs)	area,AR0821,onsemi,,,9.27,"1/1.8""",8.0,3840.0,2160.0,2.1,2.1,rolling,30.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	daA720-520uc (S-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA4112-30um	area,IMX253,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	acA2440-35uc	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA2040-55um	area,IMX265,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,55.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4508-6gmBAS	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,6.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2000-50gc	area,CMV2000,ams,,,12.75,"2/3""",2.0,2046.0,1086.0,5.5,5.5,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4200-40umPRO	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,40.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA4024-8gm	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,8.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4508-20umPRO	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1280-54um (S-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A2448-105g5cBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,106.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2840-14gmPRO	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A4200-40umBAS	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,40.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	MED ace 12.3 MP 30 color	area,IMX253,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	a2A5328-4gcPRO	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	MED ace 2.3 MP 164 color	area,IMX174,Sony,,,13.35,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	MED ace 8.9 MP 42 mono	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,42.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	daA2500-14um (S-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA3840-45uc (CS-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,29.3,29,19.9
+Basler	acA2500-14uc	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2590.0,1942.0,2.2,2.2,rolling,14.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A5328-15umBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2590-22gcPRO	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,22.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	acA1920-150um	area,PYTHON 2000,onsemi,,,10.87,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,150.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA3088-57uc	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,59.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4504-27g5mBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,27.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5320-7gcBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5328-4gmPRO	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	acA1440-220uc	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA1920-160um (No-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	daA2500-14uc (S-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA1280-54uc (No-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	a2A1920-160umPRO	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A3840-13gmPRO	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,13.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	daA1600-60um (S-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	MED ace 2.3 MP 41 color	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA640-300gc	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,376.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A3840-45umPRO	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1440-220um (CS-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2040-25gm	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,25.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA4096-93cm	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2168.0,3.45,3.45,global,93.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,480,80,80,45
+Basler	acA1440-73gc	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,73.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4508-20ucBAS	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	daA1920-160uc (CS-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA2500-60mci (No-Mount) - Tray (40pcs)	area,AR0521,onsemi,,,7.13,"1/2.5""",5.0,2560.0,1920.0,2.2,2.2,rolling,60.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	a2A1920-51gmBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	boA8100-16cm	area,XGS 45000,onsemi,,,31.45,,44.7,8192.0,5460.0,3.2,3.2,global,19.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	acA2440-20gc	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA9344-70cm	area,GMAX3265,Gpixel,,,37.36,"2.3""",65.0,9344.0,7000.0,3.2,3.2,global,70.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,71
+Basler	daA1920-15um (No-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,15.0,,Visible,,,,No Mount,USB3,,,CMOS,5,27,27,7.2
+Basler	daA2448-70uc (S-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2500-14gm (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4200-12gmBAS	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	daA4200-30mci (S-Mount) - Tray (40pcs)	area,AR1335,onsemi,,,5.76,"1/3""",13.0,4208.0,3120.0,1.1,1.1,rolling,30.0,,Visible,,,,S-mount,BCON for MIPI,,,CMOS,9,29,29,17.5
+Basler	daA2500-60mci (S-Mount) - Tray (40pcs)	area,AR0521,onsemi,,,7.13,"1/2.5""",5.0,2560.0,1920.0,2.2,2.2,rolling,60.0,,Visible,,,,S-mount,BCON for MIPI,,,CMOS,9,29,29,17.5
+Basler	acA1300-200uc	area,PYTHON 1300,onsemi,,,7.87,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,203.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4096-30umBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	acA4096-11gm	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,150,40,30,50
+Basler	daA2448-70uc (No-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	daA2448-70um (No-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	MED ace 5.1 MP 75 color	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA2040-180kmNIR	area,CMV4000,ams,,NIR-enhanced,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,180.0,,"Visible, NIR",,,,C-mount,Camera Link,,,CMOS,100,29,29,43.5
+Basler	daA1920-30uc (S-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A5320-23umPRO	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA4024-29uc	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,31.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4504-18ucBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,18.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	acA1920-40gc	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,42.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 2.3 MP 164 mono	area,IMX174,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA4112-30uc	area,IMX253,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	MED ace 6.4 MP 59 color	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,59.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA4096-40uc	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2168.0,3.45,3.45,global,42.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	daA720-520um (S-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2500-14uc (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2590.0,1942.0,2.2,2.2,rolling,14.0,,Visible,,,,CS-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA2448-250cc	area,IMX537,Sony,,,8.73,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,250.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	acA3800-10gc	area,MT9J003,onsemi,,,7.93,"1/2.3""",10.0,3840.0,2748.0,1.67,1.67,rolling,10.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA2040-90uc	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,90.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	alA640-300gm	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,340.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA1440-220um (S-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2500-60um	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,60.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA1920-48gm	area,PYTHON 2000,onsemi,,,10.87,"2/3""",2.3,1920.0,1200.0,4.8,4.8,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA800-200gc	area,PYTHON 500,onsemi,,,4.8,"1/3.6""",0.48,800.0,600.0,4.8,4.8,global,240.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4504-18ucPRO	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,18.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1280-54um (No-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	a2A2840-67g5cBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,67.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2840-14gcBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2000-50gm	area,CMV2000,ams,,,12.75,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA720-520um (No-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	acA1300-60gc	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A1280-80gmSWIR	area,IMX990,Sony,,,8.18,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,80.0,,"Visible, SWIR",,,,C-mount,GigE,,,InGaAs,100,29,29,55.5
+Basler	acA2500-60uc	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,60.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4096-9gmBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5320-23ucBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2840-48ucPRO	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,48.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA640-300gm	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,376.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2600-64ucBAS	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,64.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	acA1300-60gm (CS-Mount)	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1282.0,1026.0,5.3,5.3,"global, rolling",60.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2600-20gmBAS	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5320-7gcPRO	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2600-20gcPRO	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	daA1920-30um (S-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA1600-60gc (CS-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",2.0,1600.0,1200.0,4.5,4.5,"global, rolling",60.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA4024-8gc	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,8.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA1936-400cm	area,IMX421,Sony,,,10.86,"2/3""",3.0,1936.0,1464.0,4.5,4.5,global,400.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,480,80,80,45
+Basler	daA2448-70um (CS-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.3
+Basler	daA2500-14um (No-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	acA2500-14gc	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2590.0,1942.0,2.2,2.2,rolling,14.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA1300-75gm	area,PYTHON 1300,onsemi,,,7.87,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,88.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4508-6gcBAS	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,6.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	boA4096-180cc	area,IMX535,Sony,,,13.88,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,180.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	boA5328-100cc	area,IMX530,Sony,,,19.29,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,100.0,,Visible,,,,,CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A1920-165g5mBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,168.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	boA2832-190cc	area,IMX536,Sony,,,11.03,"2/3""",8.0,2832.0,2840.0,2.74,2.74,global,190.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A4096-44g5cBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,44.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	acA1300-75gc	area,PYTHON 1300,onsemi,,,7.87,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,88.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA1440-220um	area,IMX273,Sony,,,6.21,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA4504-100cc	area,IMX531,Sony,,,17.39,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,100.0,,Visible,,,,,CoaXPress,,,CMOS,525,80,80,45
+Basler	boA5328-100cm	area,IMX530,Sony,,,19.29,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,100.0,,Visible,,,,,CoaXPress,,,CMOS,525,80,80,45
+Basler	MED ace 5.1 MP 35 mono	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A2600-64ucPRO	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,64.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1440-220uc (No-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	acA2040-35gc	area,IMX265,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,36.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 12.3 MP 23 color	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	acA2000-50gc (CS-Mount)	area,CMV2000,ams,,,12.75,"2/3""",2.0,2046.0,1086.0,5.5,5.5,global,50.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	alA640-300gc	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,340.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A5328-22g5mBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,22.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	MED ace 12.3 MP 23 mono	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	a2A5328-15ucBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A4096-44g5mBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,44.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2600-20gcBAS	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A4200-40ucPRO	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,40.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA2040-120um	area,IMX252,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,120.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA1920-30um (No-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	acA5472-5gm	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A1280-125umSWIR	area,IMX990,Sony,,,8.18,"1/2""",1.3,1280.0,1024.0,5.0,5.0,global,125.0,,"Visible, SWIR",,,,C-mount,USB3,,,InGaAs,85,29,29,42.8
+Basler	acA5472-17um	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,17.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA4112-68cm	area,IMX253,Sony,,,17.46,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,480,80,80,45
+Basler	acA1920-50gc	area,IMX174,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA1300-60gmNIR (CS-Mount)	area,EV76C661,e2v,,,8.68,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,"Visible, NIR",,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA5472-17uc	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,17.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A3840-45umBAS	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2600-64umBAS	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,64.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	acA640-750um	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,751.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A5328-4gcBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2840-14gmBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA1920-25gm	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,25.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2448-75umPRO	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA2000-340km	area,CMV2000,ams,,,12.75,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,340.0,,Visible,,,,C-mount,Camera Link,,,CMOS,100,29,29,43.5
+Basler	acA720-290gm	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,291.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA2000-165um	area,CMV2000,ams,,,12.75,"2/3""",2.0,2048.0,1088.0,5.5,5.5,global,165.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA1920-25um	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,26.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA1920-40um	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA9344-70cc	area,GMAX3265,Gpixel,,,37.36,"2.3""",65.0,9344.0,7000.0,3.2,3.2,global,70.0,,Visible,,,,,CoaXPress,,,CMOS,,65,65,71
+Basler	a2A1920-165g5cBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,168.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	daA720-520um (CS-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA1920-50gm	area,IMX174,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,50.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4096-30ucBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2840-48umBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,48.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2448-75umBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2600-20gmPRO	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A1920-160umBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A4504-5gmBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2500-14gm	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA1920-160uc (No-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,5,27,27,8
+Basler	a2A2448-75ucBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	daA1280-54um (CS-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.2
+Basler	acA1920-155uc	area,IMX174,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	MED ace 5.1 MP 35 color	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A2590-60umPRO	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,60.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A2590-22gmPRO	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,22.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	a2A2448-105g5mBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,106.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	boA4504-100cm	area,IMX531,Sony,,,17.39,"1.1""",20.0,4504.0,4504.0,2.74,2.74,global,100.0,,Visible,,,,,CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A5320-34g5mBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,34.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A1920-160ucBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2590-22gcBAS	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,22.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2040-180km	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,180.0,,Visible,,,,C-mount,Camera Link,,,CMOS,100,29,29,43.5
+Basler	daA1920-160um (S-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A2590-60ucPRO	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,60.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA1280-60gc	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,rolling,60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA8100-16cc	area,XGS 45000,onsemi,,,31.45,,44.7,8192.0,5460.0,3.2,3.2,global,19.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	MED ace 8.9 MP 42 color	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,42.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	acA2500-14um (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,CS-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA1600-60uc (CS-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	MED ace 5.3 MP 20 color	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,21.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 2.3 MP 41 mono	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA1440-220uc (CS-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA1920-30um (CS-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A2600-64umPRO	area,GMAX2505,Gpixel,,,8.48,"1/2""",5.6,2600.0,2160.0,2.5,2.5,global,64.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA3840-45um (CS-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,29.3,29,19.9
+Basler	acA4096-30um	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	a2A3840-13gmBAS	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,13.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	daA3840-45um (S-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,29.3,29,19.9
+Basler	a2A3840-13gcBAS	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,13.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2040-90um	area,CMV4000,ams,,,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,90.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA5472-5gc	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA1936-400cc	area,IMX421,Sony,,,10.86,"2/3""",3.0,1936.0,1464.0,4.5,4.5,global,400.0,,Visible,,,,"F-mount, M42x0.75, M42x1, C-mount",CoaXPress,,,CMOS,480,80,80,45
+Basler	boA5120-150cm	area,GMAX0505,Gpixel,,,18.1,"1.1""",25.0,5120.0,5120.0,2.5,2.5,global,150.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,71
+Basler	acA4112-8gc	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,8.0,,Visible,,,,C-mount,GigE,,,CMOS,150,40,30,50
+Basler	daA1280-54uc (CS-Mount)	area,AR0134,onsemi,,,6.0,"1/3""",,1280.0,960.0,3.75,3.75,global,54.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.2
+Basler	a2A2590-60ucBAS	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,60.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA1600-60gc	area,EV76C570,e2v,,,9.0,"1/1.8""",2.0,1600.0,1200.0,4.5,4.5,"global, rolling",60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA1300-60gm	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1282.0,1026.0,5.3,5.3,"global, rolling",60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA1280-60gm	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1282.0,1026.0,5.3,5.3,rolling,60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4096-9gcPRO	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	daA4200-30mci (No-Mount) - Tray (40pcs)	area,AR1335,onsemi,,,5.76,"1/3""",13.0,4208.0,3120.0,1.1,1.1,rolling,30.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	acA640-121gm	area,ICX618,Sony,,Replacement,4.61,"1/4""",,659.0,494.0,5.6,5.6,global,134.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA4112-68cc	area,IMX253,Sony,,,17.46,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,68.0,,Visible,,,,"M42x0.75, M42x1, C-mount, F-mount",CoaXPress,,,CMOS,480,80,80,45
+Basler	a2A5320-7gmBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2448-23gcBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA1920-40uc	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA2040-35gm	area,IMX265,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,36.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2840-67g5mBAS	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,67.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	acA2000-165uc	area,CMV2000,ams,,,12.75,"2/3""",2.0,2040.0,1086.0,5.5,5.5,global,165.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA5320-150cm	area,IMX532,Sony,,,16.79,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,150.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A1920-51gmPRO	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	a2A1920-51gcPRO	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	MED ace 20.0 MP 17 mono	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,17.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA1600-60gm	area,EV76C570,e2v,,,9.0,"1/1.8""",2.0,1602.0,1202.0,4.5,4.5,"global, rolling",60.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA2440-35um	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A5328-22g5cBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,22.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	acA2440-20gm	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA3840-45um (No-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.9
+Basler	acA3800-14uc	area,MT9J003,onsemi,,,7.93,"1/2.3""",10.0,3840.0,2748.0,1.67,1.67,rolling,14.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA3840-45uc (S-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,29.3,29,19.9
+Basler	a2A2590-22gmBAS	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,22.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A4200-12gcPRO	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55
+Basler	daA2448-70uc (CS-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.3
+Basler	a2A5328-4gmBAS	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2500-20gc	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,21.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	boA2832-190cm	area,IMX536,Sony,,,11.03,"2/3""",8.0,2832.0,2840.0,2.74,2.74,global,190.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A1920-160ucPRO	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA1920-155um	area,IMX174,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,164.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A5320-23umBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A4504-5gcBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5320-34g5cBAS	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,34.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	boA4096-180cm	area,IMX535,Sony,,,13.88,"1/1.1""",12.0,4096.0,3000.0,2.74,2.74,global,180.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,45
+Basler	a2A4096-9gmPRO	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA3088-57um	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,59.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4504-18umBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,18.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	MED ace 20.0 MP 17 color	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,17.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA800-510uc	area,PYTHON 500,onsemi,,,4.8,"1/3.6""",0.48,800.0,600.0,4.8,4.8,global,511.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4508-20umBAS	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	boA4500-45cm	area,XGS 20000,onsemi,,,20.36,"1.3""",20.0,4500.0,4500.0,3.2,3.2,global,45.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	acA4096-30uc	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	acA800-200gm	area,PYTHON 500,onsemi,,,4.8,"1/3.6""",0.48,800.0,600.0,4.8,4.8,global,240.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A4096-9gcBAS	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA800-510um	area,PYTHON 500,onsemi,,,4.8,"1/3.6""",0.48,800.0,600.0,4.8,4.8,global,511.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A2448-23gmBAS	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A4200-12gmPRO	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55
+Basler	a2A4096-30umPRO	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA1920-25gc (CS-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",2.0,1920.0,1080.0,2.2,2.2,rolling,25.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A2840-14gcPRO	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,14.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A4096-30ucPRO	area,IMX545,Sony,,,13.91,"1/1.1""",12.3,4096.0,3000.0,2.74,2.74,global,30.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A4508-20ucPRO	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,20.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA2040-90umNIR	area,CMV4000,ams,,NIR-enhanced,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,90.0,,"Visible, NIR",,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A5328-15umPRO	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	acA4096-11gc	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,150,40,30,50
+Basler	daA3840-30mc (S-Mount) - Tray (40pcs)	area,AR0821,onsemi,,,9.27,"1/1.8""",8.0,3840.0,2160.0,2.1,2.1,rolling,30.0,,Visible,,,,S-mount,BCON for MIPI,,,CMOS,9,29,29,17.5
+Basler	acA4096-40um	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2168.0,3.45,3.45,global,42.0,,Visible,,,,C-mount,USB3,,,CMOS,130,40,30,35.8
+Basler	daA1920-30uc (No-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	a2A1920-51gcBAS	area,IMX392,Sony,,,7.77,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,51.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2440-75um	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A640-240umSWIR	area,IMX991,Sony,,,4.12,"1/4""",,640.0,512.0,5.0,5.0,global,240.0,,"Visible, SWIR",,,,C-mount,USB3,,,InGaAs,85,29,29,42.8
+Basler	daA1600-60uc (S-Mount)	area,EV76C570,e2v,,,9.0,"1/1.8""",,1600.0,1200.0,4.5,4.5,,60.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA2500-20gm	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,21.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 8.9 MP 32 mono	area,IMX267,Sony,,,15.97,"1""",9.0,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,80,40,30,35.8
+Basler	acA1920-40gm	area,IMX249,Sony,,,13.39,"1/1.2""",2.3,1920.0,1200.0,5.86,5.86,global,42.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA2500-14uc (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.2
+Basler	acA2040-55uc	area,IMX265,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,55.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA5120-230cc	area,GSPRINT4521,Gpixel,,,29.45,,21.0,5120.0,4096.0,4.5,4.5,global,230.0,,Visible,,,,,CoaXPress,,,CMOS,400,65,65,76
+Basler	daA720-520uc (CS-Mount)	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,523.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	daA1920-160um (CS-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	boA4500-45cc	area,XGS 20000,onsemi,,,20.36,"1.3""",20.0,4500.0,4500.0,3.2,3.2,global,45.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	acA640-750uc	area,PYTHON 300,onsemi,,,3.84,"1/4""",,640.0,480.0,4.8,4.8,global,751.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA3800-14um	area,MT9J003,onsemi,,,7.93,"1/2.3""",10.0,3840.0,2748.0,1.67,1.67,rolling,14.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA4112-20uc	area,IMX304,Sony,,,17.52,"1.1""",12.0,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,136,40,30,35.8
+Basler	a2A2840-48umPRO	area,IMX546,Sony,,,11.0,"2/3""",8.0,2840.0,2840.0,2.74,2.74,global,48.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA1920-160uc (S-Mount)	area,IMX392,Sony,,,7.77,"1/2.3""",,1920.0,1200.0,3.45,3.45,global,160.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A3840-13gcPRO	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,13.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	acA2500-14um	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	MED ace 6.4 MP 59 mono	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,59.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	acA3088-16gc	area,IMX178,Sony,,,8.91,"1/1.8""",6.0,3088.0,2064.0,2.4,2.4,rolling,16.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	daA2500-14um (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.2
+Basler	acA2500-14gc (CS-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",5.0,2590.0,1942.0,2.2,2.2,rolling,14.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 5.3 MP 20 mono	area,PYTHON 5000,onsemi,,,15.86,"1""",5.0,2590.0,2048.0,4.8,4.8,global,21.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	a2A3840-45ucPRO	area,IMX334,Sony,,,8.82,"1/1.8""",8.3,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A640-240gmSWIR	area,IMX991,Sony,,,4.1,"1/4""",,640.0,512.0,5.0,5.0,global,240.0,,"Visible, SWIR",,,,C-mount,GigE,,,InGaAs,100,29,29,55.5
+Basler	daA3840-30mc (No-Mount)	area,AR0821,onsemi,,,9.27,"1/1.8""",8.0,3840.0,2160.0,2.1,2.1,rolling,30.0,,Visible,,,,No Mount,BCON for MIPI,,,CMOS,5,27,27,5.3
+Basler	a2A4504-27g5cBAS	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,27.0,,Visible,,,,C-mount,5GigE,,,CMOS,100,29,29,55.5
+Basler	a2A5320-7gmPRO	area,IMX542,Sony,,,16.78,"1.1""",16.1,5320.0,3032.0,2.74,2.74,global,7.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	acA720-520uc	area,IMX287,Sony,,,6.21,"1/2.9""",,720.0,540.0,6.9,6.9,global,525.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A4508-6gmPRO	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,6.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42.8
+Basler	daA2448-70um (S-Mount)	area,IMX548,Sony,,,8.75,"1/1.8""",,2448.0,2048.0,2.74,2.74,global,72.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A4504-5gmPRO	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,5.0,,Visible,,,,C-mount,GigE,,,CMOS,105,29,29,55.5
+Basler	daA1440-220uc (S-Mount)	area,IMX273,Sony,,,6.21,"1/2.9""",,1440.0,1080.0,3.45,3.45,global,227.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	a2A4200-40ucBAS	area,GMAX2509,Gpixel,,,11.83,"2/3""",9.1,4200.0,2160.0,2.5,2.5,global,40.0,,Visible,,,,C-mount,USB3,,,CMOS,85,29,29,42.8
+Basler	a2A2448-23gcPRO	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	a2A2590-60umBAS	area,IMX334,Sony,,ROI,6.5,"1/2.8""",5.0,2592.0,1944.0,2.0,2.0,rolling,60.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	beA4000-62kc	area,CMV12000,ams,,,28.16,"1.75""",12.0,4088.0,3070.0,5.5,5.5,global,62.0,,Visible,,,,"F-mount, M42x0.75, M42x1, M58x0.75",Camera Link,,,CMOS,210,56,62,40
+Basler	a2A5328-15ucPRO	area,IMX540,Sony,,,19.26,"1.2""",24.4,5328.0,4608.0,2.74,2.74,global,15.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	a2A4508-6gcPRO	area,GMAX2518,Gpixel,,,15.23,"1""",18.4,4508.0,4096.0,2.5,2.5,global,6.0,,Visible,,,,C-mount,GigE,,,CMOS,90,29,29,42.8
+Basler	daA3840-45uc (No-Mount)	area,IMX334,Sony,,,8.81,"1/1.8""",,3840.0,2160.0,2.0,2.0,rolling,45.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.9
+Basler	a2A4504-18umPRO	area,IMX541,Sony,,,17.45,"1.1""",20.2,4504.0,4504.0,2.74,2.74,global,18.0,,Visible,,,,C-mount,USB3,,,CMOS,90,29,29,42.8
+Basler	daA2500-14uc (No-Mount)	area,MT9P031,onsemi,,,7.13,"1/2.5""",,2592.0,1944.0,2.2,2.2,rolling,14.0,,Visible,,,,,USB3,,,CMOS,5,27,27,7.2
+Basler	acA1300-60gmNIR	area,EV76C661,e2v,,,8.68,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	MED ace 5.1 MP 75 mono	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,75.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	a2A2448-23gmPRO	area,IMX547,Sony,,,8.75,"1/1.8""",5.0,2448.0,2048.0,2.74,2.74,global,23.0,,Visible,,,,C-mount,GigE,,,CMOS,100,29,29,55.5
+Basler	acA2040-25gmNIR	area,CMV4000,ams,,NIR-enhanced,15.92,"1""",4.0,2048.0,2048.0,5.5,5.5,global,25.0,,"Visible, NIR",,,,C-mount,GigE,,,CMOS,90,29,29,42
+Basler	acA2040-120uc	area,IMX252,Sony,,,8.84,"1/1.8""",3.0,2048.0,1536.0,3.45,3.45,global,120.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	daA1920-30uc (CS-Mount)	area,MT9P031,onsemi,,,4.84,"1/3.7""",,1920.0,1080.0,2.2,2.2,rolling,30.0,,Visible,,,,,USB3,,,CMOS,15,29.3,29,19.9
+Basler	acA4024-29um	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,31.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA6500-36cc	area,XGS 32000,onsemi,,,26.28,,32.4,6580.0,4935.0,3.2,3.2,global,35.0,,Visible,,,,"F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,525,80,80,49.1
+Basler	acA1300-200um	area,PYTHON 1300,onsemi,,,7.87,"1/2""",1.3,1280.0,1024.0,4.8,4.8,global,203.0,,Visible,,,,C-mount,USB3,,,CMOS,80,29,29,29.3
+Basler	boA4096-93cc	area,IMX255,Sony,,,15.97,"1""",9.0,4096.0,2168.0,3.45,3.45,global,93.0,,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1",CoaXPress,,,CMOS,480,80,80,45
+Basler	acA1300-60gc (CS-Mount)	area,EV76C560,e2v,,,8.68,"1/1.8""",1.3,1280.0,1024.0,5.3,5.3,"global, rolling",60.0,,Visible,,,,CS-mount,GigE,,,CMOS,90,29,29,42
+Basler	raL8192-80km	line,DR-8k-3.5,Awaiba,,,,,,8192.0,1.0,3.5,3.5,global,,80.0,Visible,,,,"M42x1, M58x0.75, C-mount, F-mount, M42x0.75",Camera Link,,,CMOS,210,56,62,34
+Basler	raL2048-80km	line,DR-2k-7,Awaiba,,,,,,2048.0,1.0,7.0,7.0,global,,80.0,Visible,,,,"M42x1, M58x0.75, C-mount, F-mount, M42x0.75",Camera Link,,,CMOS,210,56,62,34
+Basler	raL12288-8gm	line,DR-12k-3.5,Awaiba,,,,,,12288.0,1.0,3.5,3.5,global,,8.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",GigE,,,CMOS,240,56,62,36
+Basler	raL6144-16gm	line,DR-6k-7,Awaiba,,,,,,6144.0,1.0,7.0,7.0,global,,17.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",GigE,,,CMOS,240,56,62,36
+Basler	raL4096-24gm	line,DR-4k-7,Awaiba,,,,,,4096.0,1.0,7.0,7.0,global,,26.0,Visible,,,,"M58x0.75, C-mount, F-mount, M42x0.75, M42x1",GigE,,,CMOS,240,56,62,36
+Basler	raL8192-12gm	line,DR-8k-3.5,Awaiba,,,,,,8192.0,1.0,3.5,3.5,global,,12.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",GigE,,,CMOS,240,56,62,36
+Basler	raL2048-48gm	line,DR-2k-7,Awaiba,,,,,,2048.0,1.0,7.0,7.0,global,,51.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",GigE,,,CMOS,240,56,62,36
+Basler	raL12288-66km	line,DR-12k-3.5,Awaiba,,,,,,12288.0,1.0,3.5,3.5,global,,66.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",Camera Link,,,CMOS,210,56,62,34
+Basler	raL6144-80km	line,DR-6k-7,Awaiba,,,,,,6144.0,1.0,7.0,7.0,global,,80.0,Visible,,,,"C-mount, F-mount, M42x0.75, M42x1, M58x0.75",Camera Link,,,CMOS,210,56,62,34
+Basler	JAIJAI Camera AP-3200T-PMCL	area,IMX265,Sony,,3-CMOS,8.89,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,55.0,,Visible,,,,C-mount,Camera Link,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GO-5100MP-PGE	area,IMX250MZR,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-12401C-USB	area,IMX304,Sony,,,17.6,"1.1""",12.3,4088.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,130,44,44,44
+Basler	JAIJAI Camera GOX-3201M-PGE	area,IMX265,Sony,,,8.84,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,36.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-12409C-PGE	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,8.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5100C-USB	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-5000M-CXP2	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,211.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera GOX-5103M-USB	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-8901C-PGE	area,IMX267,Sony,,,15.97,"1""",8.8,4096.0,2160.0,3.45,3.45,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-12401C-PGE	area,IMX304,Sony,,,17.6,"1.1""",12.3,4088.0,3000.0,3.45,3.45,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,160,44,54,44
+Basler	JAIJAI Camera GO-2401C-PGE	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-20000C-PMCL	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,,F-mount,Camera Link,,,CMOS,320,62,85,62
+Basler	JAIJAI Camera GOX-3201C-USB	area,IMX265,Sony,,,8.84,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,55.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-12401M-PGE	area,IMX304,Sony,,,17.6,"1.1""",12.3,4088.0,3000.0,3.45,3.45,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,160,44,54,44
+Basler	JAIJAI Camera AP-3200T-USB	area,IMX265,Sony,,3-CMOS,8.89,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,38.0,,Visible,,,,C-mount,USB3,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GO-5101M-PMCL	area,IMX264,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-2400M-PGE	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-5100C-PGE	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-2400C-USB	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,159.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-8901C-USB	area,IMX267,Sony,,,15.97,"1""",8.8,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-3201M-USB	area,IMX265,Sony,,,8.84,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,55.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	beA4000-62km	area,CMV12000,ams,,,28.16,"1.75""",12.0,4096.0,3072.0,5.5,5.5,global,62.0,,Visible,,,,"F-mount, M42x0.75, M42x1, M58x0.75",Camera Link,,,CMOS,210,56,62,40
+Basler	JAIJAI Camera GO-5100M-PGE	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-12401M-USB	area,IMX304,Sony,,,17.52,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-3201C-PGE	area,IMX265,Sony,,,8.84,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,36.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-2400M-PMCL	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-5103M-PGE	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-6409C-PGE	area,IMX178,Sony,,,8.86,"1/1.8""",6.3,3072.0,2048.0,2.4,2.4,rolling,16.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5101C-PMCL	area,IMX264,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-20000M-USB	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,16.0,,Visible,,,,F-mount,USB3,,,CMOS,350,62,85,62
+Basler	JAIJAI Camera GOX-5103C-PGE	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-2400C-PGE	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-5000C-CXP4	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,253.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera GOX-12401C-USB	area,IMX304,Sony,,,17.52,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-2402M-PGE	area,IMX392,Sony,,,7.81,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,49.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5100MP-USB	area,IMX250MZR,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,74.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-12400M-PMCL	area,IMX253,Sony,,,17.6,"1.1""",12.4,4112.0,3008.0,3.5,3.5,global,64.0,,Visible,,,,C-mount,Camera Link,,,CMOS,135,44,44,44
+Basler	JAIJAI Camera GOX-6409M-PGE	area,IMX178,Sony,,,8.86,"1/1.8""",6.3,3072.0,2048.0,2.4,2.4,rolling,16.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-20000C-CXP2	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,,F-mount,CoaXPress,,,CMOS,350,62,85,62
+Basler	JAIJAI Camera SP-12400C-PMCL	area,IMX253,Sony,,,17.6,"1.1""",12.4,4112.0,3008.0,3.5,3.5,global,64.0,,Visible,,,,C-mount,Camera Link,,,CMOS,135,44,44,44
+Basler	JAIJAI Camera GOX-5102C-USB	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-5000C-PMCL	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,137.0,,Visible,,,,C-mount,Camera Link,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera GOX-5103C-USB	area,IMX264,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera AP-3200T-PGE	area,IMX265,Sony,,3-CMOS,8.89,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GOX-8901M-USB	area,IMX267,Sony,,,15.97,"1""",8.8,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-20000M-PMCL	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,,F-mount,Camera Link,,,CMOS,320,62,85,62
+Basler	JAIJAI Camera GOX-20409C-PGE	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-5000C-USB	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,62.0,,Visible,,,,C-mount,USB3,,,CMOS,255,62,56,62
+Basler	JAIJAI Camera SP-12401M-USB	area,IMX304,Sony,,,17.6,"1.1""",12.3,4088.0,3000.0,3.45,3.45,global,23.0,,Visible,,,,C-mount,USB3,,,CMOS,130,44,44,44
+Basler	JAIJAI Camera SP-20000C-USB	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,16.0,,Visible,,,,F-mount,USB3,,,CMOS,350,62,85,62
+Basler	JAIJAI Camera GO-2400M-USB	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,159.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-5000M-PMCL-UV	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,107.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,41.5,29
+Basler	JAIJAI Camera SP-12000C-CXP4	area,CMV12000,ams,,,28.14,,12.6,4096.0,3072.0,5.5,5.5,global,189.0,,Visible,,,,F-mount,CoaXPress,,,CMOS,510,62,127.5,62
+Basler	JAIJAI Camera GOX-2402C-PGE	area,IMX392,Sony,,,7.81,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,49.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-5000M-USB	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,62.0,,Visible,,,,C-mount,USB3,,,CMOS,255,62,56,62
+Basler	JAIJAI Camera GOX-3200C-USB	area,IMX252,Sony,,,8.89,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,119.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5000M-PMCL	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,107.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-5000M-PGE	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-5000C-GE2	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,44.0,,Visible,,,,C-mount,GigE,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera SP-5000M-PMCL	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,137.0,,Visible,,,,C-mount,Camera Link,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera AP-1600T-USB	area,IMX273,Sony,,3-CMOS,9.23,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,79.0,,Visible,,,,C-mount,USB3,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GO-5100M-USB	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-20409M-PGE	area,IMX183,Sony,,,15.78,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,51.5,29
+Basler	JAIJAI Camera GOX-8901M-PGE	area,IMX267,Sony,,,15.97,"1""",8.8,4096.0,2160.0,3.45,3.45,global,12.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-5000C-CXP2	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,211.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera GOX-12401M-PGE	area,IMX304,Sony,,,17.52,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5000M-USB-UV	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,62.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,41.5,29
+Basler	JAIJAI Camera GO-5000C-PGE	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-5101C-PGE	area,IMX264,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-5000M-PGE-UV	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,41.5,29
+Basler	JAIJAI Camera AP-1600T-PGE	area,IMX273,Sony,,3-CMOS,9.23,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,24.0,,Visible,,,,C-mount,GigE,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GO-5000M-USB	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,69.0,,Visible,,,,C-mount,USB3,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GO-2400C-PMCL	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-12401C-PGE	area,IMX304,Sony,,,17.52,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,9.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera SP-5000M-GE2	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,44.0,,Visible,,,,C-mount,GigE,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera SP-20000M-CXP2	area,CMV20000,ams,,,40.96,,19.7,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,,F-mount,CoaXPress,,,CMOS,350,62,85,62
+Basler	JAIJAI Camera SP-12000M-CXP4	area,CMV12000,ams,,,28.14,,12.6,4096.0,3072.0,5.5,5.5,global,189.0,,Visible,,,,F-mount,CoaXPress,,,CMOS,510,62,127.5,62
+Basler	JAIJAI Camera AP-1600T-PMCL	area,IMX273,Sony,,3-CMOS,9.23,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,126.0,,Visible,,,,C-mount,Camera Link,,,CMOS,200,44,84,44
+Basler	JAIJAI Camera GO-5000C-PMCL	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,107.0,,Visible,,,,C-mount,Camera Link,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera GOX-5102M-USB	area,IMX250,Sony,,,11.02,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,98.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GOX-3200M-USB	area,IMX252,Sony,,,8.89,"1/1.8""",3.1,2048.0,1536.0,3.45,3.45,global,119.0,,Visible,,,,C-mount,USB3,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-2401M-PGE	area,IMX174,Sony,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29
+Basler	JAIJAI Camera SP-5000M-CXP4	area,Lince5M,e2v,,,16.39,"1""",5.2,2560.0,2048.0,5.0,5.0,global,253.0,,Visible,,,,C-mount,CoaXPress,,,CMOS,215,62,56,62
+Basler	JAIJAI Camera GOX-12409M-PGE	area,IMX226,Sony,,,9.32,"1/1.7""",12.2,4024.0,3036.0,1.85,1.85,rolling,8.0,,Visible,,,,C-mount,GigE,,,CMOS,62,29,51.5,29
+Basler	JAIJAI Camera GO-5101M-PGE	area,IMX264,Sony,,,11.08,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,,C-mount,GigE,,,CMOS,46,29,42,29

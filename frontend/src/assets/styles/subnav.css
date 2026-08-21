@@ -1,0 +1,100 @@
+@layer components {
+  .nav-pill {
+    @apply rounded-full border px-3 py-1.5 text-sm font-medium transition-colors;
+  }
+
+  .nav-pill-active {
+    border-color: var(--theme-nav-active-bg);
+    background: var(--theme-nav-active-bg);
+    color: var(--theme-nav-active-text);
+  }
+
+  .nav-pill-active:hover {
+    border-color: var(--theme-nav-active-hover-bg);
+    background: var(--theme-nav-active-hover-bg);
+    color: var(--theme-nav-active-text);
+  }
+
+  .nav-pill-inactive {
+    border-color: var(--theme-border-strong);
+    background: var(--theme-surface-1);
+    color: var(--theme-text-body);
+  }
+
+  .nav-pill-inactive:hover {
+    border-color: var(--theme-border-strong);
+    background: var(--theme-nav-hover-bg);
+    color: var(--theme-text-strong);
+  }
+
+  .subnav {
+    @apply w-full;
+  }
+
+  .subnav-list {
+    @apply m-0 list-none p-0;
+  }
+
+  .subnav-node {
+    @apply block;
+  }
+
+  .subnav-row {
+    @apply flex w-full items-center justify-between rounded-xl px-3 py-2 text-sm transition-colors duration-150;
+    color: var(--theme-text-body);
+  }
+
+  .subnav-row:hover {
+    background: var(--theme-nav-hover-bg);
+    color: var(--theme-text-strong);
+  }
+
+  .subnav-row-active {
+    @apply font-medium;
+    background: var(--theme-nav-active-bg);
+    color: var(--theme-nav-active-text);
+  }
+
+  .subnav-row-active:hover {
+    background: var(--theme-nav-active-hover-bg);
+    color: var(--theme-nav-active-text);
+  }
+
+  .subnav-row-parent {
+    @apply cursor-pointer;
+  }
+
+  .subnav-label {
+    @apply flex-1 text-left;
+  }
+
+  .subnav-chevron {
+    @apply ml-1 text-xs transition-transform duration-200;
+    color: var(--theme-text-subtle);
+  }
+
+  .subnav-chevron-open {
+    @apply rotate-180;
+  }
+
+  .subnav-children {
+    @apply m-0 list-none p-0;
+  }
+
+  .subnav-collapse-enter-active,
+  .subnav-collapse-leave-active {
+    transition: opacity 180ms ease, transform 180ms ease;
+  }
+
+  .subnav-collapse-enter-from,
+  .subnav-collapse-leave-to {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  .subnav-collapse-enter-to,
+  .subnav-collapse-leave-from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

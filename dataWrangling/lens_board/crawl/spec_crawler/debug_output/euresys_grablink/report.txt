@@ -1,0 +1,291 @@
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-full/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_00__en_products_frame-grabber_grablink-full_.html (2007658 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-full/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-full/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-full-xr/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_01__en_products_frame-grabber_grablink-full-xr_.html (1965384 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-full-xr/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-full-xr/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-base/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_02__en_products_frame-grabber_grablink-base_.html (1541211 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-base/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-base/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-value/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_03__en_products_frame-grabber_grablink-value_.html (453753 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-value/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 4개
+  - /en/products/frame-grabber/grablink-value/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-duo/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_04__en_products_frame-grabber_grablink-duo_.html (2060669 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-duo/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-duo/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-dualbase/ ===
+status_code: 200
+saved html -> debug_output\euresys_grablink\page_05__en_products_frame-grabber_grablink-dualbase_.html (1557928 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-dualbase/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-dualbase/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+
+=== sitemap / robots 확인 ===
+
+[OK] https://www.euresys.com/robots.txt (status=200, len=122)
+[OK] https://www.euresys.com/sitemap.xml (status=200, len=6469)
+     <loc> 개수: 70
+     - https://www.euresys.com/en/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/de/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/zh/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/ja/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/ko/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/en/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/de/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/zh/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/ja/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/ko/wp-sitemap-posts-frame-grabber-1.xml
+     ... 외 60개
+[--] https://www.euresys.com/sitemap_index.xml (status=404)
+
+--- sitemap_keyword='frame-grabber' 매칭 하위 sitemap: 5개 ---
+  [OK] https://www.euresys.com/en/wp-sitemap-posts-frame-grabber-1.xml -> <loc> 31개
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-qsfp28/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-octo-cxp-12/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-qsfp/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-cxp-12-value/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-cxp-12-df/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-cxp-12-3d-lle/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-cxp-12-to-qsfp-converter/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-cxp-12/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-duo-cxp-12/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-mono-cxp-12-lh/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-octo/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-g3-df/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-g3/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-g3-lh/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-3d-lle/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-duo-pcie-104-emb/
+     - https://www.euresys.com/en/products/frame-grabber/coaxlink-quad-cxp-12-jpeg/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-duo/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-full-xr/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-value/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-full/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-dualbase/
+     - https://www.euresys.com/en/products/frame-grabber/grablink-base/
+     - https://www.euresys.com/en/products/frame-grabber/domino-melody/
+     - https://www.euresys.com/en/products/frame-grabber/domino-symphony-pcie/
+     - https://www.euresys.com/en/products/frame-grabber/picolo-hd-3g-dvi/
+     - https://www.euresys.com/en/products/frame-grabber/picolo-alert-pcie/
+     - https://www.euresys.com/en/products/frame-grabber/picolo-pro-2/
+     - https://www.euresys.com/en/products/frame-grabber/picolo-junior-4/
+     - https://www.euresys.com/en/products/frame-grabber/picolo-pcie/
+     - https://www.euresys.com/en/products/frame-grabber/picolo/
+  [OK] https://www.euresys.com/de/wp-sitemap-posts-frame-grabber-1.xml -> <loc> 31개
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-qsfp28/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-octo-cxp-12/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-qsfp/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-cxp-12-value/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-cxp-12-df/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-cxp-12-3d-lle/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-cxp-12-to-qsfp-converter/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-cxp-12/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-duo-cxp-12/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-mono-cxp-12-lh/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-octo/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-g3-df/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-g3/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-g3-lh/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-3d-lle/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-duo-pcie-104-emb/
+     - https://www.euresys.com/de/products/frame-grabber/coaxlink-quad-cxp-12-jpeg/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-duo/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-full-xr/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-value/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-full/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-dualbase/
+     - https://www.euresys.com/de/products/frame-grabber/grablink-base/
+     - https://www.euresys.com/de/products/frame-grabber/domino-melody/
+     - https://www.euresys.com/de/products/frame-grabber/domino-symphony-pcie/
+     - https://www.euresys.com/de/products/frame-grabber/picolo-hd-3g-dvi/
+     - https://www.euresys.com/de/products/frame-grabber/picolo-alert-pcie/
+     - https://www.euresys.com/de/products/frame-grabber/picolo-pro-2/
+     - https://www.euresys.com/de/products/frame-grabber/picolo-junior-4/
+     - https://www.euresys.com/de/products/frame-grabber/picolo-pcie/
+     - https://www.euresys.com/de/products/frame-grabber/picolo/
+  [OK] https://www.euresys.com/zh/wp-sitemap-posts-frame-grabber-1.xml -> <loc> 31개
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-qsfp28/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-octo-cxp-12/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-qsfp/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-cxp-12-value/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-cxp-12-df/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-cxp-12-3d-lle/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-cxp-12-to-qsfp-converter/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-cxp-12/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-duo-cxp-12/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-mono-cxp-12-lh/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-octo/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-g3-df/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-g3/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-g3-lh/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-3d-lle/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-duo-pcie-104-emb/
+     - https://www.euresys.com/zh/products/frame-grabber/coaxlink-quad-cxp-12-jpeg/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-duo/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-full-xr/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-value/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-full/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-dualbase/
+     - https://www.euresys.com/zh/products/frame-grabber/grablink-base/
+     - https://www.euresys.com/zh/products/frame-grabber/domino-melody/
+     - https://www.euresys.com/zh/products/frame-grabber/domino-symphony-pcie/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo-hd-3g-dvi/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo-alert-pcie/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo-pro-2/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo-junior-4/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo-pcie/
+     - https://www.euresys.com/zh/products/frame-grabber/picolo/
+  [OK] https://www.euresys.com/ja/wp-sitemap-posts-frame-grabber-1.xml -> <loc> 31개
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-qsfp28/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-octo-cxp-12/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-qsfp/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-cxp-12-value/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-cxp-12-df/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-cxp-12-3d-lle/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-cxp-12-to-qsfp-converter/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-cxp-12/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-duo-cxp-12/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-mono-cxp-12-lh/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-octo/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-g3-df/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-g3/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-g3-lh/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-3d-lle/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-duo-pcie-104-emb/
+     - https://www.euresys.com/ja/products/frame-grabber/coaxlink-quad-cxp-12-jpeg/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-duo/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-full-xr/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-value/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-full/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-dualbase/
+     - https://www.euresys.com/ja/products/frame-grabber/grablink-base/
+     - https://www.euresys.com/ja/products/frame-grabber/domino-melody/
+     - https://www.euresys.com/ja/products/frame-grabber/domino-symphony-pcie/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo-hd-3g-dvi/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo-alert-pcie/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo-pro-2/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo-junior-4/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo-pcie/
+     - https://www.euresys.com/ja/products/frame-grabber/picolo/
+  [OK] https://www.euresys.com/ko/wp-sitemap-posts-frame-grabber-1.xml -> <loc> 31개
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-qsfp28/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-octo-cxp-12/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-qsfp/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-cxp-12-value/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-cxp-12-df/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-cxp-12-3d-lle/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-cxp-12-to-qsfp-converter/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-cxp-12/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-duo-cxp-12/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-mono-cxp-12-lh/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-octo/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-g3-df/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-g3/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-g3-lh/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-3d-lle/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-duo-pcie-104-emb/
+     - https://www.euresys.com/ko/products/frame-grabber/coaxlink-quad-cxp-12-jpeg/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-duo/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-full-xr/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-value/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-full/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-dualbase/
+     - https://www.euresys.com/ko/products/frame-grabber/grablink-base/
+     - https://www.euresys.com/ko/products/frame-grabber/domino-melody/
+     - https://www.euresys.com/ko/products/frame-grabber/domino-symphony-pcie/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo-hd-3g-dvi/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo-alert-pcie/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo-pro-2/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo-junior-4/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo-pcie/
+     - https://www.euresys.com/ko/products/frame-grabber/picolo/

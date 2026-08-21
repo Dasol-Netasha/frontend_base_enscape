@@ -1,0 +1,128 @@
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-full/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_00__en_products_frame-grabber_grablink-full_.html (2007658 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-full/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-full/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-full-xr/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_01__en_products_frame-grabber_grablink-full-xr_.html (1965384 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-full-xr/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-full-xr/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-base/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_02__en_products_frame-grabber_grablink-base_.html (1541211 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-base/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-base/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-value/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_03__en_products_frame-grabber_grablink-value_.html (453753 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-value/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 4개
+  - /en/products/frame-grabber/grablink-value/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-duo/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_04__en_products_frame-grabber_grablink-duo_.html (2060669 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-duo/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-duo/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+=== URL: https://www.euresys.com/en/products/frame-grabber/grablink-dualbase/ ===
+status_code: 200
+saved html -> debug_output\euresys_cameralink\page_05__en_products_frame-grabber_grablink-dualbase_.html (1557928 bytes)
+
+[테이블] 추출된 레코드 수: 0
+  -> table 추출 0건. JS 렌더링 또는 다른 구조일 가능성 있음.
+
+[링크] 패턴 매칭 링크 수: 1
+  - https://www.euresys.com/en/products/frame-grabber/grablink-dualbase/
+
+[JS/JSON 신호] script JSON blob: 0개, API-like 경로 후보: 7개
+  - /en/products/
+  - /en/products/frame-grabber/grablink-dualbase/
+  - /en/products/frame-grabbers/
+  - /en/products/ip-cores/
+  - /en/products/machine-vision-software/
+  - /en/products/serie/camera-link/
+  - /en/products/software/egrabber-memento/
+
+
+=== sitemap / robots 확인 ===
+
+[OK] https://www.euresys.com/robots.txt (status=200, len=122)
+[OK] https://www.euresys.com/sitemap.xml (status=200, len=6469)
+     <loc> 개수: 70
+     - https://www.euresys.com/en/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/de/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/zh/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/ja/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/ko/wp-sitemap-posts-page-1.xml
+     - https://www.euresys.com/en/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/de/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/zh/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/ja/wp-sitemap-posts-frame-grabber-1.xml
+     - https://www.euresys.com/ko/wp-sitemap-posts-frame-grabber-1.xml
+[--] https://www.euresys.com/sitemap_index.xml (status=404)

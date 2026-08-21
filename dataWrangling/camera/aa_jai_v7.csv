@@ -1,0 +1,200 @@
+﻿brand,model_name,camera_type,sensor_name,sensor_brand,sensor_extra,sensor_size_mm,sensor_size_inch,resolution_mp,resolution_w,resolution_h,pixel_size_h,pixel_size_v,shutter,frame_rate,line_rate,spectrum,spectrum_min_nm,spectrum_max_nm,sensor_color,lens_mount,interface,interface_power,pixel_format,sensor_architecture,weight_g,dimension_w,dimension_h,dimension_l
+JAI,AP-1600T-USB-LSX,area,IMX273,,,6.3,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,79.0,,"Visible, NIR",,,Color,C-mount,USB3,,,,170,44,44,74
+JAI,AP-3200T-USB-LS,area,IMX265,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,38.0,,"Visible, NIR",,,Color,C-mount,USB3,,,,170,44,44,74
+JAI,AP-3200T-USB-LSX,area,IMX265,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,38.0,,"Visible, NIR",,,Color,C-mount,USB3,,,,170,44,44,74
+JAI,AP-1600T-PGE,area,IMX273,,,6.3,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,24.0,,Visible,,,Color,C-mount,GigE,PoE,,,200,44,44,84
+JAI,AP-1600T-PMCL,area,IMX273,,,6.3,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,126.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,170,44,44,74
+JAI,AP-1600T-USB,area,IMX273,,,6.3,"1/2.9""",1.6,1456.0,1088.0,3.45,3.45,global,79.0,,"Visible, NIR",,,Color,C-mount,USB3,,,,170,44,44,74
+JAI,AP-3200T-10GE,area,IMX252,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,106.0,,Visible,,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,AP-3200T-PGE,area,IMX265,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,12.0,,Visible,,,Color,C-mount,GigE,PoE,,,200,44,44,84
+JAI,AP-3200T-PMCL,area,IMX265,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,55.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,170,44,44,74
+JAI,AP-3200T-USB,area,IMX265,,,8.9,"1/1.8""",3.2,2064.0,1544.0,3.45,3.45,global,38.0,,"Visible, NIR",,,Color,C-mount,USB3,,,,170,44,44,74
+JAI,AP-5100T-5GE,area,IMX548,,Pregius S,8.8,"1/1.8""",5.1,2464.0,2056.0,2.74,2.74,global,32.0,,Visible,,,Color,C-mount,5GigE,,,,215,54,54,74
+JAI,AP-5100T-CXPA,area,IMX548,,Pregius S,8.8,"1/1.8""",5.1,2464.0,2056.0,2.74,2.74,global,75.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,210,54,54,74
+JAI,AP-5100T-MCL,area,IMX548,,Pregius S,8.8,"1/1.8""",5.1,2464.0,2056.0,2.74,2.74,global,55.0,,Visible,,,Color,C-mount,Camera Link,,,,,54,54,74
+JAI,FS-1600D-10GE,area,IMX273,,,6.2,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,226.0,,2-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,FS-1600T-10GE-NNM,area,IMX273,,,6.3,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,213.0,,3-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,CMOS,270,62,62,86.5
+JAI,FS-3200D-10GE,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,123.0,,2-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,FS-3200T-10GE-NNC,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,107.0,,3-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,CMOS,270,62,62,86.5
+JAI,FSFE-1600D-10GE,area,IMX273,,,6.2,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,226.0,,2-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,FSFE-1600T-10GE,area,IMX273,,,6.2,"1/2.9""",1.6,1440.0,1080.0,3.45,3.45,global,213.0,,3-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,FSFE-3200D-10GE,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,123.0,,2-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,FSFE-3200T-10GE,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,107.0,,3-Bands Visible + NIR (Prism),,,Color,C-mount,10GigE,,,,270,62,62,86.5
+JAI,GO-2400C-PGE,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,Visible,,,Color,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-2400C-PGE-1,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-2400C-PMCL,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,46,29,29,51.5
+JAI,GO-2400C-PMCL-1,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-2400C-USB,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,159.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-2400M-PGE,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-2400M-PGE-1,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,48.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-2400M-PMCL,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,46,29,29,51.5
+JAI,GO-2400M-PMCL-1,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,165.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-2400M-USB,area,IMX174,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,159.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-2401C-PGE,area,IMX249,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,Visible,,,Color,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-2401C-PGE-1,area,IMX249,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-2401M-PGE,area,IMX249,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-2401M-PGE-1,area,IMX249,,,13.4,"1/1.2""",2.4,1936.0,1216.0,5.86,5.86,global,41.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5000M-PGE,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5000M-PGE-1,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5000M-PGE-UV-1,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,22.0,,"Visible, UV",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5000M-PMCL,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,107.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,46,29,29,51.5
+JAI,GO-5000M-PMCL-1,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,107.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-5000M-PMCL-UV-1,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,107.0,,"Visible, UV",,,Mono,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-5000M-USB,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,62.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-5000M-USB-UV,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,62.0,,"Visible, UV",,,Mono,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-5100C-PGE,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,Color,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5100C-PGE-1,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5100C-USB,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,74.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-5100M-PGE,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5100M-PGE-1,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5100M-USB,area,IMX250,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,74.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-5100MP-PGE,area,IMX250MZR,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5100MP-USB,area,IMX250MZR,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,74.0,,Visible,,,Mono,C-mount,USB3,PoUSB,,,46,29,29,51.5
+JAI,GO-5101C-PGE,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,Color,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5101C-PGE-1,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5101C-PMCL,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,46,29,29,51.5
+JAI,GO-5101C-PMCL-1,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-5101M-PGE,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,46,29,29,51.5
+JAI,GO-5101M-PGE-1,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,22.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GO-5101M-PMCL,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,46,29,29,51.5
+JAI,GO-5101M-PMCL-1,area,IMX264,,,11.1,"2/3""",5.1,2464.0,2056.0,3.45,3.45,global,35.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,60,29,29,51.5
+JAI,GO-8105M-5GE-UV,area,IMX487-AAMJ,,,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,66.0,,"Visible, UV",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-12401C-PGE,area,IMX304,,,17.5,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,9.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-12401C-USB,area,IMX304,,,17.5,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,23.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-12401M-PGE,area,IMX304,,,17.5,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,9.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-12401M-USB,area,IMX304,,,17.5,"1.1""",12.3,4096.0,3000.0,3.45,3.45,global,23.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-12405C-5GE,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,43.0,,Visible,,,Color,C-mount,5GigE,PoE,,,75,29,29,68
+JAI,GOX-12405C-CXP,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,47.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-12405C-PGE,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,9.0,,Visible,,,Color,C-mount,GigE,PoE,,,94,29,29,55
+JAI,GOX-12405M-5GE,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,43.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-12405M-CXP,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,47.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-12405M-PGE,area,IMX545,,Pregius S,14.0,"1/1.1""",12.4,4128.0,3008.0,2.74,2.74,global,9.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-12409C-PGE,area,IMX226,,Rolling,9.3,"1/1.7""",12.2,4016.0,3036.0,1.85,1.85,rolling,9.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-12409M-PGE,area,IMX226,,Rolling,9.3,"1/1.7""",12.2,4016.0,3036.0,1.85,1.85,rolling,9.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-16205C-5GE,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,33.0,,Visible,,,Color,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-16205C-CXP,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,36.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-16205C-PGE,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,7.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-16205M-5GE,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,33.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-16205M-CXP,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,36.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-16205M-PGE,area,IMX542,,Pregius S,16.8,"1.1""",16.2,5328.0,3040.0,2.74,2.74,global,7.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-20405C-5GE,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,27.0,,Visible,,,Color,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-20405C-CXP,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,29.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-20405C-PGE,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,5.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-20405M-5GE,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,27.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-20405M-CXP,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,29.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-20405M-PGE,area,IMX541,,Pregius S,17.5,"1.1""",20.3,4512.0,4512.0,2.74,2.74,global,5.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-20409C-PGE,area,IMX183,,Rolling,15.8,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-20409M-PGE,area,IMX183,,Rolling,15.8,"1""",20.0,5472.0,3648.0,2.4,2.4,rolling,5.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-2402C-PGE,area,IMX392,,,7.8,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,50.0,,Visible,,,Color,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-2402C-USB,area,IMX392,,,7.8,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,162.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-2402M-PGE,area,IMX392,,,7.8,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,50.0,,"Visible, NIR",,,Mono,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-2402M-USB,area,IMX392,,,7.8,"1/2.3""",2.3,1920.0,1200.0,3.45,3.45,global,162.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-24505C-5GE,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,22.0,,Visible,,,Color,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-24505C-CXP,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,24.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-24505C-PGE,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,4.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-24505M-5GE,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,22.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-24505M-CXP,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,24.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-24505M-PGE,area,IMX540,,Pregius S,19.3,"1.2""",24.5,5328.0,4608.0,2.74,2.74,global,4.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-3200C-USB,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,119.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-3200M-USB,area,IMX252,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,119.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-3201C-PGE,area,IMX265,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,36.0,,Visible,,,Color,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-3201C-USB,area,IMX265,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,55.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-3201M-PGE,area,IMX265,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,36.0,,"Visible, NIR",,,Mono,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-3201M-USB,area,IMX265,,,8.8,"1/1.8""",3.2,2048.0,1536.0,3.45,3.45,global,55.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-5102C-USB,area,IMX250,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,74.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-5102M-USB,area,IMX250,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,74.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-5103C-PGE,area,IMX264,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,22.0,,Visible,,,Color,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-5103C-USB,area,IMX264,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-5103M-PGE,area,IMX264,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,22.0,,"Visible, NIR",,,Mono,"C-mount, CS-mount",GigE,PoE,,,65,29,29,51.5
+JAI,GOX-5103M-USB,area,IMX264,,,11.0,"2/3""",5.0,2448.0,2048.0,3.45,3.45,global,35.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-5105C-5GE,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,103.0,,Visible,,,Color,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-5105C-CXP,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,112.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-5105C-PGE,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,23.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-5105M-5GE,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,103.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-5105M-CXP,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,112.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-5105M-PGE,area,IMX547,,Pregius S,8.8,"1/1.8""",5.1,2472.0,2064.0,2.74,2.74,global,23.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-6409C-PGE,area,IMX178,,Rolling,8.8,"1/1.8""",6.3,3088.0,2064.0,2.4,2.4,rolling,18.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-6409M-PGE,area,IMX178,,Rolling,8.8,"1/1.8""",6.3,3088.0,2064.0,2.4,2.4,rolling,18.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-8105C-5GE,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,66.0,,Visible,,,Color,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-8105C-CXP,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,71.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-8105C-PGE,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,14.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-8105M-5GE,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,66.0,,"Visible, NIR",,,Mono,C-mount,5GigE,PoE,,,94,29,29,68
+JAI,GOX-8105M-CXP,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,71.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,60,29,29,55
+JAI,GOX-8105M-PGE,area,IMX546,,Pregius S,11.1,"2/3""",8.1,2856.0,2848.0,2.74,2.74,global,14.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,55
+JAI,GOX-8901C-PGE,area,IMX267,,,16.0,"1""",8.9,4096.0,2160.0,3.45,3.45,global,12.0,,Visible,,,Color,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-8901C-USB,area,IMX267,,,16.0,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,GOX-8901M-PGE,area,IMX267,,,16.0,"1""",8.9,4096.0,2160.0,3.45,3.45,global,12.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,65,29,29,51.5
+JAI,GOX-8901M-USB,area,IMX267,,,16.0,"1""",8.9,4096.0,2160.0,3.45,3.45,global,32.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,65,29,29,51.5
+JAI,SP-12000C-CXP4,area,CMV12000,,,28.2,,12.0,4096.0,3072.0,5.5,5.5,global,189.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,PoCXP,,,510,62,62,127.5
+JAI,SP-12000M-CXP4,area,CMV12000,,,28.2,,12.0,4096.0,3072.0,5.5,5.5,global,189.0,,Visible,,,Mono,"F-mount, M42x1",CoaXPress,PoCXP,,,510,62,62,127.5
+JAI,SP-12400C-PMCL,area,IMX253,,,17.6,"1.1""",12.4,4112.0,3008.0,3.45,3.45,global,64.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,135,44,44,44
+JAI,SP-12400M-PMCL,area,IMX253,,,17.6,"1.1""",12.4,4112.0,3008.0,3.45,3.45,global,64.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,135,44,44,44
+JAI,SP-12401C-PGE,area,IMX304,,,17.6,"1.1""",12.4,4088.0,3000.0,3.45,3.45,global,9.0,,Visible,,,Color,C-mount,GigE,PoE,,,160,44,44,54
+JAI,SP-12401C-USB,area,IMX304,,,17.6,"1.1""",12.4,4088.0,3000.0,3.45,3.45,global,23.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,130,44,44,44
+JAI,SP-12401M-PGE,area,IMX304,,,17.6,"1.1""",12.4,4112.0,3008.0,3.45,3.45,global,9.0,,"Visible, NIR",,,Mono,C-mount,GigE,PoE,,,160,44,44,54
+JAI,SP-12401M-USB,area,IMX304,,,17.6,"1.1""",12.4,4112.0,3008.0,3.45,3.45,global,23.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,130,44,44,44
+JAI,SP-20000C-CXP2,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,PoCXP,,,350,62,62,84.5
+JAI,SP-20000C-PMCL,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,30.0,,Visible,,,Color,"F-mount, M42x1",Camera Link,PoCL,,,320,62,62,84.5
+JAI,SP-20000C-USB,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,16.0,,Visible,,,Color,"F-mount, M42x1",USB3,,,,350,62,62,84.5
+JAI,SP-20000M-CXP2,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,30.0,,"Visible, NIR",,,Mono,"F-mount, M42x1",CoaXPress,PoCXP,,,350,62,62,84.5
+JAI,SP-20000M-PMCL,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,30.0,,"Visible, NIR",,,Mono,"F-mount, M42x1",Camera Link,PoCL,,,320,62,62,84.5
+JAI,SP-20000M-USB,area,CMV20000,,,41.0,"41.0 mm""",20.0,5120.0,3840.0,6.4,6.4,global,16.0,,"Visible, NIR",,,Mono,"F-mount, M42x1",USB3,,,,350,62,62,84.5
+JAI,SP-25000C-CXP4A,area,GMAX0505,,,18.1,"1.1""",26.2,5120.0,5120.0,2.5,2.5,global,150.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,305,62,62,60.5
+JAI,SP-25000M-CXP4A,area,GMAX0505,,,18.1,"1.1""",26.2,5120.0,5120.0,2.5,2.5,global,150.0,,Visible,,,Mono,C-mount,CoaXPress,PoCXP,,,305,62,62,60.5
+JAI,SP-45000C-CXP4,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,51.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,,,,330,62,62,84
+JAI,SP-45000C-CXP4A,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,52.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,,,,330,62,62,84
+JAI,SP-45000M-CXP4,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,51.0,,"Visible, NIR",,,Mono,"F-mount, M42x1",CoaXPress,PoCXP,,,330,62,62,84
+JAI,SP-45000M-CXP4A,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,52.0,,"Visible, NIR",,,Mono,"F-mount, M42x1",CoaXPress,,,,330,62,62,84
+JAI,SP-45001C-CXP2A,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,38.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,PoCXP,,,330,62,62,84
+JAI,SP-45001C-CXP4,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,38.0,,Visible,,,Color,"F-mount, M42x1",CoaXPress,PoCXP,,,330,62,62,84
+JAI,SP-45001M-CXP2A,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,38.0,,Visible,,,Mono,"F-mount, M42x1",CoaXPress,PoCXP,,,330,62,62,84
+JAI,SP-45001M-CXP4,area,XGS 45000,,,31.5,,45.0,8192.0,5460.0,3.2,3.2,global,38.0,,Visible,,,Mono,"F-mount, M42x1",CoaXPress,,,,330,62,62,84
+JAI,SP-5000C-CXP2,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,211.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,215,62,62,55.5
+JAI,SP-5000C-CXP4,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,253.0,,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,215,62,62,55.5
+JAI,SP-5000C-PMCL,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,137.0,,Visible,,,Color,C-mount,Camera Link,PoCL,,,215,62,62,55.5
+JAI,SP-5000C-USB,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,62.0,,Visible,,,Color,C-mount,USB3,PoUSB,,,255,62,62,55.5
+JAI,SP-5000M-CXP2,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,211.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,215,62,62,55.5
+JAI,SP-5000M-CXP4,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,253.0,,"Visible, NIR",,,Mono,C-mount,CoaXPress,PoCXP,,,215,62,62,55.5
+JAI,SP-5000M-PMCL,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,137.0,,"Visible, NIR",,,Mono,C-mount,Camera Link,PoCL,,,215,62,62,55.5
+JAI,SP-5000M-USB,area,Lince5M,,,16.4,"1""",5.0,2560.0,2048.0,5.0,5.0,global,62.0,,"Visible, NIR",,,Mono,C-mount,USB3,PoUSB,,,255,62,62,55.5
+JAI,SW-16000M-CXP4A,line,GL5016,,,81.9,"81.92 mm""",,,,5.0,5.0,global,,277.0,Visible,,,Mono,M95x1,CoaXPress,,,,1500,115,187,78.8
+JAI,SW-16000TL-CXP4A,line,GL5016,,,81.9,"81.92 mm""",,,,5.0,5.0,global,,100.0,Visible,,,Color,M95x1,CoaXPress,,,,1500,115,187,78.8
+JAI,SW-16001M-MCL,line,GL3516,,2-Step TDI,57.3,"57.34 mm""",,,,3.5,3.5,global,,50.0,Visible,,,Mono,M72x0.75,Camera Link,,,,360,78,78,44.6
+JAI,SW-2005M-5GE,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,172.0,Visible,,,Mono,C-mount,5GigE,PoE,,,185,44,44,64
+JAI,SW-2005M-5GE-NP,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,172.0,Visible,,,Mono,C-mount,5GigE,PoE,,,165,44,44,64
+JAI,SW-2005M-CXP,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,172.0,Visible,,,Mono,C-mount,CoaXPress,PoCXP,,,153,44,44,54
+JAI,SW-2005TL-5GE,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,44.0,Visible,,,Color,C-mount,5GigE,PoE,,,186,44,44,64
+JAI,SW-2005TL-5GE-NP,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,44.0,Visible,,,Color,C-mount,5GigE,PoE,,,165,44,44,64
+JAI,SW-2005TL-CXP,line,GL3504,,,14.3,"14.336 mm""",,,,7.0,7.0,global,,44.0,Visible,,,Color,C-mount,CoaXPress,PoCXP,,,154,44,44,54
+JAI,SW-4000M-PMCL,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,200.0,Visible,,,Mono,"F-mount, M42x1",Camera Link,PoCL,,,320,62,62,84
+JAI,SW-4000TL-10GE,line,,,,30.7,"30.72 mm""",,,,7.5,7.5,global,,66.0,Visible,,,Color,"F-mount, M42x1",10GigE,,,,340,62,62,106
+JAI,SW-4000TL-PMCL,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,66.0,Visible,,,Color,"F-mount, M42x1",Camera Link,PoCL,,,410,62,62,71.8
+JAI,SW-4000TL-SFP,line,,,,30.7,"30.72 mm""",,,,7.5,7.5,global,,66.0,Visible,,,Color,"F-mount, M42x1",10GigE,,,,340,62,62,106
+JAI,SW-4005BL-5GE,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,42.0,Visible,,,Color,C-mount,GigE,,,CMOS,186,44,44,64
+JAI,SW-4005BL-5GE-NP,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,42.0,Visible,,,Color,C-mount,GigE,,,CMOS,165,44,44,64
+JAI,SW-4005BL-CXP,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,42.0,Visible,,,Color,C-mount,CoaXPress,PoCXP,,CMOS,154,44,44,54
+JAI,SW-4005M-5GE,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,84.0,Visible,,,Mono,C-mount,GigE,,,,185,44,44,64
+JAI,SW-4005M-5GE-NP,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,84.0,Visible,,,Mono,C-mount,GigE,,,,165,44,44,64
+JAI,SW-4005M-CXP,line,GL3504,,,14.3,"14.336 mm""",,,,3.5,3.5,global,,84.0,Visible,,,Mono,C-mount,CoaXPress,PoCXP,,,153,44,44,54
+JAI,SW-8000M-PMCL,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,100.0,Visible,,,Mono,"F-mount, M42x1",Camera Link,PoCL,,,320,62,62,84
+JAI,SW-8001M-MCL,line,GL7008,,2-Step TDI,57.3,"57.34 mm""",,,,7.0,7.0,global,,100.0,Visible,,,Mono,M72x0.75,Camera Link,,,,360,78,78,45
+JAI,SW-8001TL-MCL,line,GL7008,,,57.3,"57.34 mm""",,,,7.0,7.0,global,,34.0,Visible,,,Color,M72x0.75,Camera Link,,,,355,78,78,45
+JAI,LQ-201-CL,line,,,,28.7,"28.67 mm""",,,,14.0,14.0,global,,33.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",Camera Link,,,CMOS,1050,90,90,120
+JAI,LQ-401-CL,line,,,,28.7,"28.67 mm""",,,,7.0,7.0,global,,18.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",Camera Link,,,CMOS,1050,90,90,120
+JAI,LT-200-CL,line,,,,28.7,"28.67 mm""",,,,14.0,14.0,global,,30.0,Visible,,,Color,"F-mount, M52",Camera Link,,,,830,90,90,90
+JAI,LT-400-CL,line,,,,28.7,"28.67 mm""",,,,7.0,7.0,global,,16.0,Visible,,,Color,"F-mount, M52",Camera Link,,,,830,90,90,90
+JAI,SW-2001Q-CL,line,,,,28.7,"28.7 mm""",,,,14.0,14.0,global,,19.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",Camera Link,,,,1050,90,90,120
+JAI,SW-2001T-CL,line,,,,28.7,"28.7 mm""",,,,14.0,14.0,global,,19.0,Visible,,,Color,"F-mount, M52",Camera Link,,,,830,90,90,90
+JAI,SW-4000Q-10GE,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,72.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",10GigE,,,CMOS,980,90,90,120
+JAI,SW-4000Q-SFP,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,72.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",10GigE,,,CMOS,980,90,90,120
+JAI,SW-4000T-10GE,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,97.0,Visible,,,Color,"F-mount, M52",10GigE,,,,830,90,90,90
+JAI,SW-4000T-CXPA,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,97.0,Visible,,,Color,"F-mount, M52",CoaXPress,PoCXP,,,790,90,90,90
+JAI,SW-4000T-MCL,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,66.0,Visible,,,Color,"F-mount, M52",Camera Link,,,,765,90,90,90
+JAI,SW-4000T-SFP,line,,,,30.8,"30.72 mm""",,,,7.5,7.5,global,,97.0,Visible,,,Color,"F-mount, M52",10GigE,,,,830,90,90,90
+JAI,SW-4010Q-MCL,line,,,,30.8,"30.72 mm / 25.6 mm""",,,,7.5,7.5,global,,39.0,4-Bands R-G-B + SWIR (Prism),,,Color,M52,Camera Link,,,InGaAs,900,90,90,120
+JAI,SW-8000Q-10GE,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,36.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",10GigE,,,CMOS,980,90,90,120
+JAI,SW-8000Q-SFP,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,36.0,4-Bands R-G-B + NIR (Prism),,,Color,"F-mount, M52",10GigE,,,CMOS,980,90,90,120
+JAI,SW-8000T-10GE,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,49.0,Visible,,,Color,"F-mount, M52",10GigE,,,,840,90,90,90
+JAI,SW-8000T-CXPA,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,49.0,Visible,,,Color,"F-mount, M52",CoaXPress,PoCXP,,,790,90,90,90
+JAI,SW-8000T-SFP,line,,,,30.8,"30.72 mm""",,,,3.75,5.78,global,,49.0,Visible,,,Color,"F-mount, M52",10GigE,,,,840,90,90,90
+JAI,WA-1000D-CL,line,,,,25.7,"25.6 mm""",,,,25.0,25.0,global,,39.0,2-Bands SWIR (Prism),,,Color,M52,Camera Link,,,,910,90,90,117
