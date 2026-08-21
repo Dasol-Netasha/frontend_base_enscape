@@ -1,16 +1,14 @@
 <script setup>
-import ThemeToggleIconBtn from '@/components/molecules/buttons/ThemeToggleIconBtn.vue'
-import { useThemeStore } from '@/stores/themeStore'
+import ButtonNav from '@/components/organisms/nav/ButtonNav.vue'
 
-const themeStore = useThemeStore()
+defineProps({
+	items: {
+		type: Array,
+		default: () => [],
+	},
+})
 </script>
 
 <template>
-	<div class="flex items-center justify-between gap-3">
-		<span class="text-sm font-semibold text-slate-700">Base</span>
-		<ThemeToggleIconBtn
-			:is-dark="themeStore.isDark"
-			@click="themeStore.toggleTheme"
-		/>
-	</div>
+	<ButtonNav v-if="items.length" :items="items" align="center" />
 </template>

@@ -32,7 +32,11 @@ const handleSelect = (item) => {
         :disabled="Boolean(item.disabled)"
         :active="item.key === activeKey"
         @select="handleSelect(item)"
-      />
+      >
+        <template v-if="item.icon" #icon>
+          <component :is="item.icon" />
+        </template>
+      </DropdownItem>
     </template>
   </div>
 </template>

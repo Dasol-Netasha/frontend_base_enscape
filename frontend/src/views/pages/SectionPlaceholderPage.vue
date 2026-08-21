@@ -9,7 +9,7 @@ const description = computed(() => String(route.meta?.description || '해당 화
 </script>
 
 <template>
-  <section class="rounded-2xl border border-white/70 bg-white/80 p-8 shadow-[0_20px_60px_rgba(15,23,42,0.06)] backdrop-blur">
+  <section class="">
     <h1 class="text-2xl font-semibold text-slate-900">{{ title }}</h1>
     <p class="mt-3 text-sm text-slate-600">{{ description }}</p>
   </section>
