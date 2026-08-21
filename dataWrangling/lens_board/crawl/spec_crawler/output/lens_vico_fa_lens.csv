@@ -1,6 +1,0 @@
-﻿brand,lens_type,raw_category,target_key,model,_source_url,_table_index,Focal Length (mm),Aperture (F/#),Max. Sensor Format,Supported Camera Resolution,MOD (mm),Filter Size,TV Distortion,Mount
-Vico,fixed_focal,C-Mount Fixed Focal Length Lenses (FA),vico_fa_lens,MFA118-S06,https://vicoimaging.com/product-category/c-mount-fixed-focal-length-lenses/,vico_row_1,6,1-2.0,"1/1.8""",6M,100,M25.5xP0.5,< 0.1 %,C
-Vico,fixed_focal,C-Mount Fixed Focal Length Lenses (FA),vico_fa_lens,MFA118-S08,https://vicoimaging.com/product-category/c-mount-fixed-focal-length-lenses/,vico_row_2,8,2.8-16,"1/1.8""",6M,100,M27xP0.5,< 0.12 %,C
-Vico,fixed_focal,C-Mount Fixed Focal Length Lenses (FA),vico_fa_lens,MFA118-S12V2,https://vicoimaging.com/product-category/c-mount-fixed-focal-length-lenses/,vico_row_3,12,2.8-16,"1/1.8""",6M,100,M27xP0.5,-0.20 %,C
-Vico,fixed_focal,C-Mount Fixed Focal Length Lenses (FA),vico_fa_lens,MFA118-S16V2,https://vicoimaging.com/product-category/c-mount-fixed-focal-length-lenses/,vico_row_4,16,2.8-16,"1/1.8""",6M,100,M27xP0.5,-0.40 %,C
-Vico,fixed_focal,C-Mount Fixed Focal Length Lenses (FA),vico_fa_lens,MFA118-S25V2,https://vicoimaging.com/product-category/c-mount-fixed-focal-length-lenses/,vico_row_5,25,2.8-16,"1/1.8""",6M,100,M27xP0.5,-0.02 %,C
