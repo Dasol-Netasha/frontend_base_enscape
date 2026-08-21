@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import SectionPlaceholderPage from '@/views/pages/SectionPlaceholderPage.vue'
+import LoginPage from '@/views/pages/LoginPage.vue'
+import { useAuthStore } from '@/stores/authStore'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -8,6 +10,16 @@ const router = createRouter({
     {
       path: '/',
       redirect: '/main',
+    },
+    {
+      path: '/login',
+      name: 'login-page',
+      component: LoginPage,
+      meta: {
+        title: '로그인',
+        public: true,
+        hideChrome: true,
+      },
     },
     {
       path: '/main',
@@ -19,6 +31,20 @@ const router = createRouter({
       },
     },
   ],
+})
+
+router.beforeEach((to) => {
+  const authStore = useAuthStore()
+
+  if (!to.meta.public && !authStore.isAuthenticated) {
+    return { path: '/login' }
+  }
+
+  if (to.name === 'login-page' && authStore.isAuthenticated) {
+    return { path: '/main' }
+  }
+
+  return true
 })
 
 export default router
